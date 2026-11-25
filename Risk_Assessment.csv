@@ -1,0 +1,501 @@
+customer_id,pep_points,sanctions_points,geography_points,identity_document_points,address_document_points,source_of_funds_points,customer_type_points,illustrative_risk_score,illustrative_risk_category,review_status
+CUST0001,0,0,5,10,0,20,0,15,Low,Current
+CUST0002,0,0,15,0,0,10,0,15,Low,Current
+CUST0003,0,0,5,0,0,0,0,20,Low,Current
+CUST0004,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0005,20,0,15,10,10,0,0,55,High,Current
+CUST0006,0,0,10,0,0,10,0,10,Low,Due for Review
+CUST0007,0,0,5,0,0,0,10,15,Low,Due for Review
+CUST0008,0,0,15,10,0,20,0,35,Medium,Overdue
+CUST0009,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0010,0,0,10,15,0,10,0,25,Medium,Due for Review
+CUST0011,0,0,5,0,15,20,0,35,Medium,Overdue
+CUST0012,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0013,20,0,15,0,0,0,0,35,Medium,Due for Review
+CUST0014,0,0,5,0,10,10,0,15,Low,Due for Review
+CUST0015,0,0,10,15,0,10,10,35,Medium,Current
+CUST0016,0,0,5,0,0,15,0,5,Low,Overdue
+CUST0017,0,0,5,0,0,15,0,15,Low,Due for Review
+CUST0018,0,0,15,0,10,10,0,35,Medium,Current
+CUST0019,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0020,0,0,5,10,0,10,0,15,Low,Overdue
+CUST0021,0,0,5,0,0,0,0,5,Low,Current
+CUST0022,0,0,5,0,10,0,0,15,Low,Due for Review
+CUST0023,0,0,5,0,0,0,0,5,Low,Current
+CUST0024,0,0,5,0,10,10,10,25,Medium,Overdue
+CUST0025,0,0,15,0,0,20,0,15,Low,Overdue
+CUST0026,0,0,10,0,10,0,10,30,Medium,Current
+CUST0027,0,0,15,20,0,0,0,35,Medium,Current
+CUST0028,0,0,5,0,0,20,0,5,Low,Current
+CUST0029,0,0,5,0,10,10,0,30,Medium,Due for Review
+CUST0030,0,0,5,0,0,0,0,15,Low,Due for Review
+CUST0031,0,0,5,10,0,20,0,15,Low,Due for Review
+CUST0032,0,25,10,20,0,10,0,55,High,Current
+CUST0033,0,50,5,0,0,0,0,55,High,Current
+CUST0034,0,0,5,0,0,10,10,25,Medium,Overdue
+CUST0035,20,50,5,15,10,0,0,100,High,Current
+CUST0036,0,0,5,20,0,0,0,25,Medium,Due for Review
+CUST0037,0,0,5,0,10,0,10,25,Medium,Overdue
+CUST0038,0,0,5,0,10,20,0,15,Low,Current
+CUST0039,0,0,15,0,10,10,0,25,Medium,Current
+CUST0040,0,0,5,10,0,0,10,25,Medium,Overdue
+CUST0041,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0042,0,0,5,0,0,10,0,5,Low,Current
+CUST0043,0,0,5,20,0,0,10,35,Medium,Current
+CUST0044,0,0,15,0,0,10,10,40,Medium,Due for Review
+CUST0045,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0046,0,0,5,0,0,10,0,5,Low,Due for Review
+CUST0047,0,0,15,0,0,0,0,25,Medium,Due for Review
+CUST0048,0,0,5,0,10,10,0,15,Low,Current
+CUST0049,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0050,0,0,5,20,0,20,10,45,Medium,Current
+CUST0051,0,0,5,0,15,0,0,30,Medium,Due for Review
+CUST0052,20,0,15,0,10,0,0,55,High,Overdue
+CUST0053,20,0,15,10,10,0,0,65,High,Current
+CUST0054,0,0,10,0,10,15,0,30,Medium,Current
+CUST0055,35,0,5,0,0,0,10,50,Medium,Due for Review
+CUST0056,0,0,5,0,0,10,0,5,Low,Current
+CUST0057,0,0,5,10,0,15,0,15,Low,Due for Review
+CUST0058,0,0,5,10,0,0,0,15,Low,Overdue
+CUST0059,0,0,15,0,0,0,0,15,Low,Due for Review
+CUST0060,0,0,15,0,0,0,0,15,Low,Due for Review
+CUST0061,35,0,5,0,0,0,0,50,Medium,Due for Review
+CUST0062,0,0,5,15,0,0,0,20,Low,Overdue
+CUST0063,0,0,5,0,20,0,0,35,Medium,Due for Review
+CUST0064,0,0,15,0,0,10,0,15,Low,Current
+CUST0065,0,0,10,20,0,20,0,40,Medium,Due for Review
+CUST0066,0,0,5,0,0,15,0,5,Low,Current
+CUST0067,20,0,5,15,20,0,0,70,High,Current
+CUST0068,0,0,5,0,10,0,0,15,Low,Overdue
+CUST0069,0,0,5,20,10,0,0,35,Medium,Overdue
+CUST0070,0,0,5,10,0,15,0,25,Medium,Overdue
+CUST0071,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0072,20,0,5,20,15,0,0,70,High,Overdue
+CUST0073,0,0,5,10,0,0,10,25,Medium,Current
+CUST0074,0,0,5,0,10,10,10,25,Medium,Due for Review
+CUST0075,0,0,5,10,0,0,10,25,Medium,Due for Review
+CUST0076,0,0,5,0,0,10,0,5,Low,Overdue
+CUST0077,20,0,5,15,0,10,0,40,Medium,Overdue
+CUST0078,0,0,5,0,0,0,0,5,Low,Current
+CUST0079,0,0,15,0,0,0,0,25,Medium,Current
+CUST0080,0,0,5,0,0,0,0,5,Low,Current
+CUST0081,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0082,0,0,10,0,10,0,0,20,Low,Overdue
+CUST0083,0,0,5,10,0,0,0,25,Medium,Due for Review
+CUST0084,0,0,10,10,10,15,0,40,Medium,Overdue
+CUST0085,20,0,5,0,0,10,0,25,Medium,Current
+CUST0086,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0087,0,0,5,0,10,0,10,35,Medium,Current
+CUST0088,0,0,5,20,10,0,10,45,Medium,Overdue
+CUST0089,0,25,5,10,0,0,0,40,Medium,Overdue
+CUST0090,0,0,15,0,0,15,0,25,Medium,Overdue
+CUST0091,0,0,10,0,0,0,0,20,Low,Current
+CUST0092,0,0,5,0,0,15,10,30,Medium,Overdue
+CUST0093,0,0,15,20,0,20,0,50,Medium,Current
+CUST0094,35,0,15,0,20,0,0,80,High,Due for Review
+CUST0095,0,0,5,0,0,0,0,15,Low,Current
+CUST0096,0,0,15,10,0,10,0,35,Medium,Overdue
+CUST0097,0,0,5,0,10,0,0,25,Medium,Due for Review
+CUST0098,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0099,0,0,5,0,0,0,0,5,Low,Current
+CUST0100,0,0,15,10,0,0,0,35,Medium,Overdue
+CUST0101,0,0,15,0,0,0,0,15,Low,Overdue
+CUST0102,0,0,5,0,0,0,0,15,Low,Current
+CUST0103,0,0,15,10,10,10,0,55,High,Due for Review
+CUST0104,0,0,5,0,10,0,0,15,Low,Due for Review
+CUST0105,0,0,5,10,0,20,0,25,Medium,Current
+CUST0106,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0107,20,25,5,0,10,0,0,60,High,Due for Review
+CUST0108,0,0,5,0,0,0,0,15,Low,Overdue
+CUST0109,0,0,5,0,10,0,0,25,Medium,Due for Review
+CUST0110,0,0,5,0,0,0,10,25,Medium,Due for Review
+CUST0111,0,0,5,10,15,15,0,45,Medium,Current
+CUST0112,20,0,10,10,10,0,0,65,High,Due for Review
+CUST0113,0,0,15,0,0,10,0,25,Medium,Current
+CUST0114,0,0,15,0,0,0,0,15,Low,Current
+CUST0115,0,0,5,0,10,0,10,25,Medium,Due for Review
+CUST0116,0,0,5,0,0,0,10,25,Medium,Due for Review
+CUST0117,0,0,15,15,0,0,0,30,Medium,Due for Review
+CUST0118,35,0,10,0,0,15,0,55,High,Current
+CUST0119,0,0,15,0,0,0,0,35,Medium,Due for Review
+CUST0120,0,0,5,0,10,0,0,15,Low,Current
+CUST0121,0,0,15,0,15,0,0,40,Medium,Due for Review
+CUST0122,0,0,15,0,10,0,0,25,Medium,Overdue
+CUST0123,0,0,5,0,0,0,10,35,Medium,Overdue
+CUST0124,0,0,15,10,0,0,0,25,Medium,Current
+CUST0125,0,0,5,0,0,10,0,5,Low,Current
+CUST0126,35,0,5,0,20,10,0,80,High,Overdue
+CUST0127,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0128,0,0,5,0,15,0,0,20,Low,Overdue
+CUST0129,0,0,10,0,10,10,0,30,Medium,Due for Review
+CUST0130,0,0,5,10,0,0,0,15,Low,Current
+CUST0131,20,0,5,20,10,0,0,55,High,Overdue
+CUST0132,0,0,5,0,10,10,0,35,Medium,Current
+CUST0133,0,0,10,10,0,20,10,30,Medium,Due for Review
+CUST0134,0,0,5,10,0,15,0,35,Medium,Due for Review
+CUST0135,0,0,5,10,10,10,0,25,Medium,Overdue
+CUST0136,0,0,5,0,0,0,0,15,Low,Current
+CUST0137,0,0,5,10,0,0,0,15,Low,Overdue
+CUST0138,0,0,5,0,0,0,0,5,Low,Current
+CUST0139,0,0,5,10,0,10,10,35,Medium,Current
+CUST0140,0,0,5,10,0,10,0,15,Low,Due for Review
+CUST0141,0,0,5,20,0,0,0,25,Medium,Overdue
+CUST0142,0,0,5,0,0,0,0,15,Low,Overdue
+CUST0143,0,0,15,0,0,15,10,25,Medium,Overdue
+CUST0144,0,0,5,0,0,0,0,15,Low,Current
+CUST0145,0,0,5,0,0,20,0,5,Low,Due for Review
+CUST0146,20,0,15,0,0,0,0,55,High,Due for Review
+CUST0147,20,0,10,10,0,0,0,40,Medium,Overdue
+CUST0148,0,0,10,0,20,0,0,30,Medium,Current
+CUST0149,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0150,0,0,10,0,0,10,0,10,Low,Due for Review
+CUST0151,0,0,5,0,10,0,10,25,Medium,Overdue
+CUST0152,0,0,5,10,0,15,10,35,Medium,Due for Review
+CUST0153,0,0,5,0,10,15,0,15,Low,Overdue
+CUST0154,20,0,5,0,0,20,0,25,Medium,Current
+CUST0155,20,25,5,0,0,0,10,60,High,Due for Review
+CUST0156,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0157,0,0,5,0,10,10,0,15,Low,Overdue
+CUST0158,0,0,5,0,0,0,10,15,Low,Due for Review
+CUST0159,0,0,15,0,0,0,10,35,Medium,Due for Review
+CUST0160,0,0,5,0,0,10,0,5,Low,Current
+CUST0161,0,0,5,0,20,0,0,25,Medium,Overdue
+CUST0162,0,0,5,0,0,0,0,5,Low,Current
+CUST0163,0,0,15,10,0,0,0,25,Medium,Current
+CUST0164,0,0,10,0,0,10,0,10,Low,Overdue
+CUST0165,0,0,5,0,10,0,0,30,Medium,Overdue
+CUST0166,0,0,5,15,0,15,10,40,Medium,Overdue
+CUST0167,0,0,5,0,0,0,0,15,Low,Overdue
+CUST0168,0,0,5,0,0,0,10,15,Low,Overdue
+CUST0169,0,0,5,0,0,10,0,5,Low,Current
+CUST0170,0,0,5,0,0,0,0,25,Medium,Overdue
+CUST0171,0,0,5,0,0,0,10,15,Low,Due for Review
+CUST0172,0,0,5,10,10,0,0,25,Medium,Overdue
+CUST0173,0,0,5,10,0,0,0,15,Low,Current
+CUST0174,20,0,15,0,0,0,0,45,Medium,Current
+CUST0175,0,0,5,0,0,10,0,5,Low,Current
+CUST0176,0,0,5,0,10,0,10,40,Medium,Due for Review
+CUST0177,0,0,5,0,0,0,0,15,Low,Overdue
+CUST0178,0,0,15,0,0,0,0,15,Low,Current
+CUST0179,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0180,0,0,5,10,0,20,10,25,Medium,Current
+CUST0181,0,0,5,0,10,10,0,15,Low,Overdue
+CUST0182,0,25,10,10,0,0,0,45,Medium,Current
+CUST0183,0,0,15,0,0,20,0,35,Medium,Overdue
+CUST0184,0,0,5,0,0,0,10,15,Low,Overdue
+CUST0185,20,0,5,0,0,10,0,25,Medium,Overdue
+CUST0186,0,0,5,10,0,0,0,15,Low,Overdue
+CUST0187,0,0,5,0,0,10,10,30,Medium,Due for Review
+CUST0188,0,0,5,20,10,0,0,45,Medium,Current
+CUST0189,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0190,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0191,0,0,5,0,0,10,0,15,Low,Due for Review
+CUST0192,0,0,5,10,0,0,0,25,Medium,Overdue
+CUST0193,0,0,5,0,10,10,0,35,Medium,Overdue
+CUST0194,0,25,5,0,10,10,0,60,High,Overdue
+CUST0195,0,0,5,0,10,10,0,15,Low,Overdue
+CUST0196,0,0,5,0,0,0,0,5,Low,Current
+CUST0197,20,0,15,0,20,0,10,80,High,Due for Review
+CUST0198,0,0,15,0,10,0,10,50,Medium,Current
+CUST0199,0,0,5,0,0,0,10,15,Low,Overdue
+CUST0200,0,0,5,10,10,0,0,25,Medium,Due for Review
+CUST0201,0,0,10,0,0,0,0,10,Low,Current
+CUST0202,0,0,5,10,0,0,0,15,Low,Overdue
+CUST0203,20,0,5,10,0,0,0,45,Medium,Current
+CUST0204,0,0,5,15,0,10,0,20,Low,Overdue
+CUST0205,0,0,5,10,0,0,0,15,Low,Current
+CUST0206,0,0,5,0,0,10,0,5,Low,Current
+CUST0207,0,0,5,0,0,0,0,25,Medium,Current
+CUST0208,0,0,5,20,0,10,0,25,Medium,Overdue
+CUST0209,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0210,0,0,10,10,20,0,10,50,Medium,Current
+CUST0211,0,0,5,0,10,0,0,25,Medium,Overdue
+CUST0212,0,0,5,0,0,10,0,20,Low,Overdue
+CUST0213,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0214,0,25,10,10,0,0,0,55,High,Due for Review
+CUST0215,0,0,5,0,15,0,0,20,Low,Overdue
+CUST0216,0,0,10,0,0,20,0,10,Low,Due for Review
+CUST0217,0,0,10,0,15,0,0,25,Medium,Overdue
+CUST0218,0,0,5,10,0,15,0,35,Medium,Due for Review
+CUST0219,0,0,5,0,10,0,0,15,Low,Due for Review
+CUST0220,0,0,15,0,0,15,10,25,Medium,Current
+CUST0221,0,0,5,0,0,0,0,5,Low,Current
+CUST0222,0,0,15,0,0,10,0,25,Medium,Due for Review
+CUST0223,0,0,5,0,0,20,10,15,Low,Current
+CUST0224,0,25,15,0,0,10,0,55,High,Overdue
+CUST0225,0,0,15,0,10,10,0,35,Medium,Current
+CUST0226,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0227,0,0,5,0,0,0,10,15,Low,Current
+CUST0228,0,0,5,0,0,20,0,5,Low,Overdue
+CUST0229,0,0,5,10,0,0,0,15,Low,Due for Review
+CUST0230,20,0,5,0,0,20,0,25,Medium,Due for Review
+CUST0231,20,0,5,0,10,0,0,45,Medium,Overdue
+CUST0232,0,0,5,0,10,20,10,25,Medium,Due for Review
+CUST0233,0,0,15,10,20,0,0,45,Medium,Overdue
+CUST0234,0,0,5,10,10,0,0,25,Medium,Overdue
+CUST0235,0,25,5,0,0,0,0,45,Medium,Current
+CUST0236,0,0,15,20,0,10,0,35,Medium,Due for Review
+CUST0237,0,0,15,0,0,0,0,15,Low,Current
+CUST0238,0,0,5,0,0,20,0,5,Low,Current
+CUST0239,20,0,15,15,0,0,0,50,Medium,Current
+CUST0240,0,0,5,0,0,10,0,5,Low,Due for Review
+CUST0241,0,0,5,15,10,0,10,40,Medium,Due for Review
+CUST0242,0,0,15,0,0,10,0,15,Low,Due for Review
+CUST0243,0,25,5,10,0,0,0,40,Medium,Current
+CUST0244,20,0,5,0,20,0,0,45,Medium,Overdue
+CUST0245,0,0,5,0,0,0,0,15,Low,Due for Review
+CUST0246,0,0,5,0,0,20,0,5,Low,Current
+CUST0247,0,0,5,0,0,0,10,25,Medium,Due for Review
+CUST0248,0,0,5,0,0,0,0,15,Low,Overdue
+CUST0249,0,0,5,15,0,0,0,20,Low,Overdue
+CUST0250,0,0,5,0,0,0,0,20,Low,Due for Review
+CUST0251,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0252,0,0,10,10,0,0,0,20,Low,Current
+CUST0253,0,0,5,10,0,0,0,15,Low,Due for Review
+CUST0254,0,0,5,0,0,15,0,15,Low,Due for Review
+CUST0255,0,0,15,0,10,10,0,35,Medium,Overdue
+CUST0256,0,0,5,10,0,20,10,25,Medium,Overdue
+CUST0257,0,0,5,20,0,15,0,25,Medium,Due for Review
+CUST0258,0,0,5,0,10,10,0,15,Low,Current
+CUST0259,0,0,5,0,0,0,0,20,Low,Overdue
+CUST0260,0,0,15,0,0,0,10,25,Medium,Overdue
+CUST0261,0,0,5,0,10,10,0,35,Medium,Current
+CUST0262,20,0,15,10,10,0,0,55,High,Current
+CUST0263,0,0,5,0,10,0,0,15,Low,Overdue
+CUST0264,0,0,5,0,0,0,10,15,Low,Due for Review
+CUST0265,0,50,5,0,0,0,10,65,High,Overdue
+CUST0266,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0267,0,0,15,0,15,10,0,30,Medium,Current
+CUST0268,0,0,5,0,20,10,0,25,Medium,Overdue
+CUST0269,0,0,5,0,10,15,0,25,Medium,Due for Review
+CUST0270,0,0,5,10,10,0,10,35,Medium,Overdue
+CUST0271,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0272,0,0,5,0,0,20,0,5,Low,Due for Review
+CUST0273,0,0,5,0,0,15,0,5,Low,Current
+CUST0274,0,0,5,0,0,15,10,15,Low,Current
+CUST0275,0,0,5,10,0,0,0,15,Low,Due for Review
+CUST0276,0,0,5,10,0,20,0,15,Low,Due for Review
+CUST0277,0,0,15,0,0,15,0,25,Medium,Current
+CUST0278,0,0,5,0,0,20,0,5,Low,Overdue
+CUST0279,0,25,5,10,0,0,0,60,High,Due for Review
+CUST0280,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0281,0,0,15,10,0,0,0,25,Medium,Overdue
+CUST0282,0,0,10,0,0,0,0,10,Low,Overdue
+CUST0283,0,0,10,0,0,0,0,20,Low,Current
+CUST0284,0,0,5,0,10,15,0,15,Low,Overdue
+CUST0285,0,0,10,0,0,10,0,10,Low,Current
+CUST0286,0,0,10,0,0,10,10,20,Low,Current
+CUST0287,0,0,5,0,0,15,0,5,Low,Due for Review
+CUST0288,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0289,0,0,15,10,0,10,0,25,Medium,Current
+CUST0290,0,0,5,0,20,15,0,25,Medium,Current
+CUST0291,0,0,15,10,0,0,10,35,Medium,Overdue
+CUST0292,0,0,5,0,10,0,10,25,Medium,Overdue
+CUST0293,20,0,10,0,15,10,10,55,High,Overdue
+CUST0294,0,0,15,0,10,0,0,35,Medium,Current
+CUST0295,0,0,15,0,10,20,0,25,Medium,Overdue
+CUST0296,0,25,5,0,0,0,0,45,Medium,Due for Review
+CUST0297,0,0,5,0,0,0,0,5,Low,Current
+CUST0298,20,0,5,0,0,20,0,25,Medium,Due for Review
+CUST0299,0,0,15,0,10,0,0,45,Medium,Due for Review
+CUST0300,0,0,5,0,0,0,0,5,Low,Current
+CUST0301,0,0,5,0,10,0,0,15,Low,Overdue
+CUST0302,0,0,5,0,0,20,0,5,Low,Current
+CUST0303,0,0,5,10,0,0,10,40,Medium,Due for Review
+CUST0304,0,0,5,0,0,20,10,15,Low,Due for Review
+CUST0305,0,0,10,20,0,0,0,30,Medium,Current
+CUST0306,0,0,5,0,10,0,0,15,Low,Current
+CUST0307,0,0,10,0,15,0,0,40,Medium,Overdue
+CUST0308,0,0,5,0,20,0,0,25,Medium,Due for Review
+CUST0309,0,0,5,0,10,0,0,35,Medium,Overdue
+CUST0310,0,0,5,20,0,0,10,35,Medium,Due for Review
+CUST0311,0,0,5,0,20,10,10,35,Medium,Overdue
+CUST0312,20,0,5,0,10,10,0,35,Medium,Current
+CUST0313,0,0,5,10,0,0,0,25,Medium,Current
+CUST0314,20,0,5,0,0,0,0,35,Medium,Current
+CUST0315,0,0,15,0,10,0,0,35,Medium,Current
+CUST0316,0,0,5,0,0,0,10,15,Low,Current
+CUST0317,0,0,15,0,0,15,0,15,Low,Current
+CUST0318,0,0,5,0,10,10,0,15,Low,Due for Review
+CUST0319,0,0,5,10,10,10,0,25,Medium,Current
+CUST0320,0,25,15,0,0,0,10,60,High,Due for Review
+CUST0321,0,0,15,0,0,0,10,25,Medium,Due for Review
+CUST0322,0,0,10,0,10,20,0,30,Medium,Due for Review
+CUST0323,0,0,5,0,0,0,0,5,Low,Current
+CUST0324,20,0,15,0,0,0,0,45,Medium,Overdue
+CUST0325,0,0,5,0,0,10,10,15,Low,Due for Review
+CUST0326,0,0,15,0,0,10,10,25,Medium,Due for Review
+CUST0327,0,0,5,20,0,0,0,25,Medium,Overdue
+CUST0328,0,0,15,0,10,10,0,40,Medium,Overdue
+CUST0329,0,0,5,20,15,20,0,40,Medium,Overdue
+CUST0330,0,0,5,20,10,10,0,35,Medium,Current
+CUST0331,0,0,5,15,0,0,0,20,Low,Overdue
+CUST0332,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0333,0,0,5,0,0,15,0,5,Low,Current
+CUST0334,0,0,5,10,0,10,0,25,Medium,Current
+CUST0335,0,0,5,15,0,0,0,20,Low,Overdue
+CUST0336,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0337,0,0,5,0,10,0,0,15,Low,Overdue
+CUST0338,35,0,5,0,10,20,10,60,High,Current
+CUST0339,0,0,15,0,0,20,0,15,Low,Due for Review
+CUST0340,0,0,5,10,0,0,0,15,Low,Current
+CUST0341,0,0,5,0,0,10,10,25,Medium,Due for Review
+CUST0342,0,0,15,0,0,0,0,15,Low,Overdue
+CUST0343,0,0,10,0,0,0,0,10,Low,Current
+CUST0344,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0345,0,0,5,0,0,10,0,5,Low,Due for Review
+CUST0346,0,0,15,0,0,10,0,25,Medium,Current
+CUST0347,0,0,5,0,0,0,0,20,Low,Overdue
+CUST0348,0,0,15,15,0,0,0,40,Medium,Current
+CUST0349,0,0,5,0,0,0,0,20,Low,Due for Review
+CUST0350,0,0,5,0,10,0,0,25,Medium,Due for Review
+CUST0351,0,0,5,0,0,10,10,15,Low,Overdue
+CUST0352,0,0,5,10,0,10,0,15,Low,Overdue
+CUST0353,0,0,10,0,0,20,0,10,Low,Due for Review
+CUST0354,0,0,5,10,0,0,0,15,Low,Current
+CUST0355,0,0,15,10,0,0,0,25,Medium,Overdue
+CUST0356,0,0,5,0,0,10,0,15,Low,Due for Review
+CUST0357,0,0,5,0,0,20,0,5,Low,Overdue
+CUST0358,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0359,0,0,5,10,0,0,0,15,Low,Due for Review
+CUST0360,20,0,5,0,0,10,0,25,Medium,Due for Review
+CUST0361,0,0,5,0,10,20,0,15,Low,Current
+CUST0362,0,0,15,0,10,0,0,25,Medium,Overdue
+CUST0363,0,0,5,0,0,20,0,5,Low,Due for Review
+CUST0364,0,0,5,0,0,10,0,5,Low,Current
+CUST0365,0,0,5,20,0,0,0,25,Medium,Current
+CUST0366,0,0,5,0,0,0,0,15,Low,Current
+CUST0367,0,0,5,0,15,10,0,30,Medium,Due for Review
+CUST0368,20,0,15,0,10,0,10,75,High,Overdue
+CUST0369,0,0,5,0,10,10,10,35,Medium,Due for Review
+CUST0370,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0371,0,0,5,20,0,0,10,35,Medium,Overdue
+CUST0372,0,0,5,0,0,15,0,5,Low,Current
+CUST0373,20,0,5,10,0,0,10,65,High,Overdue
+CUST0374,0,0,5,0,0,10,0,25,Medium,Current
+CUST0375,0,0,15,0,10,0,0,35,Medium,Due for Review
+CUST0376,20,25,10,15,0,0,0,80,High,Due for Review
+CUST0377,0,0,10,0,0,0,10,20,Low,Due for Review
+CUST0378,0,0,5,15,10,0,0,30,Medium,Current
+CUST0379,0,0,15,0,20,0,10,55,High,Current
+CUST0380,0,0,5,10,20,0,0,35,Medium,Overdue
+CUST0381,0,0,5,0,10,0,0,25,Medium,Current
+CUST0382,0,0,5,0,0,15,0,5,Low,Due for Review
+CUST0383,0,0,5,10,0,0,0,15,Low,Overdue
+CUST0384,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0385,0,0,5,10,0,0,0,15,Low,Due for Review
+CUST0386,20,0,5,0,0,10,10,35,Medium,Current
+CUST0387,0,0,15,0,0,20,0,25,Medium,Overdue
+CUST0388,0,0,5,0,0,0,0,5,Low,Current
+CUST0389,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0390,0,0,15,0,10,0,0,25,Medium,Due for Review
+CUST0391,0,0,15,15,20,0,10,60,High,Current
+CUST0392,0,0,5,0,0,0,0,5,Low,Current
+CUST0393,0,0,5,0,0,0,0,15,Low,Due for Review
+CUST0394,0,0,5,0,15,0,10,40,Medium,Current
+CUST0395,0,0,5,0,0,15,0,15,Low,Due for Review
+CUST0396,0,0,5,0,0,10,0,5,Low,Due for Review
+CUST0397,0,0,15,0,0,10,10,25,Medium,Due for Review
+CUST0398,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0399,0,0,5,0,0,0,0,15,Low,Current
+CUST0400,0,0,5,0,0,0,0,5,Low,Current
+CUST0401,0,0,5,0,0,15,0,5,Low,Overdue
+CUST0402,0,0,15,0,0,0,10,25,Medium,Current
+CUST0403,0,0,5,0,0,10,0,15,Low,Current
+CUST0404,0,0,5,0,15,0,0,20,Low,Overdue
+CUST0405,0,0,5,10,0,0,0,15,Low,Current
+CUST0406,20,25,10,0,0,0,0,55,High,Current
+CUST0407,0,0,5,0,10,0,0,35,Medium,Due for Review
+CUST0408,0,0,10,0,0,0,0,10,Low,Due for Review
+CUST0409,0,0,5,0,0,10,10,15,Low,Due for Review
+CUST0410,0,0,5,10,0,10,0,15,Low,Due for Review
+CUST0411,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0412,0,0,5,15,0,10,0,35,Medium,Overdue
+CUST0413,0,0,5,0,0,15,0,5,Low,Current
+CUST0414,0,0,5,0,0,0,0,5,Low,Current
+CUST0415,0,0,5,0,10,10,0,15,Low,Due for Review
+CUST0416,0,0,10,10,0,0,10,45,Medium,Current
+CUST0417,0,0,5,10,20,0,0,35,Medium,Due for Review
+CUST0418,0,0,5,0,20,0,0,25,Medium,Overdue
+CUST0419,0,0,15,0,10,10,0,25,Medium,Current
+CUST0420,0,0,5,10,0,0,0,25,Medium,Due for Review
+CUST0421,0,0,5,0,20,10,0,25,Medium,Current
+CUST0422,20,0,5,0,0,0,0,45,Medium,Overdue
+CUST0423,0,0,10,20,10,10,0,40,Medium,Current
+CUST0424,0,0,5,0,0,10,10,15,Low,Overdue
+CUST0425,0,0,15,15,0,0,0,40,Medium,Current
+CUST0426,0,0,15,10,0,10,0,25,Medium,Due for Review
+CUST0427,20,0,5,10,0,0,0,35,Medium,Overdue
+CUST0428,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0429,0,0,10,0,10,20,0,20,Low,Due for Review
+CUST0430,0,0,15,10,0,0,0,25,Medium,Overdue
+CUST0431,0,0,5,0,10,10,0,15,Low,Overdue
+CUST0432,0,0,5,0,10,10,0,15,Low,Overdue
+CUST0433,0,0,5,15,0,0,0,20,Low,Current
+CUST0434,0,0,5,0,0,0,0,5,Low,Current
+CUST0435,0,0,5,0,10,10,0,15,Low,Due for Review
+CUST0436,0,0,15,10,10,0,0,35,Medium,Due for Review
+CUST0437,0,0,5,0,0,10,0,25,Medium,Current
+CUST0438,0,0,5,0,15,0,0,30,Medium,Due for Review
+CUST0439,0,0,5,0,10,0,0,15,Low,Due for Review
+CUST0440,0,0,5,0,0,10,0,5,Low,Overdue
+CUST0441,0,0,5,10,0,0,10,25,Medium,Overdue
+CUST0442,0,0,5,20,0,15,0,25,Medium,Current
+CUST0443,0,0,10,0,0,0,0,20,Low,Overdue
+CUST0444,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0445,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0446,0,0,15,0,0,0,10,40,Medium,Due for Review
+CUST0447,0,0,10,0,0,0,0,10,Low,Current
+CUST0448,0,0,15,0,0,0,0,15,Low,Due for Review
+CUST0449,0,0,10,0,0,20,0,25,Medium,Due for Review
+CUST0450,0,0,5,0,10,10,0,15,Low,Due for Review
+CUST0451,20,0,5,0,10,15,0,35,Medium,Current
+CUST0452,0,0,5,0,0,0,0,5,Low,Current
+CUST0453,0,0,5,0,0,20,0,5,Low,Overdue
+CUST0454,35,0,5,0,0,0,0,50,Medium,Current
+CUST0455,35,0,5,10,15,0,0,80,High,Due for Review
+CUST0456,20,0,15,0,0,10,0,35,Medium,Overdue
+CUST0457,0,0,15,0,0,0,0,25,Medium,Due for Review
+CUST0458,0,0,5,10,10,0,10,55,High,Overdue
+CUST0459,0,0,5,0,20,0,0,35,Medium,Due for Review
+CUST0460,0,0,5,0,0,0,10,25,Medium,Due for Review
+CUST0461,0,0,15,0,10,15,0,25,Medium,Overdue
+CUST0462,0,0,10,0,0,10,0,10,Low,Overdue
+CUST0463,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0464,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0465,0,0,5,0,10,10,0,15,Low,Overdue
+CUST0466,0,0,10,0,20,10,0,30,Medium,Due for Review
+CUST0467,0,0,10,0,10,0,0,30,Medium,Due for Review
+CUST0468,0,0,5,0,0,0,0,15,Low,Overdue
+CUST0469,0,0,15,0,15,0,0,45,Medium,Overdue
+CUST0470,0,0,5,0,0,0,10,15,Low,Due for Review
+CUST0471,0,0,5,0,20,0,0,25,Medium,Overdue
+CUST0472,0,0,5,10,0,0,0,35,Medium,Overdue
+CUST0473,0,0,5,0,10,0,0,15,Low,Due for Review
+CUST0474,20,0,5,0,15,0,10,50,Medium,Current
+CUST0475,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0476,0,0,5,0,0,0,10,15,Low,Due for Review
+CUST0477,0,0,5,10,0,15,0,15,Low,Current
+CUST0478,0,0,15,0,0,0,0,15,Low,Due for Review
+CUST0479,0,0,5,0,0,0,0,20,Low,Due for Review
+CUST0480,0,0,5,0,0,0,0,5,Low,Current
+CUST0481,20,0,5,0,10,10,0,45,Medium,Overdue
+CUST0482,0,0,5,0,10,0,10,45,Medium,Overdue
+CUST0483,0,0,5,0,20,15,0,25,Medium,Overdue
+CUST0484,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0485,0,0,5,0,0,15,0,5,Low,Overdue
+CUST0486,0,0,5,10,0,0,10,35,Medium,Overdue
+CUST0487,0,0,15,15,10,15,0,40,Medium,Current
+CUST0488,0,0,5,10,0,0,0,25,Medium,Due for Review
+CUST0489,0,0,5,0,0,0,0,15,Low,Due for Review
+CUST0490,0,0,15,0,0,0,0,15,Low,Due for Review
+CUST0491,20,0,5,0,0,0,0,40,Medium,Current
+CUST0492,0,0,5,0,0,0,10,15,Low,Current
+CUST0493,0,0,5,0,10,15,0,30,Medium,Overdue
+CUST0494,0,0,5,0,0,10,0,5,Low,Current
+CUST0495,20,0,5,0,0,0,0,40,Medium,Due for Review
+CUST0496,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0497,0,0,5,0,0,0,0,5,Low,Due for Review
+CUST0498,0,0,5,0,0,0,0,5,Low,Overdue
+CUST0499,0,0,5,0,0,10,10,15,Low,Overdue
+CUST0500,0,0,5,0,0,10,10,15,Low,Current

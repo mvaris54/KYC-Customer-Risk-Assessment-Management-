@@ -1,0 +1,501 @@
+customer_id,customer_type,customer_name,date_of_birth_or_incorporation,nationality_or_registration_country,residence_city,occupation_or_business_activity,declared_source_of_funds,estimated_annual_income_aed,onboarding_date,pep_status,sanctions_screening_status,source_of_funds_verification_status
+CUST0001,Individual,Neha Lewis,1993-01-18,UAE,Dubai,Business Owner,Business Income,35000,2026-01-17,No Match,Clear,Rejected
+CUST0002,Individual,Ishaan Wilson,1960-09-10,Nigeria,Abuja,Business Owner,Inheritance,500000,2026-05-16,No Match,Clear,Pending
+CUST0003,Individual,Neha Verma,1984-07-09,UAE,Abu Dhabi,Self-Employed,Inheritance,50000,2026-02-06,No Match,Clear,Verified
+CUST0004,Individual,Fatima Brown,1969-03-17,Singapore,Singapore,Retired,Inheritance,250000,2026-05-15,No Match,Clear,Verified
+CUST0005,Individual,Sara Taylor,1965-08-01,Nigeria,Abuja,Salaried Employee,Salary,150000,2026-05-17,Potential Match,Clear,Verified
+CUST0006,Individual,Lucas Mehta,1963-11-16,Turkey,Istanbul,Self-Employed,Salary,500000,2026-02-10,No Match,Clear,Pending
+CUST0007,Corporate,Apex Holdings 7,2022-06-03,Germany,Munich,Business Owner,Business Income,25000,2026-01-04,No Match,Clear,Verified
+CUST0008,Individual,Omar Singh,1970-04-07,Nigeria,Lagos,Company Director,Other,250000,2026-02-20,No Match,Clear,Rejected
+CUST0009,Individual,Aarav Wilson,1971-08-10,UAE,Dubai,Business Owner,Investment Returns,50000,2026-07-25,No Match,Clear,Verified
+CUST0010,Individual,Ishaan Reddy,1992-10-02,Turkey,Istanbul,Real Estate Investor,Investment Returns,75000,2026-02-04,No Match,Clear,Pending
+CUST0011,Individual,Aisha Mehta,1977-02-08,United Kingdom,Birmingham,Business Owner,Inheritance,75000,2026-02-07,No Match,Clear,Rejected
+CUST0012,Individual,Emma Nair,1958-02-21,Canada,Montreal,Business Owner,Inheritance,100000,2026-06-25,No Match,Clear,Verified
+CUST0013,Individual,Zain Patel,1977-04-22,Nigeria,Lagos,Real Estate Investor,Property Sale,25000,2026-08-09,Potential Match,Clear,Verified
+CUST0014,Individual,Noah Brown,1974-04-08,India,Pune,Consultant,Business Income,75000,2026-01-20,No Match,Clear,Pending
+CUST0015,Corporate,Summit Group 15,1998-07-19,Turkey,Ankara,Real Estate Investor,Investment Returns,150000,2026-08-11,No Match,Clear,Pending
+CUST0016,Individual,Liam Wilson,1998-12-06,Germany,Frankfurt,Student,Business Income,50000,2026-06-01,No Match,Clear,Expired
+CUST0017,Individual,Sara Reddy,1967-03-01,Germany,Munich,Real Estate Investor,Other,75000,2026-06-21,No Match,Clear,Expired
+CUST0018,Individual,Noah Mehta,1984-11-17,Pakistan,Lahore,Business Owner,Salary,75000,2026-08-26,No Match,Clear,Pending
+CUST0019,Individual,Rohan Gupta,1959-07-14,Canada,Montreal,Student,Investment Returns,75000,2026-03-12,No Match,Clear,Verified
+CUST0020,Individual,Liam Clark,1956-07-11,India,Delhi,Company Director,Property Sale,75000,2026-04-23,No Match,Clear,Pending
+CUST0021,Individual,Aditya Clark,1956-12-18,India,Mumbai,Salaried Employee,Property Sale,250000,2026-07-14,No Match,Clear,Verified
+CUST0022,Individual,Mia Sharma,1974-10-22,Malaysia,Kuala Lumpur,Consultant,Salary,100000,2026-02-28,No Match,Clear,Verified
+CUST0023,Individual,Zain Martin,2000-03-14,Malaysia,Kuala Lumpur,Company Director,Investment Returns,35000,2026-08-04,No Match,Clear,Verified
+CUST0024,Corporate,Cedar Group 24,2017-05-18,UAE,Abu Dhabi,Company Director,Property Sale,100000,2026-04-19,No Match,Clear,Pending
+CUST0025,Individual,Noah Nair,1974-05-08,Pakistan,Lahore,Consultant,Property Sale,150000,2026-06-26,No Match,Clear,Rejected
+CUST0026,Trust,Northstar Ventures 26,1998-01-19,Turkey,Ankara,Self-Employed,Other,100000,2026-01-24,No Match,Clear,Verified
+CUST0027,Individual,Fatima Martin,1983-05-28,Nigeria,Abuja,Real Estate Investor,Inheritance,75000,2026-10-13,No Match,Clear,Verified
+CUST0028,Individual,Neha Nair,1995-10-22,United Kingdom,London,Retired,Salary,500000,2026-05-25,No Match,Clear,Rejected
+CUST0029,Individual,Aditya Patel,1982-12-11,Canada,Montreal,Business Owner,Investment Returns,500000,2026-09-14,No Match,Clear,Pending
+CUST0030,Individual,Liam Hassan,1975-11-04,Malaysia,Kuala Lumpur,Retired,Property Sale,500000,2026-09-09,No Match,Clear,Verified
+CUST0031,Individual,Noah Patel,1968-05-18,Canada,Vancouver,Salaried Employee,Other,500000,2026-09-23,No Match,Clear,Rejected
+CUST0032,Individual,Emma Clark,1970-08-18,Turkey,Istanbul,Business Owner,Investment Returns,100000,2026-05-30,No Match,Potential Match,Pending
+CUST0033,Individual,Ananya Reddy,1991-07-08,Canada,Montreal,Retired,Property Sale,500000,2026-10-06,No Match,Confirmed Match,Verified
+CUST0034,Corporate,Bluewave Trading 34,2005-10-23,United Kingdom,Birmingham,Retired,Salary,50000,2026-07-29,No Match,Clear,Pending
+CUST0035,Individual,Sara Sharma,1957-06-26,UAE,Dubai,Business Owner,Other,50000,2026-02-21,Potential Match,Confirmed Match,Verified
+CUST0036,Individual,Aarav Martin,1973-11-18,United Kingdom,London,Consultant,Other,100000,2026-05-11,No Match,Clear,Verified
+CUST0037,Corporate,Apex Group 37,2018-08-27,Singapore,Singapore,Self-Employed,Inheritance,25000,2026-07-22,No Match,Clear,Verified
+CUST0038,Individual,Ananya Mehta,1989-06-17,United Kingdom,Birmingham,Retired,Business Income,250000,2026-06-01,No Match,Clear,Rejected
+CUST0039,Individual,Neha Clark,1956-10-18,Nigeria,Abuja,Business Owner,Salary,150000,2026-07-15,No Match,Clear,Pending
+CUST0040,Corporate,Apex Ventures 40,2014-07-09,United Kingdom,London,Business Owner,Investment Returns,50000,2026-10-04,No Match,Clear,Verified
+CUST0041,Individual,Rohan Gupta,1959-09-07,Germany,Berlin,Retired,Business Income,150000,2026-01-11,No Match,Clear,Verified
+CUST0042,Individual,Aditya Clark,1983-06-17,United Kingdom,London,Consultant,Other,35000,2026-08-04,No Match,Clear,Pending
+CUST0043,Corporate,Summit Group 43,2004-08-17,India,Bengaluru,Retired,Investment Returns,150000,2026-03-06,No Match,Clear,Verified
+CUST0044,Corporate,Apex Ventures 44,1998-12-24,Nigeria,Abuja,Self-Employed,Salary,35000,2026-08-31,No Match,Clear,Pending
+CUST0045,Individual,Mia Reddy,1982-09-25,India,Delhi,Consultant,Property Sale,35000,2026-10-12,No Match,Clear,Verified
+CUST0046,Individual,Noah Hassan,1965-06-10,Germany,Munich,Company Director,Investment Returns,250000,2026-09-29,No Match,Clear,Pending
+CUST0047,Individual,Neha Wilson,1993-01-01,Pakistan,Lahore,Business Owner,Salary,100000,2026-09-07,No Match,Clear,Verified
+CUST0048,Individual,Liam Wilson,2000-11-14,United Kingdom,London,Self-Employed,Inheritance,150000,2026-08-24,No Match,Clear,Pending
+CUST0049,Individual,Olivia Gupta,2004-06-12,Singapore,Singapore,Student,Inheritance,35000,2026-09-19,No Match,Clear,Verified
+CUST0050,Corporate,Bluewave Holdings 50,2010-08-21,UAE,Dubai,Retired,Business Income,150000,2026-06-15,No Match,Clear,Rejected
+CUST0051,Individual,Daniel Clark,1987-03-02,Germany,Munich,Company Director,Property Sale,75000,2026-01-22,No Match,Clear,Verified
+CUST0052,Individual,Fatima Ali,1971-12-28,Pakistan,Karachi,Self-Employed,Inheritance,35000,2026-02-03,Potential Match,Clear,Verified
+CUST0053,Individual,Zain Sharma,1978-05-06,Nigeria,Lagos,Company Director,Inheritance,250000,2026-09-27,Potential Match,Clear,Verified
+CUST0054,Individual,Liam Brown,1998-12-08,Turkey,Istanbul,Company Director,Salary,500000,2026-03-26,No Match,Clear,Expired
+CUST0055,Corporate,Apex Ventures 55,2022-06-18,Germany,Frankfurt,Student,Property Sale,50000,2026-04-13,Confirmed PEP,Clear,Verified
+CUST0056,Individual,Omar Singh,2000-11-11,UAE,Dubai,Company Director,Salary,75000,2026-02-11,No Match,Clear,Pending
+CUST0057,Individual,Ishaan Clark,1993-09-01,UAE,Dubai,Company Director,Salary,500000,2026-05-03,No Match,Clear,Expired
+CUST0058,Individual,Aditya Brown,1970-12-22,United Kingdom,Birmingham,Salaried Employee,Property Sale,25000,2026-07-11,No Match,Clear,Verified
+CUST0059,Individual,Fatima Walker,1985-05-02,Pakistan,Lahore,Retired,Inheritance,100000,2026-01-22,No Match,Clear,Verified
+CUST0060,Individual,Sara Hassan,1961-02-11,Pakistan,Lahore,Self-Employed,Inheritance,50000,2026-08-09,No Match,Clear,Verified
+CUST0061,Individual,Noah Patel,1963-02-08,Malaysia,Penang,Business Owner,Inheritance,50000,2026-03-23,Confirmed PEP,Clear,Verified
+CUST0062,Individual,Aisha Martin,1968-10-10,UAE,Sharjah,Student,Property Sale,35000,2026-09-23,No Match,Clear,Verified
+CUST0063,Individual,Ananya Mehta,1970-08-01,Germany,Frankfurt,Student,Salary,75000,2026-07-05,No Match,Clear,Verified
+CUST0064,Individual,Liam Lewis,1958-02-17,Pakistan,Lahore,Self-Employed,Business Income,50000,2026-03-07,No Match,Clear,Pending
+CUST0065,Individual,Aditya Patel,1996-10-09,Turkey,Ankara,Real Estate Investor,Salary,25000,2026-06-22,No Match,Clear,Rejected
+CUST0066,Individual,Rohan Hassan,2000-06-24,Canada,Vancouver,Retired,Inheritance,150000,2026-08-26,No Match,Clear,Expired
+CUST0067,Individual,Priya Clark,1987-08-16,United Kingdom,London,Company Director,Business Income,150000,2026-10-23,Potential Match,Clear,Verified
+CUST0068,Individual,Zain Patel,1980-01-19,India,Delhi,Retired,Investment Returns,150000,2026-05-16,No Match,Clear,Verified
+CUST0069,Individual,Vivaan Mehta,2000-06-26,Malaysia,Kuala Lumpur,Self-Employed,Salary,25000,2026-09-18,No Match,Clear,Verified
+CUST0070,Individual,Aarav Clark,1971-11-26,Canada,Montreal,Student,Other,100000,2026-08-02,No Match,Clear,Expired
+CUST0071,Individual,Vivaan Mehta,1988-04-18,Singapore,Singapore,Retired,Other,500000,2026-09-14,No Match,Clear,Verified
+CUST0072,Individual,Emma Brown,1990-12-09,Canada,Montreal,Student,Property Sale,500000,2026-04-17,Potential Match,Clear,Verified
+CUST0073,Corporate,Summit Properties 73,2002-01-22,UAE,Abu Dhabi,Consultant,Inheritance,35000,2026-05-20,No Match,Clear,Verified
+CUST0074,Trust,Summit Properties 74,2012-12-24,India,Hyderabad,Retired,Salary,25000,2026-05-27,No Match,Clear,Pending
+CUST0075,Corporate,Bluewave Trading 75,2017-03-01,Malaysia,Kuala Lumpur,Retired,Other,50000,2026-02-27,No Match,Clear,Verified
+CUST0076,Individual,Mia Sharma,1971-11-12,UAE,Abu Dhabi,Self-Employed,Inheritance,100000,2026-05-17,No Match,Clear,Pending
+CUST0077,Individual,Ananya Reddy,1998-10-28,Canada,Montreal,Consultant,Inheritance,500000,2026-07-11,Potential Match,Clear,Pending
+CUST0078,Individual,Liam Martin,1991-01-18,Singapore,Singapore,Consultant,Inheritance,50000,2026-01-29,No Match,Clear,Verified
+CUST0079,Individual,Fatima Wilson,1960-11-22,Nigeria,Abuja,Business Owner,Investment Returns,250000,2026-08-04,No Match,Clear,Verified
+CUST0080,Individual,Aarav Reddy,1968-02-04,India,Delhi,Company Director,Inheritance,250000,2026-02-27,No Match,Clear,Verified
+CUST0081,Individual,Sara Nair,1958-09-19,India,Pune,Self-Employed,Investment Returns,75000,2026-06-04,No Match,Clear,Verified
+CUST0082,Individual,Liam Taylor,1990-09-05,Turkey,Ankara,Real Estate Investor,Inheritance,25000,2026-03-15,No Match,Clear,Verified
+CUST0083,Individual,Sara Sharma,1968-04-24,Singapore,Singapore,Business Owner,Property Sale,75000,2026-04-22,No Match,Clear,Verified
+CUST0084,Individual,Liam Patel,1991-04-24,Turkey,Ankara,Retired,Property Sale,150000,2026-06-13,No Match,Clear,Expired
+CUST0085,Individual,Lucas Clark,1966-09-21,Singapore,Singapore,Retired,Other,50000,2026-06-30,Potential Match,Clear,Pending
+CUST0086,Individual,Sara Sharma,1987-12-22,India,Pune,Retired,Inheritance,100000,2026-01-07,No Match,Clear,Verified
+CUST0087,Corporate,Bluewave Group 87,2010-01-21,UAE,Abu Dhabi,Consultant,Investment Returns,250000,2026-01-17,No Match,Clear,Verified
+CUST0088,Corporate,Cedar Holdings 88,2001-10-05,Singapore,Singapore,Student,Business Income,25000,2026-10-06,No Match,Clear,Verified
+CUST0089,Individual,Daniel Wilson,2004-06-01,Germany,Munich,Business Owner,Inheritance,150000,2026-04-29,No Match,Potential Match,Verified
+CUST0090,Individual,Zain Singh,1960-01-10,Nigeria,Lagos,Business Owner,Property Sale,250000,2026-03-20,No Match,Clear,Expired
+CUST0091,Individual,Fatima Verma,1963-05-10,Turkey,Ankara,Self-Employed,Other,50000,2026-10-14,No Match,Clear,Verified
+CUST0092,Corporate,Bluewave Trading 92,2008-11-20,Germany,Munich,Consultant,Property Sale,250000,2026-06-20,No Match,Clear,Expired
+CUST0093,Individual,Noah Gupta,1983-05-27,Pakistan,Karachi,Self-Employed,Other,25000,2026-04-03,No Match,Clear,Rejected
+CUST0094,Individual,Lucas Khan,1961-04-22,Nigeria,Abuja,Company Director,Other,150000,2026-10-06,Confirmed PEP,Clear,Verified
+CUST0095,Individual,Emma Singh,1973-07-03,UAE,Dubai,Consultant,Salary,150000,2026-09-14,No Match,Clear,Verified
+CUST0096,Individual,Priya Walker,1965-06-18,Pakistan,Lahore,Business Owner,Inheritance,75000,2026-03-26,No Match,Clear,Pending
+CUST0097,Individual,Omar Gupta,1984-02-09,Malaysia,Kuala Lumpur,Consultant,Property Sale,50000,2026-10-23,No Match,Clear,Verified
+CUST0098,Individual,Zain Mehta,1987-07-14,Germany,Munich,Student,Business Income,35000,2026-05-03,No Match,Clear,Verified
+CUST0099,Individual,Emma Taylor,2000-08-16,Canada,Toronto,Self-Employed,Investment Returns,500000,2026-10-15,No Match,Clear,Verified
+CUST0100,Individual,Neha Ali,1957-08-09,Pakistan,Lahore,Self-Employed,Salary,250000,2026-10-07,No Match,Clear,Verified
+CUST0101,Individual,Mia Nair,1987-11-27,Nigeria,Lagos,Salaried Employee,Property Sale,100000,2026-06-15,No Match,Clear,Verified
+CUST0102,Individual,Zain Martin,1986-06-19,Germany,Berlin,Student,Other,100000,2026-02-17,No Match,Clear,Verified
+CUST0103,Individual,Noah Sharma,1962-03-15,Pakistan,Lahore,Real Estate Investor,Other,35000,2026-01-25,No Match,Clear,Pending
+CUST0104,Individual,Ananya Clark,1959-03-19,Canada,Toronto,Company Director,Salary,35000,2026-02-16,No Match,Clear,Verified
+CUST0105,Individual,Olivia Sharma,1994-11-06,UAE,Dubai,Self-Employed,Salary,50000,2026-03-10,No Match,Clear,Rejected
+CUST0106,Individual,Sara Gupta,1988-10-17,United Kingdom,London,Self-Employed,Other,25000,2026-05-26,No Match,Clear,Verified
+CUST0107,Individual,Aditya Sharma,1992-02-01,Malaysia,Kuala Lumpur,Self-Employed,Investment Returns,50000,2026-10-07,Potential Match,Potential Match,Verified
+CUST0108,Individual,Aditya Ali,1999-07-24,UAE,Sharjah,Student,Inheritance,250000,2026-10-02,No Match,Clear,Verified
+CUST0109,Individual,Aisha Singh,2004-01-11,United Kingdom,London,Retired,Other,50000,2026-03-27,No Match,Clear,Verified
+CUST0110,Corporate,Apex Ventures 110,2006-07-05,India,Bengaluru,Business Owner,Business Income,25000,2026-01-02,No Match,Clear,Verified
+CUST0111,Individual,Omar Khan,1990-08-01,UAE,Sharjah,Real Estate Investor,Property Sale,100000,2026-02-05,No Match,Clear,Expired
+CUST0112,Individual,Sara Singh,1968-09-08,Turkey,Istanbul,Self-Employed,Other,250000,2026-01-01,Potential Match,Clear,Verified
+CUST0113,Individual,Omar Wilson,1999-12-11,Pakistan,Karachi,Company Director,Property Sale,100000,2026-03-08,No Match,Clear,Pending
+CUST0114,Individual,Daniel Patel,1968-06-05,Pakistan,Lahore,Consultant,Other,100000,2026-03-22,No Match,Clear,Verified
+CUST0115,Corporate,Bluewave Trading 115,2016-11-21,India,Bengaluru,Business Owner,Business Income,50000,2026-02-01,No Match,Clear,Verified
+CUST0116,Corporate,Cedar Trading 116,2009-03-02,UAE,Dubai,Company Director,Business Income,75000,2026-03-30,No Match,Clear,Verified
+CUST0117,Individual,Lucas Clark,1977-10-17,Nigeria,Lagos,Consultant,Investment Returns,150000,2026-07-15,No Match,Clear,Verified
+CUST0118,Individual,Priya Verma,1970-10-11,Turkey,Ankara,Business Owner,Property Sale,250000,2026-01-29,Confirmed PEP,Clear,Expired
+CUST0119,Individual,Priya Hassan,1958-01-05,Pakistan,Lahore,Consultant,Other,150000,2026-04-14,No Match,Clear,Verified
+CUST0120,Individual,Sara Ali,1963-03-24,Canada,Vancouver,Retired,Investment Returns,50000,2026-07-02,No Match,Clear,Verified
+CUST0121,Individual,Ananya Reddy,1999-02-12,Pakistan,Karachi,Self-Employed,Property Sale,25000,2026-06-21,No Match,Clear,Verified
+CUST0122,Individual,Aditya Hassan,1965-07-06,Pakistan,Lahore,Consultant,Salary,100000,2026-01-11,No Match,Clear,Verified
+CUST0123,Corporate,Northstar Holdings 123,1996-07-19,United Kingdom,Birmingham,Consultant,Property Sale,100000,2026-10-04,No Match,Clear,Verified
+CUST0124,Individual,Lucas Wilson,1966-06-13,Pakistan,Karachi,Business Owner,Salary,100000,2026-09-08,No Match,Clear,Verified
+CUST0125,Individual,Neha Clark,1974-02-13,United Kingdom,Birmingham,Company Director,Inheritance,500000,2026-09-25,No Match,Clear,Pending
+CUST0126,Individual,Fatima Walker,1975-05-17,United Kingdom,London,Real Estate Investor,Inheritance,250000,2026-02-04,Confirmed PEP,Clear,Pending
+CUST0127,Individual,Fatima Mehta,1994-10-22,UAE,Dubai,Self-Employed,Property Sale,50000,2026-08-31,No Match,Clear,Verified
+CUST0128,Individual,Aisha Taylor,1993-11-03,India,Delhi,Retired,Property Sale,500000,2026-06-03,No Match,Clear,Verified
+CUST0129,Individual,Zain Gupta,1972-06-27,Turkey,Ankara,Salaried Employee,Salary,500000,2026-05-08,No Match,Clear,Pending
+CUST0130,Individual,Neha Gupta,1972-11-14,United Kingdom,Manchester,Student,Business Income,75000,2026-01-26,No Match,Clear,Verified
+CUST0131,Individual,Olivia Wilson,1992-02-01,Singapore,Singapore,Student,Other,100000,2026-04-22,Potential Match,Clear,Verified
+CUST0132,Individual,Rohan Sharma,1996-08-10,Germany,Munich,Student,Other,150000,2026-07-26,No Match,Clear,Pending
+CUST0133,Corporate,Summit Properties 133,2016-06-21,Turkey,Ankara,Real Estate Investor,Other,100000,2026-03-07,No Match,Clear,Rejected
+CUST0134,Individual,Vivaan Mehta,1963-04-11,UAE,Abu Dhabi,Business Owner,Investment Returns,100000,2026-07-15,No Match,Clear,Expired
+CUST0135,Individual,Liam Clark,1979-01-02,India,Mumbai,Real Estate Investor,Investment Returns,250000,2026-08-11,No Match,Clear,Pending
+CUST0136,Individual,Olivia Lewis,1976-07-22,Singapore,Singapore,Company Director,Other,500000,2026-06-02,No Match,Clear,Verified
+CUST0137,Individual,Ishaan Sharma,1958-12-04,Singapore,Singapore,Salaried Employee,Other,25000,2026-01-25,No Match,Clear,Verified
+CUST0138,Individual,Ananya Nair,1988-04-12,UAE,Sharjah,Company Director,Inheritance,75000,2026-02-24,No Match,Clear,Verified
+CUST0139,Corporate,Cedar Trading 139,2009-01-04,India,Mumbai,Real Estate Investor,Investment Returns,75000,2026-05-12,No Match,Clear,Pending
+CUST0140,Individual,Emma Taylor,1996-03-04,United Kingdom,Manchester,Business Owner,Other,250000,2026-08-22,No Match,Clear,Pending
+CUST0141,Individual,Omar Sharma,2000-11-17,United Kingdom,Birmingham,Real Estate Investor,Other,100000,2026-01-24,No Match,Clear,Verified
+CUST0142,Individual,Omar Reddy,1976-05-02,Singapore,Singapore,Salaried Employee,Investment Returns,35000,2026-09-11,No Match,Clear,Verified
+CUST0143,Corporate,Summit Group 143,2015-05-17,Pakistan,Karachi,Retired,Salary,25000,2026-10-13,No Match,Clear,Expired
+CUST0144,Individual,Ishaan Patel,1965-08-05,Malaysia,Penang,Business Owner,Other,150000,2026-05-30,No Match,Clear,Verified
+CUST0145,Individual,Liam Clark,1987-03-23,Germany,Berlin,Business Owner,Inheritance,25000,2026-09-13,No Match,Clear,Rejected
+CUST0146,Individual,Lucas Gupta,1967-04-20,Nigeria,Lagos,Retired,Other,150000,2026-09-20,Potential Match,Clear,Verified
+CUST0147,Individual,Aisha Verma,1973-11-09,Turkey,Ankara,Student,Business Income,25000,2026-03-16,Potential Match,Clear,Verified
+CUST0148,Individual,Aisha Gupta,1994-08-27,Turkey,Istanbul,Student,Salary,25000,2026-06-10,No Match,Clear,Verified
+CUST0149,Individual,Mia Nair,1955-06-15,Canada,Vancouver,Real Estate Investor,Business Income,50000,2026-10-12,No Match,Clear,Verified
+CUST0150,Individual,Neha Gupta,1997-06-11,Turkey,Ankara,Real Estate Investor,Property Sale,35000,2026-10-02,No Match,Clear,Pending
+CUST0151,Corporate,Apex Trading 151,2023-11-07,Singapore,Singapore,Business Owner,Investment Returns,500000,2026-09-22,No Match,Clear,Verified
+CUST0152,Corporate,Apex Holdings 152,1996-03-26,Singapore,Singapore,Company Director,Salary,150000,2026-01-13,No Match,Clear,Expired
+CUST0153,Individual,Sara Khan,1973-08-13,Germany,Berlin,Business Owner,Other,100000,2026-09-15,No Match,Clear,Expired
+CUST0154,Individual,Lucas Khan,1974-04-24,United Kingdom,Manchester,Self-Employed,Inheritance,250000,2026-01-03,Potential Match,Clear,Rejected
+CUST0155,Corporate,Cedar Properties 155,2016-11-08,Malaysia,Kuala Lumpur,Retired,Property Sale,500000,2026-02-20,Potential Match,Potential Match,Verified
+CUST0156,Individual,Omar Clark,1984-08-12,Malaysia,Kuala Lumpur,Company Director,Business Income,150000,2026-08-12,No Match,Clear,Verified
+CUST0157,Individual,Lucas Clark,1996-03-12,Singapore,Singapore,Salaried Employee,Inheritance,100000,2026-04-19,No Match,Clear,Pending
+CUST0158,Corporate,Bluewave Trading 158,1996-04-25,India,Pune,Real Estate Investor,Other,50000,2026-10-17,No Match,Clear,Verified
+CUST0159,Corporate,Bluewave Trading 159,2013-11-27,Nigeria,Abuja,Self-Employed,Investment Returns,50000,2026-05-15,No Match,Clear,Verified
+CUST0160,Individual,Neha Taylor,1976-12-04,Malaysia,Kuala Lumpur,Business Owner,Other,35000,2026-07-05,No Match,Clear,Pending
+CUST0161,Individual,Sara Khan,1968-08-20,United Kingdom,Birmingham,Real Estate Investor,Other,25000,2026-07-27,No Match,Clear,Verified
+CUST0162,Individual,Daniel Singh,1966-08-20,Canada,Toronto,Business Owner,Business Income,250000,2026-09-25,No Match,Clear,Verified
+CUST0163,Individual,Aisha Clark,2004-04-28,Nigeria,Abuja,Consultant,Business Income,250000,2026-10-22,No Match,Clear,Verified
+CUST0164,Individual,Zain Nair,1998-07-25,Turkey,Istanbul,Company Director,Inheritance,250000,2026-05-14,No Match,Clear,Pending
+CUST0165,Individual,Lucas Patel,1965-07-21,Germany,Frankfurt,Business Owner,Property Sale,250000,2026-02-21,No Match,Clear,Verified
+CUST0166,Corporate,Apex Properties 166,2022-11-26,India,Bengaluru,Student,Investment Returns,500000,2026-03-31,No Match,Clear,Expired
+CUST0167,Individual,Lucas Brown,1977-05-08,India,Pune,Company Director,Other,100000,2026-02-05,No Match,Clear,Verified
+CUST0168,Corporate,Bluewave Group 168,2022-01-16,Canada,Vancouver,Student,Other,500000,2026-05-05,No Match,Clear,Verified
+CUST0169,Individual,Ananya Clark,2002-04-08,India,Delhi,Self-Employed,Business Income,100000,2026-04-22,No Match,Clear,Pending
+CUST0170,Individual,Olivia Nair,1980-04-25,UAE,Dubai,Salaried Employee,Business Income,500000,2026-10-22,No Match,Clear,Verified
+CUST0171,Trust,Summit Trading 171,2002-05-16,United Kingdom,Manchester,Salaried Employee,Business Income,100000,2026-07-05,No Match,Clear,Verified
+CUST0172,Individual,Rohan Clark,1955-03-14,Canada,Vancouver,Consultant,Other,50000,2026-07-15,No Match,Clear,Verified
+CUST0173,Individual,Liam Singh,1977-11-20,United Kingdom,London,Business Owner,Salary,150000,2026-10-13,No Match,Clear,Verified
+CUST0174,Individual,Neha Hassan,1975-11-10,Nigeria,Abuja,Self-Employed,Property Sale,50000,2026-02-06,Potential Match,Clear,Verified
+CUST0175,Individual,Fatima Lewis,2003-02-04,India,Pune,Business Owner,Salary,25000,2026-08-31,No Match,Clear,Pending
+CUST0176,Corporate,Summit Properties 176,2013-10-15,United Kingdom,Birmingham,Self-Employed,Other,50000,2026-10-08,No Match,Clear,Verified
+CUST0177,Individual,Liam Ali,1993-04-26,Germany,Munich,Real Estate Investor,Salary,100000,2026-09-09,No Match,Clear,Verified
+CUST0178,Individual,Sara Singh,1995-08-20,Nigeria,Abuja,Student,Business Income,50000,2026-04-07,No Match,Clear,Verified
+CUST0179,Individual,Noah Patel,1976-02-27,United Kingdom,London,Salaried Employee,Property Sale,500000,2026-08-04,No Match,Clear,Verified
+CUST0180,Trust,Bluewave Trading 180,2005-03-21,India,Mumbai,Retired,Investment Returns,75000,2026-02-18,No Match,Clear,Rejected
+CUST0181,Individual,Daniel Mehta,1978-02-08,Singapore,Singapore,Student,Other,500000,2026-01-22,No Match,Clear,Pending
+CUST0182,Individual,Noah Walker,1973-09-23,Turkey,Istanbul,Self-Employed,Investment Returns,25000,2026-03-10,No Match,Potential Match,Verified
+CUST0183,Individual,Lucas Wilson,1967-09-22,Pakistan,Lahore,Company Director,Other,35000,2026-05-03,No Match,Clear,Rejected
+CUST0184,Corporate,Summit Group 184,2003-01-12,UAE,Dubai,Consultant,Inheritance,500000,2026-07-18,No Match,Clear,Verified
+CUST0185,Individual,Olivia Singh,1961-12-08,India,Delhi,Self-Employed,Business Income,35000,2026-02-06,Potential Match,Clear,Pending
+CUST0186,Individual,Omar Walker,1975-06-14,Malaysia,Penang,Business Owner,Property Sale,500000,2026-03-22,No Match,Clear,Verified
+CUST0187,Corporate,Northstar Trading 187,1995-12-27,Canada,Vancouver,Salaried Employee,Business Income,100000,2026-06-04,No Match,Clear,Pending
+CUST0188,Individual,Mia Singh,1993-11-10,Germany,Frankfurt,Company Director,Other,500000,2026-09-05,No Match,Clear,Verified
+CUST0189,Individual,Fatima Martin,2003-10-19,Malaysia,Kuala Lumpur,Salaried Employee,Other,25000,2026-04-24,No Match,Clear,Verified
+CUST0190,Individual,Aditya Nair,2004-07-11,India,Hyderabad,Real Estate Investor,Business Income,75000,2026-10-20,No Match,Clear,Verified
+CUST0191,Individual,Aditya Singh,2002-01-08,India,Delhi,Retired,Business Income,150000,2026-04-13,No Match,Clear,Pending
+CUST0192,Individual,Priya Patel,1973-04-26,Singapore,Singapore,Retired,Property Sale,25000,2026-01-10,No Match,Clear,Verified
+CUST0193,Individual,Ananya Lewis,1984-09-23,Germany,Berlin,Consultant,Business Income,35000,2026-09-06,No Match,Clear,Pending
+CUST0194,Individual,Rohan Hassan,1980-11-05,Germany,Munich,Student,Business Income,100000,2026-01-16,No Match,Potential Match,Pending
+CUST0195,Individual,Mia Verma,1975-02-18,Germany,Munich,Consultant,Other,50000,2026-03-11,No Match,Clear,Pending
+CUST0196,Individual,Emma Mehta,1987-10-16,Canada,Toronto,Student,Other,35000,2026-01-14,No Match,Clear,Verified
+CUST0197,Corporate,Northstar Ventures 197,2007-01-20,Nigeria,Lagos,Consultant,Investment Returns,150000,2026-09-08,Potential Match,Clear,Verified
+CUST0198,Corporate,Cedar Trading 198,2009-03-14,Pakistan,Karachi,Salaried Employee,Investment Returns,500000,2026-04-08,No Match,Clear,Verified
+CUST0199,Corporate,Cedar Properties 199,2017-12-04,United Kingdom,Birmingham,Company Director,Property Sale,35000,2026-04-14,No Match,Clear,Verified
+CUST0200,Individual,Sara Ali,2001-08-10,Malaysia,Kuala Lumpur,Self-Employed,Investment Returns,25000,2026-03-16,No Match,Clear,Verified
+CUST0201,Individual,Lucas Gupta,1958-03-05,Turkey,Istanbul,Retired,Inheritance,100000,2026-05-06,No Match,Clear,Verified
+CUST0202,Individual,Aditya Taylor,1990-02-10,India,Mumbai,Real Estate Investor,Investment Returns,150000,2026-06-03,No Match,Clear,Verified
+CUST0203,Individual,Olivia Brown,1963-10-19,India,Mumbai,Business Owner,Property Sale,150000,2026-05-28,Potential Match,Clear,Verified
+CUST0204,Individual,Ananya Ali,1971-02-10,India,Mumbai,Consultant,Salary,75000,2026-10-14,No Match,Clear,Pending
+CUST0205,Individual,Liam Patel,1988-05-19,India,Pune,Retired,Investment Returns,150000,2026-08-24,No Match,Clear,Verified
+CUST0206,Individual,Vivaan Nair,1981-02-16,Canada,Toronto,Real Estate Investor,Other,150000,2026-06-07,No Match,Clear,Pending
+CUST0207,Individual,Olivia Mehta,1968-12-02,Singapore,Singapore,Real Estate Investor,Salary,50000,2026-06-08,No Match,Clear,Verified
+CUST0208,Individual,Ishaan Nair,1964-03-09,UAE,Sharjah,Student,Investment Returns,150000,2026-05-22,No Match,Clear,Pending
+CUST0209,Individual,Aditya Taylor,1980-03-23,Canada,Montreal,Self-Employed,Salary,250000,2026-01-26,No Match,Clear,Verified
+CUST0210,Trust,Northstar Properties 210,1999-10-09,Turkey,Istanbul,Real Estate Investor,Investment Returns,500000,2026-08-22,No Match,Clear,Verified
+CUST0211,Individual,Lucas Martin,1980-10-14,Germany,Munich,Real Estate Investor,Property Sale,35000,2026-06-16,No Match,Clear,Verified
+CUST0212,Individual,Daniel Martin,1975-09-04,Malaysia,Penang,Consultant,Inheritance,35000,2026-10-21,No Match,Clear,Pending
+CUST0213,Individual,Omar Ali,1991-11-10,India,Mumbai,Salaried Employee,Business Income,75000,2026-10-23,No Match,Clear,Verified
+CUST0214,Individual,Fatima Wilson,1979-07-18,Turkey,Istanbul,Business Owner,Other,150000,2026-07-21,No Match,Potential Match,Verified
+CUST0215,Individual,Priya Martin,1987-07-18,United Kingdom,London,Retired,Inheritance,250000,2026-08-01,No Match,Clear,Verified
+CUST0216,Individual,Olivia Khan,1988-10-03,Turkey,Ankara,Salaried Employee,Investment Returns,100000,2026-02-10,No Match,Clear,Rejected
+CUST0217,Individual,Mia Nair,1958-11-16,Turkey,Istanbul,Self-Employed,Other,100000,2026-03-27,No Match,Clear,Verified
+CUST0218,Individual,Priya Nair,1999-04-16,UAE,Abu Dhabi,Student,Property Sale,500000,2026-03-19,No Match,Clear,Expired
+CUST0219,Individual,Sara Clark,2002-09-08,Singapore,Singapore,Self-Employed,Investment Returns,250000,2026-03-27,No Match,Clear,Verified
+CUST0220,Corporate,Summit Ventures 220,2009-11-24,Nigeria,Abuja,Self-Employed,Property Sale,35000,2026-05-19,No Match,Clear,Expired
+CUST0221,Individual,Ishaan Singh,1960-10-05,India,Bengaluru,Consultant,Inheritance,75000,2026-02-17,No Match,Clear,Verified
+CUST0222,Individual,Aisha Nair,1966-08-03,Pakistan,Lahore,Self-Employed,Salary,150000,2026-07-15,No Match,Clear,Pending
+CUST0223,Corporate,Bluewave Trading 223,1999-12-11,Singapore,Singapore,Business Owner,Salary,25000,2026-09-12,No Match,Clear,Rejected
+CUST0224,Individual,Noah Ali,1996-04-06,Nigeria,Abuja,Self-Employed,Salary,150000,2026-02-16,No Match,Potential Match,Pending
+CUST0225,Individual,Vivaan Hassan,1958-06-26,Pakistan,Karachi,Consultant,Salary,500000,2026-09-13,No Match,Clear,Pending
+CUST0226,Individual,Daniel Verma,1992-02-27,UAE,Dubai,Salaried Employee,Investment Returns,35000,2026-01-26,No Match,Clear,Verified
+CUST0227,Trust,Cedar Group 227,2000-08-08,Germany,Berlin,Consultant,Other,50000,2026-03-14,No Match,Clear,Verified
+CUST0228,Individual,Daniel Patel,1993-03-23,UAE,Sharjah,Retired,Business Income,75000,2026-08-19,No Match,Clear,Rejected
+CUST0229,Individual,Emma Clark,1966-03-22,UAE,Sharjah,Consultant,Other,50000,2026-04-10,No Match,Clear,Verified
+CUST0230,Individual,Ananya Hassan,1969-02-11,India,Mumbai,Salaried Employee,Investment Returns,150000,2026-08-16,Potential Match,Clear,Rejected
+CUST0231,Individual,Vivaan Patel,1972-03-04,India,Bengaluru,Company Director,Business Income,150000,2026-05-19,Potential Match,Clear,Verified
+CUST0232,Trust,Cedar Ventures 232,2013-04-19,United Kingdom,Birmingham,Retired,Business Income,75000,2026-08-08,No Match,Clear,Rejected
+CUST0233,Individual,Emma Ali,1965-12-15,Pakistan,Karachi,Salaried Employee,Salary,35000,2026-06-01,No Match,Clear,Verified
+CUST0234,Individual,Omar Patel,1987-11-12,India,Mumbai,Student,Inheritance,35000,2026-10-22,No Match,Clear,Verified
+CUST0235,Individual,Neha Hassan,1977-05-17,UAE,Sharjah,Consultant,Other,75000,2026-10-25,No Match,Potential Match,Verified
+CUST0236,Individual,Priya Nair,1962-12-05,Pakistan,Lahore,Business Owner,Salary,35000,2026-04-02,No Match,Clear,Pending
+CUST0237,Individual,Sara Mehta,1974-03-26,Pakistan,Karachi,Consultant,Investment Returns,500000,2026-06-17,No Match,Clear,Verified
+CUST0238,Individual,Priya Gupta,1990-12-02,Malaysia,Kuala Lumpur,Real Estate Investor,Property Sale,100000,2026-03-06,No Match,Clear,Rejected
+CUST0239,Individual,Rohan Martin,1976-12-04,Nigeria,Abuja,Real Estate Investor,Inheritance,100000,2026-06-01,Potential Match,Clear,Verified
+CUST0240,Individual,Emma Hassan,1993-10-17,Germany,Berlin,Student,Business Income,250000,2026-02-14,No Match,Clear,Pending
+CUST0241,Trust,Summit Group 241,1997-03-07,Germany,Munich,Retired,Business Income,250000,2026-08-06,No Match,Clear,Verified
+CUST0242,Individual,Lucas Martin,1969-01-26,Nigeria,Lagos,Real Estate Investor,Investment Returns,100000,2026-01-22,No Match,Clear,Pending
+CUST0243,Individual,Ishaan Brown,1987-12-19,Singapore,Singapore,Business Owner,Other,500000,2026-05-13,No Match,Potential Match,Verified
+CUST0244,Individual,Omar Hassan,1998-05-09,Canada,Vancouver,Student,Inheritance,50000,2026-04-04,Potential Match,Clear,Verified
+CUST0245,Individual,Noah Khan,1962-03-01,Canada,Vancouver,Real Estate Investor,Investment Returns,35000,2026-10-14,No Match,Clear,Verified
+CUST0246,Individual,Liam Patel,1967-02-02,India,Mumbai,Consultant,Investment Returns,25000,2026-02-27,No Match,Clear,Rejected
+CUST0247,Corporate,Northstar Group 247,2019-12-20,UAE,Dubai,Real Estate Investor,Property Sale,150000,2026-05-23,No Match,Clear,Verified
+CUST0248,Individual,Liam Gupta,1987-04-14,United Kingdom,Birmingham,Retired,Investment Returns,150000,2026-02-24,No Match,Clear,Verified
+CUST0249,Individual,Emma Brown,1966-01-22,India,Mumbai,Student,Salary,75000,2026-05-29,No Match,Clear,Verified
+CUST0250,Individual,Emma Nair,2003-12-25,Malaysia,Kuala Lumpur,Self-Employed,Other,250000,2026-03-04,No Match,Clear,Verified
+CUST0251,Individual,Omar Mehta,1974-10-20,United Kingdom,Manchester,Real Estate Investor,Inheritance,250000,2026-01-14,No Match,Clear,Verified
+CUST0252,Individual,Vivaan Verma,1990-11-28,Turkey,Ankara,Salaried Employee,Salary,500000,2026-07-12,No Match,Clear,Verified
+CUST0253,Individual,Zain Ali,1975-01-01,Malaysia,Penang,Retired,Inheritance,250000,2026-09-11,No Match,Clear,Verified
+CUST0254,Individual,Aarav Walker,1975-01-15,Germany,Munich,Consultant,Business Income,150000,2026-06-06,No Match,Clear,Expired
+CUST0255,Individual,Liam Gupta,1986-11-28,Nigeria,Abuja,Consultant,Property Sale,100000,2026-03-27,No Match,Clear,Pending
+CUST0256,Corporate,Cedar Ventures 256,2016-09-11,UAE,Sharjah,Business Owner,Inheritance,100000,2026-02-09,No Match,Clear,Rejected
+CUST0257,Individual,Ananya Brown,1984-03-08,United Kingdom,Birmingham,Retired,Inheritance,25000,2026-08-11,No Match,Clear,Expired
+CUST0258,Individual,Vivaan Gupta,1965-05-05,United Kingdom,Manchester,Real Estate Investor,Investment Returns,250000,2026-09-06,No Match,Clear,Pending
+CUST0259,Individual,Olivia Singh,1988-11-27,Germany,Frankfurt,Self-Employed,Inheritance,35000,2026-03-13,No Match,Clear,Verified
+CUST0260,Corporate,Apex Trading 260,2012-07-16,Nigeria,Lagos,Consultant,Other,150000,2026-09-09,No Match,Clear,Verified
+CUST0261,Individual,Fatima Sharma,1980-05-10,India,Mumbai,Company Director,Investment Returns,75000,2026-03-04,No Match,Clear,Pending
+CUST0262,Individual,Aarav Patel,1996-11-06,Pakistan,Lahore,Company Director,Investment Returns,150000,2026-06-30,Potential Match,Clear,Verified
+CUST0263,Individual,Priya Hassan,1973-04-03,UAE,Dubai,Real Estate Investor,Property Sale,50000,2026-09-02,No Match,Clear,Verified
+CUST0264,Trust,Apex Holdings 264,2017-09-14,Singapore,Singapore,Real Estate Investor,Inheritance,50000,2026-02-15,No Match,Clear,Verified
+CUST0265,Corporate,Northstar Group 265,2009-04-12,United Kingdom,Manchester,Student,Property Sale,100000,2026-03-16,No Match,Confirmed Match,Verified
+CUST0266,Individual,Aisha Lewis,1994-07-10,Singapore,Singapore,Business Owner,Salary,25000,2026-07-01,No Match,Clear,Verified
+CUST0267,Individual,Sara Nair,1994-05-17,Pakistan,Karachi,Student,Investment Returns,150000,2026-05-24,No Match,Clear,Pending
+CUST0268,Individual,Emma Singh,2001-03-04,India,Pune,Retired,Investment Returns,500000,2026-08-15,No Match,Clear,Pending
+CUST0269,Individual,Rohan Sharma,1960-08-27,Malaysia,Kuala Lumpur,Business Owner,Property Sale,35000,2026-07-21,No Match,Clear,Expired
+CUST0270,Trust,Summit Ventures 270,1997-07-09,Germany,Frankfurt,Real Estate Investor,Inheritance,35000,2026-01-29,No Match,Clear,Verified
+CUST0271,Individual,Noah Wilson,1985-05-19,United Kingdom,London,Student,Investment Returns,75000,2026-07-08,No Match,Clear,Verified
+CUST0272,Individual,Rohan Mehta,1998-05-27,Germany,Munich,Retired,Property Sale,500000,2026-08-12,No Match,Clear,Rejected
+CUST0273,Individual,Vivaan Khan,1981-12-10,UAE,Abu Dhabi,Student,Investment Returns,50000,2026-08-25,No Match,Clear,Expired
+CUST0274,Corporate,Summit Group 274,2006-12-22,Malaysia,Penang,Salaried Employee,Property Sale,500000,2026-07-27,No Match,Clear,Expired
+CUST0275,Individual,Aarav Singh,1965-03-24,Singapore,Singapore,Company Director,Investment Returns,500000,2026-08-26,No Match,Clear,Verified
+CUST0276,Individual,Emma Lewis,1992-12-20,India,Delhi,Company Director,Investment Returns,500000,2026-05-29,No Match,Clear,Rejected
+CUST0277,Individual,Olivia Reddy,1992-11-11,Nigeria,Abuja,Retired,Business Income,500000,2026-08-29,No Match,Clear,Expired
+CUST0278,Individual,Ananya Walker,1958-01-12,Malaysia,Kuala Lumpur,Real Estate Investor,Business Income,100000,2026-08-01,No Match,Clear,Rejected
+CUST0279,Individual,Vivaan Martin,1984-02-04,Singapore,Singapore,Self-Employed,Other,35000,2026-09-21,No Match,Potential Match,Verified
+CUST0280,Individual,Neha Clark,1976-05-17,United Kingdom,Birmingham,Business Owner,Salary,250000,2026-04-14,No Match,Clear,Verified
+CUST0281,Individual,Omar Hassan,1980-03-14,Nigeria,Lagos,Retired,Salary,35000,2026-03-16,No Match,Clear,Verified
+CUST0282,Individual,Zain Wilson,2004-04-10,Turkey,Ankara,Student,Other,500000,2026-04-16,No Match,Clear,Verified
+CUST0283,Individual,Vivaan Brown,1971-11-17,Turkey,Ankara,Salaried Employee,Other,35000,2026-08-05,No Match,Clear,Verified
+CUST0284,Individual,Noah Singh,1964-12-14,Malaysia,Kuala Lumpur,Real Estate Investor,Property Sale,75000,2026-09-22,No Match,Clear,Expired
+CUST0285,Individual,Rohan Lewis,1963-08-23,Turkey,Ankara,Student,Business Income,250000,2026-09-08,No Match,Clear,Pending
+CUST0286,Corporate,Cedar Trading 286,2010-01-26,Turkey,Ankara,Business Owner,Property Sale,100000,2026-03-02,No Match,Clear,Pending
+CUST0287,Individual,Noah Mehta,2001-06-03,UAE,Sharjah,Student,Investment Returns,500000,2026-03-09,No Match,Clear,Expired
+CUST0288,Individual,Olivia Gupta,2003-08-17,Canada,Montreal,Student,Inheritance,25000,2026-10-05,No Match,Clear,Verified
+CUST0289,Individual,Aisha Khan,1962-02-18,Pakistan,Karachi,Salaried Employee,Investment Returns,150000,2026-08-01,No Match,Clear,Pending
+CUST0290,Individual,Daniel Reddy,1986-09-25,Malaysia,Penang,Business Owner,Business Income,75000,2026-03-03,No Match,Clear,Expired
+CUST0291,Corporate,Summit Properties 291,2020-03-12,Nigeria,Lagos,Business Owner,Salary,500000,2026-10-18,No Match,Clear,Verified
+CUST0292,Trust,Summit Trading 292,1996-03-24,Canada,Montreal,Retired,Inheritance,75000,2026-06-29,No Match,Clear,Verified
+CUST0293,Corporate,Northstar Holdings 293,2014-08-01,Turkey,Ankara,Retired,Salary,150000,2026-08-24,Potential Match,Clear,Pending
+CUST0294,Individual,Ananya Martin,1955-04-24,Pakistan,Karachi,Self-Employed,Property Sale,500000,2026-01-05,No Match,Clear,Verified
+CUST0295,Individual,Lucas Gupta,1997-12-19,Pakistan,Lahore,Consultant,Business Income,500000,2026-05-23,No Match,Clear,Rejected
+CUST0296,Individual,Aisha Singh,1998-09-15,Singapore,Singapore,Student,Investment Returns,250000,2026-01-27,No Match,Potential Match,Verified
+CUST0297,Individual,Ishaan Sharma,1985-07-26,Singapore,Singapore,Consultant,Salary,100000,2026-03-26,No Match,Clear,Verified
+CUST0298,Individual,Aditya Mehta,1958-08-02,Germany,Frankfurt,Retired,Property Sale,250000,2026-02-01,Potential Match,Clear,Rejected
+CUST0299,Individual,Olivia Hassan,1992-04-04,Nigeria,Lagos,Salaried Employee,Investment Returns,25000,2026-02-21,No Match,Clear,Verified
+CUST0300,Individual,Emma Ali,1993-06-10,Germany,Munich,Real Estate Investor,Business Income,50000,2026-07-03,No Match,Clear,Verified
+CUST0301,Individual,Omar Verma,1961-08-26,Singapore,Singapore,Retired,Investment Returns,100000,2026-06-21,No Match,Clear,Verified
+CUST0302,Individual,Mia Brown,1957-01-07,Germany,Frankfurt,Salaried Employee,Business Income,500000,2026-03-14,No Match,Clear,Rejected
+CUST0303,Corporate,Cedar Properties 303,2011-10-14,United Kingdom,Manchester,Company Director,Property Sale,75000,2026-06-06,No Match,Clear,Verified
+CUST0304,Trust,Apex Ventures 304,2020-11-20,Malaysia,Penang,Consultant,Business Income,500000,2026-05-24,No Match,Clear,Rejected
+CUST0305,Individual,Fatima Gupta,1974-07-13,Turkey,Ankara,Company Director,Business Income,500000,2026-04-23,No Match,Clear,Verified
+CUST0306,Individual,Neha Nair,1996-02-12,Malaysia,Kuala Lumpur,Retired,Investment Returns,50000,2026-07-15,No Match,Clear,Verified
+CUST0307,Individual,Sara Brown,1980-07-27,Turkey,Istanbul,Student,Property Sale,25000,2026-10-06,No Match,Clear,Verified
+CUST0308,Individual,Rohan Mehta,1974-12-01,Malaysia,Penang,Self-Employed,Property Sale,25000,2026-08-13,No Match,Clear,Verified
+CUST0309,Individual,Fatima Khan,1989-07-07,Germany,Frankfurt,Real Estate Investor,Business Income,250000,2026-10-21,No Match,Clear,Verified
+CUST0310,Corporate,Apex Trading 310,2011-01-06,United Kingdom,London,Consultant,Investment Returns,35000,2026-05-30,No Match,Clear,Verified
+CUST0311,Corporate,Northstar Holdings 311,1999-08-03,Singapore,Singapore,Retired,Property Sale,500000,2026-09-15,No Match,Clear,Pending
+CUST0312,Individual,Fatima Verma,1999-10-04,UAE,Abu Dhabi,Student,Investment Returns,250000,2026-05-08,Potential Match,Clear,Pending
+CUST0313,Individual,Ananya Lewis,1957-08-01,Singapore,Singapore,Self-Employed,Property Sale,50000,2026-07-29,No Match,Clear,Verified
+CUST0314,Individual,Priya Verma,1956-10-04,India,Delhi,Retired,Property Sale,500000,2026-08-13,Potential Match,Clear,Verified
+CUST0315,Individual,Vivaan Sharma,1958-07-25,Pakistan,Lahore,Consultant,Investment Returns,100000,2026-02-22,No Match,Clear,Verified
+CUST0316,Corporate,Northstar Group 316,2007-07-04,UAE,Dubai,Real Estate Investor,Inheritance,75000,2026-06-17,No Match,Clear,Verified
+CUST0317,Individual,Ishaan Hassan,1995-12-13,Pakistan,Karachi,Self-Employed,Property Sale,50000,2026-09-13,No Match,Clear,Expired
+CUST0318,Individual,Daniel Khan,1958-03-12,Malaysia,Penang,Salaried Employee,Business Income,250000,2026-05-02,No Match,Clear,Pending
+CUST0319,Individual,Lucas Patel,1997-04-26,Germany,Berlin,Company Director,Business Income,75000,2026-06-19,No Match,Clear,Pending
+CUST0320,Corporate,Bluewave Trading 320,2000-12-07,Pakistan,Karachi,Consultant,Investment Returns,35000,2026-04-15,No Match,Potential Match,Verified
+CUST0321,Corporate,Bluewave Holdings 321,2019-05-20,Pakistan,Karachi,Retired,Investment Returns,25000,2026-03-21,No Match,Clear,Verified
+CUST0322,Individual,Fatima Brown,1979-08-10,Turkey,Ankara,Real Estate Investor,Investment Returns,250000,2026-07-11,No Match,Clear,Rejected
+CUST0323,Individual,Zain Sharma,1999-11-21,Canada,Montreal,Self-Employed,Salary,500000,2026-05-07,No Match,Clear,Verified
+CUST0324,Individual,Sara Taylor,2003-12-28,Nigeria,Abuja,Consultant,Inheritance,250000,2026-09-14,Potential Match,Clear,Verified
+CUST0325,Trust,Northstar Properties 325,2001-08-06,Canada,Toronto,Business Owner,Property Sale,50000,2026-08-09,No Match,Clear,Pending
+CUST0326,Corporate,Apex Trading 326,2019-01-22,Pakistan,Karachi,Company Director,Salary,35000,2026-09-02,No Match,Clear,Pending
+CUST0327,Individual,Aarav Martin,1999-07-24,Malaysia,Penang,Self-Employed,Salary,150000,2026-01-30,No Match,Clear,Verified
+CUST0328,Individual,Daniel Clark,1980-12-20,Pakistan,Lahore,Self-Employed,Business Income,500000,2026-06-16,No Match,Clear,Pending
+CUST0329,Individual,Priya Khan,1961-07-23,Malaysia,Kuala Lumpur,Retired,Business Income,75000,2026-10-04,No Match,Clear,Rejected
+CUST0330,Individual,Lucas Taylor,1969-04-09,United Kingdom,Birmingham,Self-Employed,Other,250000,2026-06-25,No Match,Clear,Pending
+CUST0331,Individual,Fatima Sharma,1989-08-11,Germany,Munich,Consultant,Salary,75000,2026-03-06,No Match,Clear,Verified
+CUST0332,Individual,Omar Mehta,2000-04-28,India,Hyderabad,Student,Salary,250000,2026-05-30,No Match,Clear,Verified
+CUST0333,Individual,Rohan Hassan,2003-10-28,United Kingdom,London,Self-Employed,Salary,250000,2026-04-10,No Match,Clear,Expired
+CUST0334,Individual,Priya Patel,1961-06-16,Singapore,Singapore,Self-Employed,Other,250000,2026-03-17,No Match,Clear,Pending
+CUST0335,Individual,Noah Brown,1955-02-04,Singapore,Singapore,Company Director,Property Sale,250000,2026-08-26,No Match,Clear,Verified
+CUST0336,Individual,Aarav Wilson,1990-09-26,UAE,Sharjah,Company Director,Other,250000,2026-10-03,No Match,Clear,Verified
+CUST0337,Individual,Lucas Verma,1982-11-01,Germany,Berlin,Business Owner,Property Sale,100000,2026-03-05,No Match,Clear,Verified
+CUST0338,Corporate,Northstar Group 338,2012-04-19,Germany,Frankfurt,Consultant,Business Income,100000,2026-04-07,Confirmed PEP,Clear,Rejected
+CUST0339,Individual,Olivia Verma,1981-03-11,Nigeria,Abuja,Real Estate Investor,Inheritance,150000,2026-04-09,No Match,Clear,Rejected
+CUST0340,Individual,Ishaan Verma,1988-12-10,UAE,Abu Dhabi,Student,Salary,250000,2026-07-13,No Match,Clear,Verified
+CUST0341,Corporate,Bluewave Group 341,2018-05-02,United Kingdom,Manchester,Company Director,Business Income,50000,2026-03-21,No Match,Clear,Pending
+CUST0342,Individual,Neha Khan,1965-10-02,Pakistan,Lahore,Consultant,Salary,35000,2026-06-10,No Match,Clear,Verified
+CUST0343,Individual,Noah Verma,1998-09-08,Turkey,Istanbul,Salaried Employee,Inheritance,25000,2026-09-28,No Match,Clear,Verified
+CUST0344,Individual,Olivia Patel,1984-10-28,Germany,Frankfurt,Business Owner,Property Sale,75000,2026-10-19,No Match,Clear,Verified
+CUST0345,Individual,Aisha Reddy,1985-07-12,United Kingdom,Manchester,Business Owner,Other,50000,2026-09-07,No Match,Clear,Pending
+CUST0346,Individual,Aisha Singh,1981-08-18,Nigeria,Lagos,Consultant,Investment Returns,75000,2026-01-17,No Match,Clear,Pending
+CUST0347,Individual,Sara Clark,1960-07-08,India,Pune,Consultant,Property Sale,500000,2026-01-05,No Match,Clear,Verified
+CUST0348,Individual,Vivaan Nair,1967-03-14,Nigeria,Lagos,Real Estate Investor,Investment Returns,50000,2026-04-28,No Match,Clear,Verified
+CUST0349,Individual,Priya Patel,1955-01-22,Singapore,Singapore,Salaried Employee,Salary,150000,2026-08-03,No Match,Clear,Verified
+CUST0350,Individual,Aisha Gupta,1992-07-03,Germany,Munich,Real Estate Investor,Business Income,150000,2026-09-28,No Match,Clear,Verified
+CUST0351,Corporate,Cedar Trading 351,2009-11-23,UAE,Dubai,Retired,Inheritance,100000,2026-08-03,No Match,Clear,Pending
+CUST0352,Individual,Olivia Wilson,1990-07-13,United Kingdom,Manchester,Consultant,Investment Returns,50000,2026-09-20,No Match,Clear,Pending
+CUST0353,Individual,Vivaan Reddy,1968-09-04,Turkey,Ankara,Business Owner,Property Sale,50000,2026-03-17,No Match,Clear,Rejected
+CUST0354,Individual,Fatima Nair,1995-11-20,Malaysia,Penang,Self-Employed,Other,35000,2026-01-09,No Match,Clear,Verified
+CUST0355,Individual,Sara Verma,1966-07-22,Nigeria,Abuja,Retired,Salary,100000,2026-04-03,No Match,Clear,Verified
+CUST0356,Individual,Aisha Mehta,1995-10-01,United Kingdom,Birmingham,Company Director,Salary,75000,2026-01-23,No Match,Clear,Pending
+CUST0357,Individual,Liam Mehta,1955-04-01,United Kingdom,Manchester,Student,Inheritance,35000,2026-10-06,No Match,Clear,Rejected
+CUST0358,Individual,Liam Lewis,1976-10-06,UAE,Abu Dhabi,Student,Business Income,50000,2026-02-13,No Match,Clear,Verified
+CUST0359,Individual,Ishaan Taylor,2001-05-05,Germany,Munich,Salaried Employee,Salary,500000,2026-08-17,No Match,Clear,Verified
+CUST0360,Individual,Mia Taylor,1988-10-25,Malaysia,Penang,Company Director,Salary,250000,2026-10-02,Potential Match,Clear,Pending
+CUST0361,Individual,Vivaan Mehta,1962-12-23,United Kingdom,London,Real Estate Investor,Business Income,75000,2026-08-04,No Match,Clear,Rejected
+CUST0362,Individual,Olivia Ali,1985-07-24,Pakistan,Karachi,Business Owner,Other,50000,2026-04-04,No Match,Clear,Verified
+CUST0363,Individual,Priya Nair,1960-09-13,United Kingdom,Birmingham,Retired,Investment Returns,75000,2026-06-06,No Match,Clear,Rejected
+CUST0364,Individual,Neha Ali,1965-09-04,Germany,Frankfurt,Self-Employed,Salary,150000,2026-07-05,No Match,Clear,Pending
+CUST0365,Individual,Fatima Brown,1963-12-22,Malaysia,Kuala Lumpur,Self-Employed,Property Sale,75000,2026-05-25,No Match,Clear,Verified
+CUST0366,Individual,Olivia Lewis,2004-06-15,Canada,Toronto,Business Owner,Inheritance,50000,2026-03-14,No Match,Clear,Verified
+CUST0367,Individual,Omar Verma,1973-03-03,United Kingdom,Birmingham,Real Estate Investor,Investment Returns,35000,2026-02-14,No Match,Clear,Pending
+CUST0368,Corporate,Summit Trading 368,2006-02-22,Pakistan,Karachi,Self-Employed,Inheritance,150000,2026-03-08,Potential Match,Clear,Verified
+CUST0369,Corporate,Summit Ventures 369,1998-02-06,India,Pune,Company Director,Other,500000,2026-06-28,No Match,Clear,Pending
+CUST0370,Individual,Emma Gupta,1958-04-28,Singapore,Singapore,Retired,Investment Returns,150000,2026-07-14,No Match,Clear,Verified
+CUST0371,Corporate,Northstar Trading 371,2008-08-16,UAE,Abu Dhabi,Consultant,Business Income,100000,2026-08-08,No Match,Clear,Verified
+CUST0372,Individual,Olivia Sharma,1983-03-21,Singapore,Singapore,Self-Employed,Property Sale,250000,2026-06-12,No Match,Clear,Expired
+CUST0373,Corporate,Bluewave Ventures 373,2008-06-12,Germany,Berlin,Salaried Employee,Other,500000,2026-09-15,Potential Match,Clear,Verified
+CUST0374,Individual,Aarav Taylor,1961-08-24,United Kingdom,Birmingham,Company Director,Salary,35000,2026-02-20,No Match,Clear,Pending
+CUST0375,Individual,Olivia Ali,1972-11-09,Pakistan,Lahore,Self-Employed,Business Income,150000,2026-07-22,No Match,Clear,Verified
+CUST0376,Individual,Fatima Verma,1980-06-17,Turkey,Ankara,Consultant,Business Income,250000,2026-01-27,Potential Match,Potential Match,Verified
+CUST0377,Corporate,Northstar Ventures 377,2015-11-25,Turkey,Istanbul,Company Director,Salary,250000,2026-10-06,No Match,Clear,Verified
+CUST0378,Individual,Aisha Verma,1960-02-16,Canada,Montreal,Salaried Employee,Property Sale,50000,2026-03-04,No Match,Clear,Verified
+CUST0379,Corporate,Bluewave Group 379,2014-09-01,Nigeria,Abuja,Real Estate Investor,Property Sale,150000,2026-01-17,No Match,Clear,Verified
+CUST0380,Individual,Lucas Ali,1984-12-26,Singapore,Singapore,Consultant,Property Sale,35000,2026-09-04,No Match,Clear,Verified
+CUST0381,Individual,Ananya Brown,1978-11-27,Malaysia,Penang,Company Director,Investment Returns,250000,2026-02-25,No Match,Clear,Verified
+CUST0382,Individual,Omar Gupta,1984-10-26,United Kingdom,Manchester,Consultant,Other,25000,2026-01-05,No Match,Clear,Expired
+CUST0383,Individual,Liam Singh,1962-08-06,Malaysia,Kuala Lumpur,Company Director,Property Sale,25000,2026-09-10,No Match,Clear,Verified
+CUST0384,Individual,Omar Brown,1980-02-18,India,Bengaluru,Salaried Employee,Property Sale,100000,2026-08-01,No Match,Clear,Verified
+CUST0385,Individual,Vivaan Nair,1957-02-02,UAE,Dubai,Self-Employed,Other,25000,2026-07-08,No Match,Clear,Verified
+CUST0386,Corporate,Bluewave Properties 386,1997-05-25,United Kingdom,Birmingham,Retired,Other,150000,2026-09-08,Potential Match,Clear,Pending
+CUST0387,Individual,Noah Mehta,1987-02-05,Pakistan,Karachi,Company Director,Property Sale,150000,2026-09-28,No Match,Clear,Rejected
+CUST0388,Individual,Aisha Singh,1990-02-12,Canada,Montreal,Business Owner,Property Sale,500000,2026-09-01,No Match,Clear,Verified
+CUST0389,Individual,Neha Singh,1969-02-02,India,Bengaluru,Company Director,Other,25000,2026-08-10,No Match,Clear,Verified
+CUST0390,Individual,Aarav Singh,1966-09-23,Nigeria,Abuja,Student,Other,100000,2026-05-28,No Match,Clear,Verified
+CUST0391,Corporate,Summit Holdings 391,2010-04-16,Pakistan,Karachi,Salaried Employee,Investment Returns,150000,2026-01-05,No Match,Clear,Verified
+CUST0392,Individual,Omar Lewis,2004-11-28,UAE,Abu Dhabi,Self-Employed,Other,100000,2026-01-07,No Match,Clear,Verified
+CUST0393,Individual,Zain Hassan,1980-10-14,Singapore,Singapore,Company Director,Property Sale,50000,2026-10-06,No Match,Clear,Verified
+CUST0394,Corporate,Apex Trading 394,1995-08-02,Canada,Toronto,Retired,Property Sale,500000,2026-03-25,No Match,Clear,Verified
+CUST0395,Individual,Neha Patel,1985-06-08,India,Delhi,Real Estate Investor,Property Sale,35000,2026-08-10,No Match,Clear,Expired
+CUST0396,Individual,Liam Singh,1963-09-15,Germany,Frankfurt,Company Director,Investment Returns,50000,2026-08-25,No Match,Clear,Pending
+CUST0397,Corporate,Summit Group 397,2023-05-02,Pakistan,Karachi,Business Owner,Inheritance,50000,2026-09-20,No Match,Clear,Pending
+CUST0398,Individual,Rohan Walker,2002-08-05,UAE,Abu Dhabi,Self-Employed,Inheritance,75000,2026-01-28,No Match,Clear,Verified
+CUST0399,Individual,Sara Wilson,1985-03-27,Singapore,Singapore,Business Owner,Salary,25000,2026-08-16,No Match,Clear,Verified
+CUST0400,Individual,Fatima Singh,1984-07-27,United Kingdom,London,Consultant,Investment Returns,100000,2026-09-10,No Match,Clear,Verified
+CUST0401,Individual,Olivia Wilson,1987-02-06,Malaysia,Penang,Retired,Property Sale,75000,2026-09-14,No Match,Clear,Expired
+CUST0402,Corporate,Apex Holdings 402,2022-12-06,Pakistan,Lahore,Student,Salary,250000,2026-10-27,No Match,Clear,Verified
+CUST0403,Individual,Aarav Verma,1975-02-23,UAE,Dubai,Business Owner,Inheritance,150000,2026-02-07,No Match,Clear,Pending
+CUST0404,Individual,Liam Walker,1959-06-06,Singapore,Singapore,Business Owner,Property Sale,25000,2026-01-18,No Match,Clear,Verified
+CUST0405,Individual,Neha Ali,1971-07-23,United Kingdom,London,Business Owner,Salary,150000,2026-04-29,No Match,Clear,Verified
+CUST0406,Individual,Omar Patel,1970-08-03,Turkey,Istanbul,Salaried Employee,Inheritance,75000,2026-01-31,Potential Match,Potential Match,Verified
+CUST0407,Individual,Ananya Walker,1993-07-22,Canada,Montreal,Self-Employed,Salary,25000,2026-04-27,No Match,Clear,Verified
+CUST0408,Individual,Liam Walker,1991-01-26,Turkey,Istanbul,Self-Employed,Business Income,25000,2026-04-29,No Match,Clear,Verified
+CUST0409,Trust,Bluewave Trading 409,2006-09-10,Malaysia,Kuala Lumpur,Business Owner,Business Income,150000,2026-09-11,No Match,Clear,Pending
+CUST0410,Individual,Noah Martin,1962-01-16,Malaysia,Penang,Consultant,Other,75000,2026-03-14,No Match,Clear,Pending
+CUST0411,Individual,Omar Nair,2003-10-07,India,Bengaluru,Real Estate Investor,Inheritance,25000,2026-10-05,No Match,Clear,Verified
+CUST0412,Individual,Aisha Khan,1970-09-10,Canada,Montreal,Student,Property Sale,25000,2026-05-02,No Match,Clear,Pending
+CUST0413,Individual,Vivaan Khan,1972-10-18,India,Mumbai,Real Estate Investor,Investment Returns,75000,2026-07-03,No Match,Clear,Expired
+CUST0414,Individual,Aisha Nair,1956-11-28,United Kingdom,Birmingham,Real Estate Investor,Salary,75000,2026-10-11,No Match,Clear,Verified
+CUST0415,Individual,Liam Brown,1985-05-20,Singapore,Singapore,Company Director,Property Sale,150000,2026-06-17,No Match,Clear,Pending
+CUST0416,Corporate,Apex Group 416,2020-01-20,Turkey,Ankara,Real Estate Investor,Inheritance,250000,2026-04-25,No Match,Clear,Verified
+CUST0417,Individual,Emma Reddy,1983-07-08,Germany,Berlin,Consultant,Property Sale,35000,2026-06-30,No Match,Clear,Verified
+CUST0418,Individual,Ishaan Taylor,1971-09-23,Germany,Munich,Real Estate Investor,Business Income,25000,2026-04-03,No Match,Clear,Verified
+CUST0419,Individual,Zain Martin,1981-11-15,Nigeria,Abuja,Student,Salary,25000,2026-02-25,No Match,Clear,Pending
+CUST0420,Individual,Vivaan Lewis,1988-10-17,Malaysia,Penang,Real Estate Investor,Property Sale,500000,2026-04-29,No Match,Clear,Verified
+CUST0421,Individual,Aisha Mehta,1961-04-18,Malaysia,Penang,Student,Business Income,35000,2026-05-13,No Match,Clear,Pending
+CUST0422,Individual,Aisha Khan,1963-05-24,Germany,Berlin,Retired,Investment Returns,250000,2026-03-03,Potential Match,Clear,Verified
+CUST0423,Individual,Aarav Reddy,1963-10-13,Turkey,Istanbul,Company Director,Other,25000,2026-10-13,No Match,Clear,Pending
+CUST0424,Corporate,Bluewave Group 424,2002-11-12,UAE,Sharjah,Business Owner,Inheritance,100000,2026-08-03,No Match,Clear,Pending
+CUST0425,Individual,Ishaan Brown,1999-07-23,Nigeria,Abuja,Student,Property Sale,500000,2026-03-01,No Match,Clear,Verified
+CUST0426,Individual,Neha Hassan,1995-01-10,Nigeria,Lagos,Company Director,Other,500000,2026-01-28,No Match,Clear,Pending
+CUST0427,Individual,Ananya Brown,1989-04-06,United Kingdom,Birmingham,Company Director,Inheritance,25000,2026-10-11,Potential Match,Clear,Verified
+CUST0428,Individual,Neha Patel,1972-12-04,Singapore,Singapore,Business Owner,Other,75000,2026-06-04,No Match,Clear,Verified
+CUST0429,Individual,Mia Clark,1979-05-14,Turkey,Istanbul,Student,Property Sale,35000,2026-08-23,No Match,Clear,Rejected
+CUST0430,Individual,Rohan Khan,1961-09-06,Nigeria,Abuja,Salaried Employee,Property Sale,100000,2026-02-25,No Match,Clear,Verified
+CUST0431,Individual,Emma Walker,1986-06-21,Singapore,Singapore,Self-Employed,Inheritance,75000,2026-01-03,No Match,Clear,Pending
+CUST0432,Individual,Olivia Clark,1963-12-28,UAE,Abu Dhabi,Business Owner,Other,50000,2026-08-06,No Match,Clear,Pending
+CUST0433,Individual,Rohan Verma,1988-12-27,Germany,Frankfurt,Consultant,Property Sale,75000,2026-08-30,No Match,Clear,Verified
+CUST0434,Individual,Aisha Ali,1982-10-24,Singapore,Singapore,Retired,Business Income,25000,2026-04-26,No Match,Clear,Verified
+CUST0435,Individual,Priya Sharma,1969-04-03,UAE,Sharjah,Real Estate Investor,Business Income,500000,2026-05-22,No Match,Clear,Pending
+CUST0436,Individual,Ananya Verma,1995-05-23,Nigeria,Abuja,Company Director,Inheritance,35000,2026-09-25,No Match,Clear,Verified
+CUST0437,Individual,Aarav Gupta,1983-06-17,Germany,Berlin,Self-Employed,Business Income,150000,2026-04-08,No Match,Clear,Pending
+CUST0438,Individual,Priya Clark,2002-11-25,Canada,Montreal,Student,Investment Returns,500000,2026-08-30,No Match,Clear,Verified
+CUST0439,Individual,Zain Lewis,1955-11-13,UAE,Dubai,Student,Inheritance,50000,2026-06-12,No Match,Clear,Verified
+CUST0440,Individual,Noah Khan,1962-02-06,India,Delhi,Salaried Employee,Inheritance,35000,2026-10-18,No Match,Clear,Pending
+CUST0441,Corporate,Summit Trading 441,2008-04-27,Singapore,Singapore,Consultant,Business Income,100000,2026-05-27,No Match,Clear,Verified
+CUST0442,Individual,Sara Gupta,1976-12-17,Germany,Munich,Real Estate Investor,Property Sale,250000,2026-10-19,No Match,Clear,Expired
+CUST0443,Individual,Emma Hassan,1976-11-04,Turkey,Istanbul,Company Director,Investment Returns,50000,2026-07-03,No Match,Clear,Verified
+CUST0444,Individual,Liam Nair,1991-07-19,Malaysia,Penang,Self-Employed,Investment Returns,35000,2026-04-30,No Match,Clear,Verified
+CUST0445,Individual,Priya Reddy,1968-07-03,India,Mumbai,Retired,Salary,100000,2026-03-30,No Match,Clear,Verified
+CUST0446,Corporate,Bluewave Group 446,2007-09-03,Nigeria,Lagos,Consultant,Other,100000,2026-07-24,No Match,Clear,Verified
+CUST0447,Individual,Priya Taylor,1964-05-10,Turkey,Istanbul,Consultant,Other,250000,2026-02-17,No Match,Clear,Verified
+CUST0448,Individual,Fatima Taylor,2004-01-10,Pakistan,Karachi,Company Director,Other,500000,2026-08-21,No Match,Clear,Verified
+CUST0449,Individual,Vivaan Martin,1973-01-04,Turkey,Ankara,Company Director,Investment Returns,500000,2026-05-13,No Match,Clear,Rejected
+CUST0450,Individual,Lucas Singh,1963-12-05,United Kingdom,Manchester,Salaried Employee,Salary,50000,2026-07-22,No Match,Clear,Pending
+CUST0451,Individual,Priya Nair,2001-11-24,Germany,Berlin,Business Owner,Salary,250000,2026-06-04,Potential Match,Clear,Expired
+CUST0452,Individual,Aarav Taylor,1968-01-26,Germany,Frankfurt,Real Estate Investor,Property Sale,100000,2026-04-03,No Match,Clear,Verified
+CUST0453,Individual,Omar Hassan,1977-08-05,India,Delhi,Retired,Property Sale,25000,2026-09-01,No Match,Clear,Rejected
+CUST0454,Individual,Zain Taylor,1981-01-25,UAE,Sharjah,Self-Employed,Inheritance,50000,2026-01-16,Confirmed PEP,Clear,Verified
+CUST0455,Individual,Liam Nair,1975-06-21,UAE,Abu Dhabi,Real Estate Investor,Business Income,150000,2026-10-09,Confirmed PEP,Clear,Verified
+CUST0456,Individual,Ishaan Wilson,1992-11-14,Pakistan,Lahore,Real Estate Investor,Other,50000,2026-08-26,Potential Match,Clear,Pending
+CUST0457,Individual,Noah Brown,2001-04-06,Nigeria,Lagos,Retired,Business Income,75000,2026-07-19,No Match,Clear,Verified
+CUST0458,Trust,Apex Ventures 458,2022-09-16,Singapore,Singapore,Business Owner,Salary,35000,2026-05-06,No Match,Clear,Verified
+CUST0459,Individual,Rohan Nair,2003-10-25,India,Delhi,Salaried Employee,Salary,35000,2026-08-14,No Match,Clear,Verified
+CUST0460,Corporate,Apex Properties 460,1999-09-10,UAE,Abu Dhabi,Student,Inheritance,100000,2026-05-13,No Match,Clear,Verified
+CUST0461,Individual,Sara Mehta,1992-01-09,Pakistan,Lahore,Real Estate Investor,Inheritance,75000,2026-04-27,No Match,Clear,Expired
+CUST0462,Individual,Ananya Reddy,1964-05-20,Turkey,Ankara,Real Estate Investor,Property Sale,75000,2026-02-03,No Match,Clear,Pending
+CUST0463,Individual,Mia Lewis,1970-04-09,Singapore,Singapore,Self-Employed,Investment Returns,25000,2026-10-03,No Match,Clear,Verified
+CUST0464,Individual,Lucas Patel,1975-11-03,Canada,Toronto,Real Estate Investor,Salary,500000,2026-10-25,No Match,Clear,Verified
+CUST0465,Individual,Daniel Nair,1986-11-06,Malaysia,Kuala Lumpur,Retired,Investment Returns,100000,2026-08-22,No Match,Clear,Pending
+CUST0466,Individual,Liam Ali,1961-08-11,Turkey,Ankara,Real Estate Investor,Salary,50000,2026-09-11,No Match,Clear,Pending
+CUST0467,Individual,Olivia Clark,1996-10-26,Turkey,Ankara,Real Estate Investor,Property Sale,50000,2026-03-22,No Match,Clear,Verified
+CUST0468,Individual,Ananya Gupta,1997-12-09,Germany,Munich,Salaried Employee,Salary,100000,2026-03-13,No Match,Clear,Verified
+CUST0469,Individual,Aisha Wilson,1958-02-02,Pakistan,Lahore,Retired,Business Income,500000,2026-07-19,No Match,Clear,Verified
+CUST0470,Trust,Summit Trading 470,2017-01-05,UAE,Abu Dhabi,Real Estate Investor,Inheritance,100000,2026-05-06,No Match,Clear,Verified
+CUST0471,Individual,Vivaan Lewis,1958-09-12,Singapore,Singapore,Student,Investment Returns,250000,2026-07-30,No Match,Clear,Verified
+CUST0472,Individual,Noah Martin,2002-03-21,UAE,Sharjah,Real Estate Investor,Property Sale,250000,2026-04-08,No Match,Clear,Verified
+CUST0473,Individual,Ananya Brown,2000-10-05,Canada,Toronto,Self-Employed,Other,500000,2026-06-17,No Match,Clear,Verified
+CUST0474,Corporate,Bluewave Holdings 474,2021-07-01,UAE,Abu Dhabi,Consultant,Business Income,25000,2026-04-22,Potential Match,Clear,Verified
+CUST0475,Individual,Aditya Lewis,1978-08-09,UAE,Dubai,Real Estate Investor,Business Income,75000,2026-06-12,No Match,Clear,Verified
+CUST0476,Corporate,Northstar Properties 476,2000-10-01,UAE,Abu Dhabi,Business Owner,Salary,150000,2026-05-21,No Match,Clear,Verified
+CUST0477,Individual,Ananya Ali,1980-11-12,Germany,Frankfurt,Real Estate Investor,Investment Returns,25000,2026-02-26,No Match,Clear,Expired
+CUST0478,Individual,Noah Taylor,1989-08-05,Nigeria,Lagos,Real Estate Investor,Investment Returns,35000,2026-08-03,No Match,Clear,Verified
+CUST0479,Individual,Ishaan Wilson,1973-10-04,Malaysia,Kuala Lumpur,Consultant,Other,35000,2026-04-26,No Match,Clear,Verified
+CUST0480,Individual,Priya Wilson,1975-01-19,Germany,Frankfurt,Company Director,Business Income,25000,2026-03-15,No Match,Clear,Verified
+CUST0481,Individual,Omar Lewis,1971-02-26,Canada,Montreal,Real Estate Investor,Other,35000,2026-08-22,Potential Match,Clear,Pending
+CUST0482,Corporate,Northstar Holdings 482,2001-12-24,Canada,Toronto,Business Owner,Other,50000,2026-09-19,No Match,Clear,Verified
+CUST0483,Individual,Sara Wilson,1988-07-16,United Kingdom,Manchester,Consultant,Investment Returns,25000,2026-04-14,No Match,Clear,Expired
+CUST0484,Individual,Neha Nair,1963-07-04,Malaysia,Kuala Lumpur,Real Estate Investor,Salary,150000,2026-04-10,No Match,Clear,Verified
+CUST0485,Individual,Omar Nair,1957-07-27,UAE,Sharjah,Retired,Other,35000,2026-08-21,No Match,Clear,Expired
+CUST0486,Trust,Apex Trading 486,2021-12-24,UAE,Dubai,Self-Employed,Other,25000,2026-08-10,No Match,Clear,Verified
+CUST0487,Individual,Daniel Singh,1992-11-04,Pakistan,Karachi,Student,Salary,250000,2026-10-17,No Match,Clear,Expired
+CUST0488,Individual,Omar Singh,1973-07-26,Germany,Frankfurt,Salaried Employee,Salary,50000,2026-01-14,No Match,Clear,Verified
+CUST0489,Individual,Daniel Walker,2002-04-11,Canada,Toronto,Self-Employed,Property Sale,150000,2026-09-13,No Match,Clear,Verified
+CUST0490,Individual,Lucas Verma,1980-10-23,Pakistan,Lahore,Real Estate Investor,Inheritance,100000,2026-09-17,No Match,Clear,Verified
+CUST0491,Individual,Rohan Nair,1956-08-08,United Kingdom,Manchester,Student,Inheritance,75000,2026-08-15,Potential Match,Clear,Verified
+CUST0492,Corporate,Cedar Trading 492,2008-06-12,Malaysia,Penang,Consultant,Other,100000,2026-10-22,No Match,Clear,Verified
+CUST0493,Individual,Vivaan Martin,1994-08-16,UAE,Sharjah,Consultant,Inheritance,100000,2026-04-25,No Match,Clear,Expired
+CUST0494,Individual,Noah Ali,1989-12-22,United Kingdom,London,Student,Other,75000,2026-03-10,No Match,Clear,Pending
+CUST0495,Individual,Emma Singh,1976-02-04,Germany,Frankfurt,Company Director,Other,25000,2026-04-02,Potential Match,Clear,Verified
+CUST0496,Individual,Noah Singh,1988-05-01,United Kingdom,London,Student,Property Sale,35000,2026-06-29,No Match,Clear,Verified
+CUST0497,Individual,Rohan Brown,1991-03-15,Canada,Toronto,Business Owner,Other,35000,2026-04-22,No Match,Clear,Verified
+CUST0498,Individual,Ishaan Walker,1959-06-08,UAE,Abu Dhabi,Business Owner,Investment Returns,250000,2026-06-22,No Match,Clear,Verified
+CUST0499,Corporate,Bluewave Ventures 499,1997-08-01,Malaysia,Kuala Lumpur,Company Director,Investment Returns,250000,2026-04-12,No Match,Clear,Pending
+CUST0500,Corporate,Summit Holdings 500,2021-11-28,India,Hyderabad,Real Estate Investor,Property Sale,75000,2026-06-05,No Match,Clear,Pending

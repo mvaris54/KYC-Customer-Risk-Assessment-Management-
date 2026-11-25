@@ -1,0 +1,1001 @@
+document_record_id,customer_id,document_type,verification_status,issue_date,expiry_date,verification_method,review_notes
+DOC0001A,CUST0001,Passport,Pending,2021-12-13,2029-06-10,Third-Party Check,Name/address mismatch requires review
+DOC0001B,CUST0001,Proof of Address,Verified,2025-11-21,2026-10-03,Tenancy Agreement,Document rejected – resubmission required
+DOC0002A,CUST0002,Trade Licence,Verified,2022-10-28,2028-02-25,Third-Party Check,Additional evidence requested
+DOC0002B,CUST0002,Proof of Address,Verified,2026-04-28,2026-07-08,Tenancy Agreement,Address confirmation pending
+DOC0003A,CUST0003,Trade Licence,Verified,2022-02-28,2028-12-22,Manual Review,Document expired – renewal required
+DOC0003B,CUST0003,Proof of Address,Verified,2026-01-22,2026-07-03,Utility Bill,Document rejected – resubmission required
+DOC0004A,CUST0004,National ID,Verified,2025-10-11,2030-05-11,Manual Review,Document details checked
+DOC0004B,CUST0004,Proof of Address,Verified,2026-04-05,2027-05-01,Utility Bill,Proof of address verified
+DOC0005A,CUST0005,Trade Licence,Pending,2024-10-25,2028-12-07,Manual Review,Document details checked
+DOC0005B,CUST0005,Proof of Address,Pending,2025-12-07,2026-11-15,Tenancy Agreement,Address confirmation pending
+DOC0006A,CUST0006,Trade Licence,Verified,2025-02-07,2027-05-08,Third-Party Check,Name/address mismatch requires review
+DOC0006B,CUST0006,Proof of Address,Verified,2025-12-17,2026-12-13,Tenancy Agreement,Address confirmation pending
+DOC0007A,CUST0007,Trade Licence,Verified,2024-08-05,2027-04-29,Third-Party Check,Name/address mismatch requires review
+DOC0007B,CUST0007,Proof of Address,Verified,2025-11-10,2026-11-06,Utility Bill,Proof of address verified
+DOC0008A,CUST0008,Trade Licence,Pending,2023-07-18,2026-09-05,Digital Verification,Additional evidence requested
+DOC0008B,CUST0008,Proof of Address,Verified,2025-12-10,2026-11-13,Utility Bill,Address matched
+DOC0009A,CUST0009,National ID,Verified,2022-07-30,2030-05-31,Third-Party Check,Name/address mismatch requires review
+DOC0009B,CUST0009,Proof of Address,Verified,2026-06-15,2026-11-29,Bank Statement,Address confirmation pending
+DOC0010A,CUST0010,Trade Licence,Expired,2025-07-22,2028-03-13,Third-Party Check,Document expired – renewal required
+DOC0010B,CUST0010,Proof of Address,Verified,2025-11-29,2026-06-18,Tenancy Agreement,Document rejected – resubmission required
+DOC0011A,CUST0011,National ID,Verified,2024-06-04,2026-09-28,Digital Verification,Document expired – renewal required
+DOC0011B,CUST0011,Proof of Address,Expired,2025-09-03,2027-02-06,Tenancy Agreement,Address matched
+DOC0012A,CUST0012,National ID,Verified,2024-11-06,2026-06-25,Manual Review,Document expired – renewal required
+DOC0012B,CUST0012,Proof of Address,Verified,2026-05-22,2027-06-16,Bank Statement,Address confirmation pending
+DOC0013A,CUST0013,Passport,Verified,2022-10-14,2026-12-07,Digital Verification,Name/address mismatch requires review
+DOC0013B,CUST0013,Proof of Address,Verified,2026-03-03,2026-11-26,Utility Bill,Address confirmation pending
+DOC0014A,CUST0014,Passport,Verified,2022-04-10,2026-11-21,Digital Verification,Document expired – renewal required
+DOC0014B,CUST0014,Proof of Address,Pending,2025-11-09,2026-03-26,Bank Statement,Document rejected – resubmission required
+DOC0015A,CUST0015,Passport,Expired,2025-02-06,2026-08-11,Third-Party Check,Name/address mismatch requires review
+DOC0015B,CUST0015,Proof of Address,Verified,2026-08-10,2027-06-03,Tenancy Agreement,Address confirmation pending
+DOC0016A,CUST0016,Trade Licence,Verified,2023-02-22,2027-11-09,Digital Verification,Document details checked
+DOC0016B,CUST0016,Proof of Address,Verified,2026-03-15,2026-11-24,Utility Bill,Proof of address verified
+DOC0017A,CUST0017,Passport,Verified,2025-01-06,2028-11-20,Third-Party Check,Document details checked
+DOC0017B,CUST0017,Proof of Address,Verified,2026-02-24,2027-02-18,Tenancy Agreement,Address confirmation pending
+DOC0018A,CUST0018,Trade Licence,Verified,2023-03-26,2028-03-07,Digital Verification,Name/address mismatch requires review
+DOC0018B,CUST0018,Proof of Address,Pending,2026-04-07,2027-05-11,Utility Bill,Proof of address verified
+DOC0019A,CUST0019,National ID,Verified,2023-01-26,2028-07-23,Digital Verification,Document details checked
+DOC0019B,CUST0019,Proof of Address,Verified,2026-01-18,2026-11-12,Bank Statement,Address matched
+DOC0020A,CUST0020,Trade Licence,Pending,2022-06-03,2028-04-30,Third-Party Check,Additional evidence requested
+DOC0020B,CUST0020,Proof of Address,Verified,2025-12-24,2026-07-27,Tenancy Agreement,Address matched
+DOC0021A,CUST0021,Passport,Verified,2024-06-28,2027-07-18,Third-Party Check,Document details checked
+DOC0021B,CUST0021,Proof of Address,Verified,2026-01-28,2026-09-02,Utility Bill,Address confirmation pending
+DOC0022A,CUST0022,National ID,Verified,2023-11-09,2029-12-03,Manual Review,Document details checked
+DOC0022B,CUST0022,Proof of Address,Pending,2025-09-29,2027-02-14,Utility Bill,Address matched
+DOC0023A,CUST0023,Passport,Verified,2023-08-02,2029-12-28,Digital Verification,Name/address mismatch requires review
+DOC0023B,CUST0023,Proof of Address,Verified,2026-04-06,2027-04-14,Tenancy Agreement,Document rejected – resubmission required
+DOC0024A,CUST0024,Passport,Verified,2023-04-27,2027-02-14,Manual Review,Additional evidence requested
+DOC0024B,CUST0024,Proof of Address,Pending,2026-01-04,2027-01-24,Tenancy Agreement,Address confirmation pending
+DOC0025A,CUST0025,Passport,Verified,2025-04-28,2028-01-03,Manual Review,Additional evidence requested
+DOC0025B,CUST0025,Proof of Address,Verified,2026-05-07,2026-11-13,Tenancy Agreement,Proof of address verified
+DOC0026A,CUST0026,National ID,Verified,2023-05-09,2028-07-02,Digital Verification,Document expired – renewal required
+DOC0026B,CUST0026,Proof of Address,Pending,2025-12-07,2026-03-21,Bank Statement,Proof of address verified
+DOC0027A,CUST0027,Trade Licence,Rejected,2024-04-18,2028-03-31,Third-Party Check,Document details checked
+DOC0027B,CUST0027,Proof of Address,Verified,2026-05-09,2027-01-01,Utility Bill,Address confirmation pending
+DOC0028A,CUST0028,Passport,Verified,2023-12-07,2026-10-17,Third-Party Check,Additional evidence requested
+DOC0028B,CUST0028,Proof of Address,Verified,2025-12-10,2026-09-08,Bank Statement,Address confirmation pending
+DOC0029A,CUST0029,Trade Licence,Verified,2025-03-21,2026-08-07,Manual Review,Additional evidence requested
+DOC0029B,CUST0029,Proof of Address,Pending,2026-03-25,2027-08-04,Tenancy Agreement,Address matched
+DOC0030A,CUST0030,Passport,Verified,2024-10-04,2028-10-01,Third-Party Check,Name/address mismatch requires review
+DOC0030B,CUST0030,Proof of Address,Verified,2026-06-27,2027-05-02,Tenancy Agreement,Address matched
+DOC0031A,CUST0031,Passport,Pending,2025-01-12,2028-12-08,Third-Party Check,Name/address mismatch requires review
+DOC0031B,CUST0031,Proof of Address,Verified,2026-08-22,2026-11-06,Tenancy Agreement,Address confirmation pending
+DOC0032A,CUST0032,Passport,Rejected,2024-03-06,2027-03-26,Third-Party Check,Additional evidence requested
+DOC0032B,CUST0032,Proof of Address,Verified,2026-05-12,2026-11-17,Bank Statement,Document rejected – resubmission required
+DOC0033A,CUST0033,National ID,Verified,2026-06-09,2028-04-19,Third-Party Check,Name/address mismatch requires review
+DOC0033B,CUST0033,Proof of Address,Verified,2026-06-30,2027-05-21,Tenancy Agreement,Address confirmation pending
+DOC0034A,CUST0034,National ID,Verified,2022-11-07,2026-10-11,Digital Verification,Name/address mismatch requires review
+DOC0034B,CUST0034,Proof of Address,Verified,2026-05-08,2027-07-14,Tenancy Agreement,Proof of address verified
+DOC0035A,CUST0035,Passport,Expired,2024-06-01,2027-11-27,Digital Verification,Name/address mismatch requires review
+DOC0035B,CUST0035,Proof of Address,Pending,2026-01-14,2026-07-26,Tenancy Agreement,Proof of address verified
+DOC0036A,CUST0036,Passport,Rejected,2025-11-11,2028-08-02,Digital Verification,Document expired – renewal required
+DOC0036B,CUST0036,Proof of Address,Verified,2025-11-28,2027-01-13,Tenancy Agreement,Document rejected – resubmission required
+DOC0037A,CUST0037,National ID,Verified,2025-03-08,2029-09-17,Digital Verification,Additional evidence requested
+DOC0037B,CUST0037,Proof of Address,Pending,2026-02-09,2026-11-26,Tenancy Agreement,Document rejected – resubmission required
+DOC0038A,CUST0038,Trade Licence,Verified,2024-10-21,2027-02-02,Digital Verification,Name/address mismatch requires review
+DOC0038B,CUST0038,Proof of Address,Pending,2026-03-17,2026-12-21,Utility Bill,Proof of address verified
+DOC0039A,CUST0039,National ID,Verified,2023-01-13,2027-07-13,Third-Party Check,Document details checked
+DOC0039B,CUST0039,Proof of Address,Pending,2026-02-02,2027-04-08,Tenancy Agreement,Document rejected – resubmission required
+DOC0040A,CUST0040,Passport,Pending,2022-10-22,2028-08-02,Manual Review,Name/address mismatch requires review
+DOC0040B,CUST0040,Proof of Address,Verified,2026-06-12,2027-03-03,Bank Statement,Address matched
+DOC0041A,CUST0041,Trade Licence,Verified,2024-09-26,2027-02-02,Digital Verification,Additional evidence requested
+DOC0041B,CUST0041,Proof of Address,Verified,2025-08-11,2026-02-11,Bank Statement,Address confirmation pending
+DOC0042A,CUST0042,Trade Licence,Verified,2025-11-24,2028-11-16,Third-Party Check,Additional evidence requested
+DOC0042B,CUST0042,Proof of Address,Verified,2026-02-27,2026-09-25,Tenancy Agreement,Document rejected – resubmission required
+DOC0043A,CUST0043,Trade Licence,Rejected,2023-09-07,2026-06-27,Third-Party Check,Document details checked
+DOC0043B,CUST0043,Proof of Address,Verified,2025-09-19,2027-03-04,Tenancy Agreement,Address confirmation pending
+DOC0044A,CUST0044,National ID,Verified,2025-11-08,2029-07-15,Manual Review,Document expired – renewal required
+DOC0044B,CUST0044,Proof of Address,Verified,2026-03-12,2026-12-01,Bank Statement,Document rejected – resubmission required
+DOC0045A,CUST0045,Trade Licence,Verified,2023-04-05,2030-04-26,Third-Party Check,Document details checked
+DOC0045B,CUST0045,Proof of Address,Verified,2026-05-09,2027-03-27,Utility Bill,Address confirmation pending
+DOC0046A,CUST0046,Trade Licence,Verified,2024-11-04,2030-11-07,Third-Party Check,Document details checked
+DOC0046B,CUST0046,Proof of Address,Verified,2026-09-15,2027-01-16,Utility Bill,Address matched
+DOC0047A,CUST0047,Passport,Verified,2024-11-29,2027-08-15,Manual Review,Document expired – renewal required
+DOC0047B,CUST0047,Proof of Address,Verified,2026-06-24,2027-03-23,Utility Bill,Address matched
+DOC0048A,CUST0048,National ID,Verified,2025-12-02,2028-09-01,Manual Review,Document expired – renewal required
+DOC0048B,CUST0048,Proof of Address,Pending,2026-07-11,2027-08-05,Bank Statement,Document rejected – resubmission required
+DOC0049A,CUST0049,Trade Licence,Verified,2023-01-07,2027-04-19,Manual Review,Document details checked
+DOC0049B,CUST0049,Proof of Address,Verified,2026-08-12,2027-02-27,Utility Bill,Address confirmation pending
+DOC0050A,CUST0050,National ID,Rejected,2024-10-31,2029-07-10,Manual Review,Document expired – renewal required
+DOC0050B,CUST0050,Proof of Address,Verified,2026-02-05,2026-08-21,Bank Statement,Proof of address verified
+DOC0051A,CUST0051,National ID,Verified,2025-05-26,2027-09-27,Third-Party Check,Document details checked
+DOC0051B,CUST0051,Proof of Address,Expired,2025-09-14,2027-01-17,Utility Bill,Address matched
+DOC0052A,CUST0052,Trade Licence,Verified,2022-08-19,2026-09-08,Digital Verification,Document details checked
+DOC0052B,CUST0052,Proof of Address,Pending,2025-09-06,2026-05-16,Bank Statement,Document rejected – resubmission required
+DOC0053A,CUST0053,Passport,Pending,2024-09-28,2030-10-15,Digital Verification,Additional evidence requested
+DOC0053B,CUST0053,Proof of Address,Pending,2026-07-31,2027-01-05,Utility Bill,Address matched
+DOC0054A,CUST0054,National ID,Verified,2022-09-23,2027-08-01,Third-Party Check,Name/address mismatch requires review
+DOC0054B,CUST0054,Proof of Address,Pending,2026-01-25,2027-01-23,Utility Bill,Document rejected – resubmission required
+DOC0055A,CUST0055,Passport,Verified,2022-03-19,2028-12-04,Manual Review,Document expired – renewal required
+DOC0055B,CUST0055,Proof of Address,Verified,2026-03-22,2026-08-03,Bank Statement,Proof of address verified
+DOC0056A,CUST0056,Passport,Verified,2025-04-06,2026-01-30,Digital Verification,Name/address mismatch requires review
+DOC0056B,CUST0056,Proof of Address,Verified,2025-08-16,2026-05-23,Tenancy Agreement,Proof of address verified
+DOC0057A,CUST0057,Trade Licence,Pending,2023-05-14,2029-04-24,Manual Review,Additional evidence requested
+DOC0057B,CUST0057,Proof of Address,Verified,2026-02-17,2027-01-07,Utility Bill,Document rejected – resubmission required
+DOC0058A,CUST0058,Trade Licence,Pending,2025-11-11,2030-08-09,Third-Party Check,Document expired – renewal required
+DOC0058B,CUST0058,Proof of Address,Verified,2026-06-06,2026-09-01,Bank Statement,Document rejected – resubmission required
+DOC0059A,CUST0059,Trade Licence,Verified,2024-11-27,2027-06-01,Digital Verification,Document details checked
+DOC0059B,CUST0059,Proof of Address,Verified,2025-08-07,2026-08-09,Bank Statement,Address matched
+DOC0060A,CUST0060,Trade Licence,Verified,2024-11-12,2028-01-28,Digital Verification,Name/address mismatch requires review
+DOC0060B,CUST0060,Proof of Address,Verified,2026-06-27,2027-04-23,Bank Statement,Proof of address verified
+DOC0061A,CUST0061,Trade Licence,Verified,2024-02-02,2028-01-03,Digital Verification,Document details checked
+DOC0061B,CUST0061,Proof of Address,Verified,2025-10-19,2026-07-09,Tenancy Agreement,Proof of address verified
+DOC0062A,CUST0062,Trade Licence,Expired,2023-11-23,2027-08-08,Manual Review,Additional evidence requested
+DOC0062B,CUST0062,Proof of Address,Verified,2026-09-04,2027-06-11,Utility Bill,Proof of address verified
+DOC0063A,CUST0063,National ID,Verified,2023-04-28,2029-06-21,Digital Verification,Name/address mismatch requires review
+DOC0063B,CUST0063,Proof of Address,Rejected,2026-02-13,2026-10-09,Tenancy Agreement,Address matched
+DOC0064A,CUST0064,Passport,Verified,2024-05-24,2026-11-09,Manual Review,Document expired – renewal required
+DOC0064B,CUST0064,Proof of Address,Verified,2026-01-08,2026-09-30,Tenancy Agreement,Document rejected – resubmission required
+DOC0065A,CUST0065,Trade Licence,Rejected,2025-03-18,2030-07-11,Third-Party Check,Name/address mismatch requires review
+DOC0065B,CUST0065,Proof of Address,Verified,2026-01-14,2027-06-14,Utility Bill,Proof of address verified
+DOC0066A,CUST0066,National ID,Verified,2024-05-02,2027-02-19,Digital Verification,Document details checked
+DOC0066B,CUST0066,Proof of Address,Verified,2026-06-05,2027-01-26,Bank Statement,Address matched
+DOC0067A,CUST0067,National ID,Expired,2023-12-10,2026-09-10,Manual Review,Name/address mismatch requires review
+DOC0067B,CUST0067,Proof of Address,Rejected,2026-06-15,2027-07-14,Utility Bill,Address confirmation pending
+DOC0068A,CUST0068,Trade Licence,Verified,2025-03-14,2028-02-27,Third-Party Check,Document expired – renewal required
+DOC0068B,CUST0068,Proof of Address,Pending,2026-04-27,2026-12-29,Tenancy Agreement,Proof of address verified
+DOC0069A,CUST0069,National ID,Rejected,2023-09-21,2029-01-10,Manual Review,Additional evidence requested
+DOC0069B,CUST0069,Proof of Address,Pending,2026-06-26,2027-08-27,Bank Statement,Address confirmation pending
+DOC0070A,CUST0070,Trade Licence,Pending,2023-04-08,2027-08-13,Third-Party Check,Document details checked
+DOC0070B,CUST0070,Proof of Address,Verified,2026-03-05,2027-05-04,Utility Bill,Proof of address verified
+DOC0071A,CUST0071,National ID,Verified,2022-11-28,2029-02-19,Third-Party Check,Name/address mismatch requires review
+DOC0071B,CUST0071,Proof of Address,Verified,2026-06-25,2027-01-10,Bank Statement,Document rejected – resubmission required
+DOC0072A,CUST0072,National ID,Rejected,2025-07-12,2029-04-05,Third-Party Check,Name/address mismatch requires review
+DOC0072B,CUST0072,Proof of Address,Expired,2026-01-05,2026-11-09,Utility Bill,Document rejected – resubmission required
+DOC0073A,CUST0073,Trade Licence,Pending,2025-01-13,2029-09-17,Manual Review,Document details checked
+DOC0073B,CUST0073,Proof of Address,Verified,2026-04-24,2027-01-16,Bank Statement,Proof of address verified
+DOC0074A,CUST0074,Passport,Verified,2025-05-04,2028-06-30,Manual Review,Document details checked
+DOC0074B,CUST0074,Proof of Address,Pending,2026-02-14,2027-03-06,Utility Bill,Document rejected – resubmission required
+DOC0075A,CUST0075,Trade Licence,Pending,2024-03-09,2027-07-26,Third-Party Check,Additional evidence requested
+DOC0075B,CUST0075,Proof of Address,Verified,2026-01-13,2027-02-04,Tenancy Agreement,Proof of address verified
+DOC0076A,CUST0076,Trade Licence,Verified,2024-12-20,2026-06-23,Third-Party Check,Document details checked
+DOC0076B,CUST0076,Proof of Address,Verified,2026-01-17,2026-11-20,Utility Bill,Proof of address verified
+DOC0077A,CUST0077,Passport,Expired,2023-07-01,2028-10-12,Third-Party Check,Document expired – renewal required
+DOC0077B,CUST0077,Proof of Address,Verified,2026-06-21,2027-05-25,Utility Bill,Address matched
+DOC0078A,CUST0078,National ID,Verified,2022-03-24,2027-07-24,Third-Party Check,Document details checked
+DOC0078B,CUST0078,Proof of Address,Verified,2025-10-19,2026-07-08,Utility Bill,Address confirmation pending
+DOC0079A,CUST0079,Trade Licence,Verified,2025-10-06,2030-01-03,Digital Verification,Document details checked
+DOC0079B,CUST0079,Proof of Address,Verified,2026-06-19,2027-06-05,Bank Statement,Address confirmation pending
+DOC0080A,CUST0080,Trade Licence,Verified,2025-11-21,2028-05-31,Third-Party Check,Document details checked
+DOC0080B,CUST0080,Proof of Address,Verified,2025-12-26,2026-04-20,Bank Statement,Proof of address verified
+DOC0081A,CUST0081,Trade Licence,Verified,2025-05-12,2029-09-08,Third-Party Check,Name/address mismatch requires review
+DOC0081B,CUST0081,Proof of Address,Verified,2026-01-12,2027-03-14,Utility Bill,Document rejected – resubmission required
+DOC0082A,CUST0082,National ID,Verified,2024-10-04,2027-05-21,Manual Review,Document expired – renewal required
+DOC0082B,CUST0082,Proof of Address,Pending,2025-09-30,2026-05-24,Bank Statement,Document rejected – resubmission required
+DOC0083A,CUST0083,Passport,Pending,2023-07-17,2027-06-02,Third-Party Check,Additional evidence requested
+DOC0083B,CUST0083,Proof of Address,Verified,2026-01-10,2026-09-21,Tenancy Agreement,Document rejected – resubmission required
+DOC0084A,CUST0084,Passport,Pending,2026-04-11,2027-08-31,Third-Party Check,Name/address mismatch requires review
+DOC0084B,CUST0084,Proof of Address,Pending,2026-03-29,2026-09-29,Utility Bill,Document rejected – resubmission required
+DOC0085A,CUST0085,Passport,Verified,2023-06-23,2026-06-09,Manual Review,Document details checked
+DOC0085B,CUST0085,Proof of Address,Verified,2026-06-28,2027-02-26,Utility Bill,Address confirmation pending
+DOC0086A,CUST0086,National ID,Verified,2024-12-06,2026-05-16,Manual Review,Additional evidence requested
+DOC0086B,CUST0086,Proof of Address,Verified,2025-11-06,2026-05-15,Tenancy Agreement,Document rejected – resubmission required
+DOC0087A,CUST0087,Passport,Verified,2022-01-09,2026-10-04,Manual Review,Name/address mismatch requires review
+DOC0087B,CUST0087,Proof of Address,Pending,2025-09-27,2027-01-12,Bank Statement,Address matched
+DOC0088A,CUST0088,Trade Licence,Rejected,2024-06-13,2026-12-12,Digital Verification,Additional evidence requested
+DOC0088B,CUST0088,Proof of Address,Pending,2026-05-14,2027-03-08,Tenancy Agreement,Proof of address verified
+DOC0089A,CUST0089,Trade Licence,Pending,2024-09-17,2028-08-08,Digital Verification,Additional evidence requested
+DOC0089B,CUST0089,Proof of Address,Verified,2026-01-27,2027-03-08,Bank Statement,Proof of address verified
+DOC0090A,CUST0090,National ID,Verified,2024-02-12,2030-03-28,Digital Verification,Document details checked
+DOC0090B,CUST0090,Proof of Address,Verified,2026-02-14,2026-06-02,Utility Bill,Proof of address verified
+DOC0091A,CUST0091,National ID,Verified,2023-12-10,2027-05-10,Manual Review,Additional evidence requested
+DOC0091B,CUST0091,Proof of Address,Verified,2026-06-24,2027-04-03,Bank Statement,Document rejected – resubmission required
+DOC0092A,CUST0092,Passport,Verified,2024-09-13,2028-01-07,Third-Party Check,Additional evidence requested
+DOC0092B,CUST0092,Proof of Address,Verified,2026-02-17,2026-12-27,Utility Bill,Proof of address verified
+DOC0093A,CUST0093,Trade Licence,Rejected,2025-10-14,2028-04-19,Third-Party Check,Name/address mismatch requires review
+DOC0093B,CUST0093,Proof of Address,Verified,2026-02-26,2027-03-23,Bank Statement,Address confirmation pending
+DOC0094A,CUST0094,Trade Licence,Verified,2024-09-09,2027-06-13,Third-Party Check,Document details checked
+DOC0094B,CUST0094,Proof of Address,Rejected,2026-05-14,2027-10-01,Tenancy Agreement,Proof of address verified
+DOC0095A,CUST0095,Passport,Verified,2025-10-29,2028-05-29,Digital Verification,Document expired – renewal required
+DOC0095B,CUST0095,Proof of Address,Verified,2026-05-20,2027-01-27,Tenancy Agreement,Proof of address verified
+DOC0096A,CUST0096,National ID,Pending,2023-07-24,2027-04-14,Digital Verification,Additional evidence requested
+DOC0096B,CUST0096,Proof of Address,Verified,2026-02-06,2027-03-18,Tenancy Agreement,Proof of address verified
+DOC0097A,CUST0097,Trade Licence,Verified,2023-12-26,2029-07-09,Third-Party Check,Document expired – renewal required
+DOC0097B,CUST0097,Proof of Address,Pending,2026-05-23,2027-06-08,Tenancy Agreement,Proof of address verified
+DOC0098A,CUST0098,Trade Licence,Verified,2025-06-25,2029-04-24,Digital Verification,Name/address mismatch requires review
+DOC0098B,CUST0098,Proof of Address,Verified,2026-03-16,2027-02-06,Tenancy Agreement,Address confirmation pending
+DOC0099A,CUST0099,Passport,Verified,2026-03-30,2029-09-16,Manual Review,Additional evidence requested
+DOC0099B,CUST0099,Proof of Address,Verified,2026-08-01,2026-11-30,Bank Statement,Address confirmation pending
+DOC0100A,CUST0100,National ID,Pending,2026-03-13,2028-12-24,Manual Review,Additional evidence requested
+DOC0100B,CUST0100,Proof of Address,Verified,2026-08-14,2027-09-03,Tenancy Agreement,Document rejected – resubmission required
+DOC0101A,CUST0101,Passport,Verified,2025-08-12,2030-05-31,Digital Verification,Document details checked
+DOC0101B,CUST0101,Proof of Address,Verified,2026-04-05,2027-06-15,Utility Bill,Address confirmation pending
+DOC0102A,CUST0102,Passport,Verified,2025-07-12,2029-12-24,Digital Verification,Document expired – renewal required
+DOC0102B,CUST0102,Proof of Address,Verified,2026-01-31,2026-12-17,Bank Statement,Address confirmation pending
+DOC0103A,CUST0103,National ID,Pending,2025-12-25,2028-03-21,Manual Review,Additional evidence requested
+DOC0103B,CUST0103,Proof of Address,Pending,2025-08-11,2026-07-28,Utility Bill,Document rejected – resubmission required
+DOC0104A,CUST0104,Passport,Verified,2023-02-19,2029-09-10,Digital Verification,Document details checked
+DOC0104B,CUST0104,Proof of Address,Pending,2026-02-13,2026-09-09,Utility Bill,Proof of address verified
+DOC0105A,CUST0105,National ID,Pending,2024-02-20,2029-12-28,Manual Review,Additional evidence requested
+DOC0105B,CUST0105,Proof of Address,Verified,2025-11-24,2027-02-18,Tenancy Agreement,Proof of address verified
+DOC0106A,CUST0106,Passport,Verified,2024-02-14,2027-10-23,Third-Party Check,Document details checked
+DOC0106B,CUST0106,Proof of Address,Verified,2026-03-25,2027-03-05,Bank Statement,Address matched
+DOC0107A,CUST0107,National ID,Verified,2025-06-23,2026-09-28,Manual Review,Name/address mismatch requires review
+DOC0107B,CUST0107,Proof of Address,Pending,2026-05-30,2027-04-01,Tenancy Agreement,Proof of address verified
+DOC0108A,CUST0108,Passport,Verified,2026-05-07,2027-11-16,Manual Review,Name/address mismatch requires review
+DOC0108B,CUST0108,Proof of Address,Verified,2026-09-02,2027-06-21,Tenancy Agreement,Address matched
+DOC0109A,CUST0109,National ID,Verified,2024-08-17,2028-12-03,Manual Review,Document expired – renewal required
+DOC0109B,CUST0109,Proof of Address,Pending,2025-10-30,2027-03-13,Utility Bill,Proof of address verified
+DOC0110A,CUST0110,Passport,Verified,2025-09-22,2028-11-09,Third-Party Check,Name/address mismatch requires review
+DOC0110B,CUST0110,Proof of Address,Verified,2025-11-05,2026-07-15,Utility Bill,Proof of address verified
+DOC0111A,CUST0111,National ID,Pending,2024-11-22,2027-06-27,Third-Party Check,Document expired – renewal required
+DOC0111B,CUST0111,Proof of Address,Expired,2025-08-29,2026-07-09,Bank Statement,Document rejected – resubmission required
+DOC0112A,CUST0112,National ID,Pending,2023-03-01,2026-02-02,Manual Review,Document expired – renewal required
+DOC0112B,CUST0112,Proof of Address,Pending,2025-12-08,2026-02-22,Utility Bill,Proof of address verified
+DOC0113A,CUST0113,National ID,Verified,2023-07-25,2027-06-17,Manual Review,Document details checked
+DOC0113B,CUST0113,Proof of Address,Verified,2026-01-15,2026-06-15,Tenancy Agreement,Address matched
+DOC0114A,CUST0114,Passport,Verified,2022-02-25,2027-05-14,Digital Verification,Name/address mismatch requires review
+DOC0114B,CUST0114,Proof of Address,Verified,2025-11-10,2026-05-16,Tenancy Agreement,Document rejected – resubmission required
+DOC0115A,CUST0115,Passport,Verified,2022-09-28,2029-02-15,Digital Verification,Document details checked
+DOC0115B,CUST0115,Proof of Address,Pending,2026-01-26,2026-04-05,Utility Bill,Proof of address verified
+DOC0116A,CUST0116,Trade Licence,Verified,2022-09-09,2029-06-15,Manual Review,Document expired – renewal required
+DOC0116B,CUST0116,Proof of Address,Verified,2025-11-22,2026-11-25,Tenancy Agreement,Proof of address verified
+DOC0117A,CUST0117,National ID,Expired,2024-04-11,2027-10-21,Manual Review,Document details checked
+DOC0117B,CUST0117,Proof of Address,Verified,2026-04-24,2027-06-15,Utility Bill,Address matched
+DOC0118A,CUST0118,Trade Licence,Verified,2022-02-01,2027-11-04,Third-Party Check,Document details checked
+DOC0118B,CUST0118,Proof of Address,Verified,2025-08-02,2026-08-27,Tenancy Agreement,Address confirmation pending
+DOC0119A,CUST0119,Trade Licence,Verified,2022-04-02,2026-10-31,Manual Review,Document expired – renewal required
+DOC0119B,CUST0119,Proof of Address,Verified,2026-03-26,2026-11-21,Tenancy Agreement,Proof of address verified
+DOC0120A,CUST0120,Passport,Verified,2022-06-26,2029-06-19,Digital Verification,Document details checked
+DOC0120B,CUST0120,Proof of Address,Pending,2026-05-16,2027-06-05,Bank Statement,Address confirmation pending
+DOC0121A,CUST0121,National ID,Verified,2025-10-13,2030-04-06,Manual Review,Document details checked
+DOC0121B,CUST0121,Proof of Address,Expired,2026-03-14,2027-03-02,Tenancy Agreement,Proof of address verified
+DOC0122A,CUST0122,Trade Licence,Verified,2025-07-12,2028-11-06,Manual Review,Document expired – renewal required
+DOC0122B,CUST0122,Proof of Address,Pending,2025-08-11,2026-12-21,Bank Statement,Address matched
+DOC0123A,CUST0123,Trade Licence,Verified,2023-12-04,2027-05-16,Manual Review,Document expired – renewal required
+DOC0123B,CUST0123,Proof of Address,Verified,2026-10-03,2027-06-09,Utility Bill,Document rejected – resubmission required
+DOC0124A,CUST0124,National ID,Pending,2025-07-23,2028-12-08,Manual Review,Document expired – renewal required
+DOC0124B,CUST0124,Proof of Address,Verified,2026-05-18,2027-06-03,Bank Statement,Address confirmation pending
+DOC0125A,CUST0125,Trade Licence,Verified,2026-06-16,2029-04-20,Third-Party Check,Additional evidence requested
+DOC0125B,CUST0125,Proof of Address,Verified,2026-08-25,2027-06-11,Utility Bill,Address confirmation pending
+DOC0126A,CUST0126,National ID,Verified,2025-12-11,2029-10-10,Third-Party Check,Name/address mismatch requires review
+DOC0126B,CUST0126,Proof of Address,Rejected,2026-01-06,2026-10-04,Utility Bill,Address confirmation pending
+DOC0127A,CUST0127,Trade Licence,Verified,2024-05-01,2026-08-20,Digital Verification,Document expired – renewal required
+DOC0127B,CUST0127,Proof of Address,Verified,2026-03-07,2027-01-29,Utility Bill,Proof of address verified
+DOC0128A,CUST0128,Passport,Verified,2023-11-12,2027-05-11,Digital Verification,Name/address mismatch requires review
+DOC0128B,CUST0128,Proof of Address,Expired,2026-01-21,2027-01-10,Utility Bill,Address confirmation pending
+DOC0129A,CUST0129,National ID,Verified,2023-06-09,2028-04-29,Third-Party Check,Document details checked
+DOC0129B,CUST0129,Proof of Address,Pending,2025-11-14,2026-06-22,Utility Bill,Document rejected – resubmission required
+DOC0130A,CUST0130,Trade Licence,Pending,2025-11-16,2030-02-15,Third-Party Check,Document details checked
+DOC0130B,CUST0130,Proof of Address,Verified,2025-09-26,2026-05-03,Tenancy Agreement,Address confirmation pending
+DOC0131A,CUST0131,Trade Licence,Rejected,2022-07-06,2028-02-27,Third-Party Check,Document expired – renewal required
+DOC0131B,CUST0131,Proof of Address,Pending,2026-02-04,2026-07-16,Bank Statement,Address matched
+DOC0132A,CUST0132,National ID,Verified,2024-02-20,2028-08-02,Digital Verification,Document details checked
+DOC0132B,CUST0132,Proof of Address,Pending,2026-02-26,2027-06-13,Utility Bill,Document rejected – resubmission required
+DOC0133A,CUST0133,Passport,Pending,2024-11-07,2027-12-04,Manual Review,Document expired – renewal required
+DOC0133B,CUST0133,Proof of Address,Verified,2025-11-19,2026-09-22,Bank Statement,Document rejected – resubmission required
+DOC0134A,CUST0134,National ID,Pending,2023-04-06,2028-11-08,Manual Review,Document expired – renewal required
+DOC0134B,CUST0134,Proof of Address,Verified,2026-05-29,2026-09-24,Bank Statement,Document rejected – resubmission required
+DOC0135A,CUST0135,Trade Licence,Pending,2025-05-30,2030-06-17,Digital Verification,Document details checked
+DOC0135B,CUST0135,Proof of Address,Pending,2026-05-20,2027-06-08,Utility Bill,Address matched
+DOC0136A,CUST0136,Passport,Verified,2024-06-01,2028-12-01,Digital Verification,Additional evidence requested
+DOC0136B,CUST0136,Proof of Address,Verified,2026-04-20,2027-01-24,Utility Bill,Address confirmation pending
+DOC0137A,CUST0137,National ID,Pending,2023-07-01,2027-12-14,Manual Review,Document expired – renewal required
+DOC0137B,CUST0137,Proof of Address,Verified,2025-09-25,2026-05-13,Utility Bill,Address matched
+DOC0138A,CUST0138,Trade Licence,Verified,2023-10-09,2027-07-23,Manual Review,Document details checked
+DOC0138B,CUST0138,Proof of Address,Verified,2025-10-06,2026-12-05,Utility Bill,Proof of address verified
+DOC0139A,CUST0139,Passport,Pending,2026-01-22,2027-09-29,Digital Verification,Document expired – renewal required
+DOC0139B,CUST0139,Proof of Address,Verified,2026-01-22,2026-08-09,Utility Bill,Address matched
+DOC0140A,CUST0140,Passport,Pending,2022-08-28,2030-06-19,Manual Review,Additional evidence requested
+DOC0140B,CUST0140,Proof of Address,Verified,2026-07-26,2027-04-22,Tenancy Agreement,Proof of address verified
+DOC0141A,CUST0141,Trade Licence,Rejected,2022-10-02,2029-11-16,Third-Party Check,Additional evidence requested
+DOC0141B,CUST0141,Proof of Address,Verified,2025-08-05,2026-08-15,Tenancy Agreement,Address matched
+DOC0142A,CUST0142,Trade Licence,Verified,2025-05-13,2029-07-14,Third-Party Check,Name/address mismatch requires review
+DOC0142B,CUST0142,Proof of Address,Verified,2026-05-30,2027-02-08,Utility Bill,Proof of address verified
+DOC0143A,CUST0143,Trade Licence,Verified,2025-07-17,2030-03-16,Third-Party Check,Name/address mismatch requires review
+DOC0143B,CUST0143,Proof of Address,Verified,2026-07-17,2027-05-17,Utility Bill,Address confirmation pending
+DOC0144A,CUST0144,Trade Licence,Verified,2024-01-13,2026-10-06,Digital Verification,Additional evidence requested
+DOC0144B,CUST0144,Proof of Address,Verified,2026-04-11,2026-08-29,Bank Statement,Address confirmation pending
+DOC0145A,CUST0145,Trade Licence,Verified,2025-08-24,2030-07-20,Manual Review,Document details checked
+DOC0145B,CUST0145,Proof of Address,Verified,2026-06-05,2027-08-16,Tenancy Agreement,Document rejected – resubmission required
+DOC0146A,CUST0146,Trade Licence,Verified,2025-01-03,2030-04-28,Digital Verification,Additional evidence requested
+DOC0146B,CUST0146,Proof of Address,Verified,2026-04-06,2027-01-19,Tenancy Agreement,Document rejected – resubmission required
+DOC0147A,CUST0147,Passport,Pending,2025-10-10,2029-10-30,Digital Verification,Additional evidence requested
+DOC0147B,CUST0147,Proof of Address,Verified,2025-10-28,2026-05-01,Bank Statement,Proof of address verified
+DOC0148A,CUST0148,Passport,Verified,2022-10-22,2030-02-22,Third-Party Check,Document expired – renewal required
+DOC0148B,CUST0148,Proof of Address,Rejected,2026-01-10,2027-04-15,Tenancy Agreement,Address confirmation pending
+DOC0149A,CUST0149,Trade Licence,Verified,2025-10-30,2026-10-03,Manual Review,Document expired – renewal required
+DOC0149B,CUST0149,Proof of Address,Verified,2026-05-12,2026-12-07,Tenancy Agreement,Document rejected – resubmission required
+DOC0150A,CUST0150,National ID,Verified,2025-01-09,2027-09-24,Third-Party Check,Name/address mismatch requires review
+DOC0150B,CUST0150,Proof of Address,Verified,2026-05-11,2027-09-29,Utility Bill,Address matched
+DOC0151A,CUST0151,National ID,Verified,2023-10-06,2026-12-09,Manual Review,Additional evidence requested
+DOC0151B,CUST0151,Proof of Address,Pending,2026-05-07,2027-07-22,Utility Bill,Address matched
+DOC0152A,CUST0152,National ID,Pending,2022-10-29,2026-03-08,Third-Party Check,Additional evidence requested
+DOC0152B,CUST0152,Proof of Address,Verified,2025-11-07,2026-09-08,Bank Statement,Proof of address verified
+DOC0153A,CUST0153,National ID,Verified,2022-12-02,2026-08-19,Digital Verification,Additional evidence requested
+DOC0153B,CUST0153,Proof of Address,Pending,2026-05-01,2027-02-04,Utility Bill,Proof of address verified
+DOC0154A,CUST0154,Trade Licence,Verified,2023-12-31,2026-12-12,Digital Verification,Additional evidence requested
+DOC0154B,CUST0154,Proof of Address,Verified,2025-11-22,2026-05-07,Utility Bill,Document rejected – resubmission required
+DOC0155A,CUST0155,Passport,Verified,2024-06-17,2029-05-13,Manual Review,Additional evidence requested
+DOC0155B,CUST0155,Proof of Address,Verified,2025-11-30,2026-11-25,Bank Statement,Document rejected – resubmission required
+DOC0156A,CUST0156,National ID,Verified,2023-10-20,2029-06-16,Manual Review,Additional evidence requested
+DOC0156B,CUST0156,Proof of Address,Verified,2026-02-27,2027-07-18,Utility Bill,Document rejected – resubmission required
+DOC0157A,CUST0157,National ID,Verified,2024-12-18,2030-05-19,Third-Party Check,Document expired – renewal required
+DOC0157B,CUST0157,Proof of Address,Pending,2026-03-15,2027-01-11,Tenancy Agreement,Address matched
+DOC0158A,CUST0158,National ID,Verified,2025-05-31,2026-11-24,Digital Verification,Document expired – renewal required
+DOC0158B,CUST0158,Proof of Address,Verified,2026-08-18,2026-12-07,Tenancy Agreement,Address confirmation pending
+DOC0159A,CUST0159,Passport,Verified,2023-05-23,2027-07-14,Digital Verification,Additional evidence requested
+DOC0159B,CUST0159,Proof of Address,Verified,2026-01-02,2027-01-07,Bank Statement,Document rejected – resubmission required
+DOC0160A,CUST0160,National ID,Verified,2022-08-23,2028-12-11,Digital Verification,Additional evidence requested
+DOC0160B,CUST0160,Proof of Address,Verified,2026-02-03,2026-10-25,Tenancy Agreement,Proof of address verified
+DOC0161A,CUST0161,National ID,Verified,2023-10-15,2027-04-12,Manual Review,Name/address mismatch requires review
+DOC0161B,CUST0161,Proof of Address,Rejected,2026-02-23,2026-11-07,Tenancy Agreement,Address confirmation pending
+DOC0162A,CUST0162,Trade Licence,Verified,2026-06-08,2029-06-19,Third-Party Check,Document details checked
+DOC0162B,CUST0162,Proof of Address,Verified,2026-09-01,2027-06-28,Tenancy Agreement,Address confirmation pending
+DOC0163A,CUST0163,Passport,Pending,2025-02-19,2029-11-30,Third-Party Check,Name/address mismatch requires review
+DOC0163B,CUST0163,Proof of Address,Verified,2026-08-17,2027-02-25,Utility Bill,Address matched
+DOC0164A,CUST0164,Passport,Verified,2023-12-20,2029-03-19,Third-Party Check,Name/address mismatch requires review
+DOC0164B,CUST0164,Proof of Address,Verified,2026-03-29,2026-12-19,Tenancy Agreement,Proof of address verified
+DOC0165A,CUST0165,Passport,Verified,2025-07-20,2026-09-16,Digital Verification,Name/address mismatch requires review
+DOC0165B,CUST0165,Proof of Address,Pending,2026-01-29,2026-04-24,Bank Statement,Address confirmation pending
+DOC0166A,CUST0166,Trade Licence,Expired,2024-07-24,2027-02-02,Manual Review,Additional evidence requested
+DOC0166B,CUST0166,Proof of Address,Verified,2025-10-24,2026-07-25,Tenancy Agreement,Address matched
+DOC0167A,CUST0167,Trade Licence,Verified,2024-12-04,2028-05-26,Digital Verification,Document details checked
+DOC0167B,CUST0167,Proof of Address,Verified,2025-11-30,2026-06-04,Bank Statement,Address matched
+DOC0168A,CUST0168,Passport,Verified,2024-10-24,2026-06-22,Digital Verification,Additional evidence requested
+DOC0168B,CUST0168,Proof of Address,Verified,2025-11-12,2026-09-29,Bank Statement,Proof of address verified
+DOC0169A,CUST0169,Trade Licence,Verified,2024-11-13,2027-07-19,Manual Review,Additional evidence requested
+DOC0169B,CUST0169,Proof of Address,Verified,2026-03-01,2026-09-26,Tenancy Agreement,Document rejected – resubmission required
+DOC0170A,CUST0170,Trade Licence,Verified,2026-01-03,2026-11-11,Third-Party Check,Name/address mismatch requires review
+DOC0170B,CUST0170,Proof of Address,Verified,2026-06-21,2027-08-24,Utility Bill,Document rejected – resubmission required
+DOC0171A,CUST0171,Trade Licence,Verified,2024-07-03,2028-04-24,Manual Review,Name/address mismatch requires review
+DOC0171B,CUST0171,Proof of Address,Verified,2026-03-18,2026-11-19,Bank Statement,Document rejected – resubmission required
+DOC0172A,CUST0172,National ID,Pending,2025-09-13,2029-10-28,Third-Party Check,Document expired – renewal required
+DOC0172B,CUST0172,Proof of Address,Pending,2026-03-12,2027-01-14,Bank Statement,Address matched
+DOC0173A,CUST0173,Passport,Pending,2023-06-20,2029-10-06,Third-Party Check,Additional evidence requested
+DOC0173B,CUST0173,Proof of Address,Verified,2026-08-01,2027-05-12,Bank Statement,Proof of address verified
+DOC0174A,CUST0174,Trade Licence,Verified,2024-07-09,2029-03-31,Third-Party Check,Name/address mismatch requires review
+DOC0174B,CUST0174,Proof of Address,Verified,2025-11-28,2026-10-21,Bank Statement,Proof of address verified
+DOC0175A,CUST0175,National ID,Verified,2023-02-13,2027-04-16,Manual Review,Name/address mismatch requires review
+DOC0175B,CUST0175,Proof of Address,Verified,2026-06-12,2027-01-25,Utility Bill,Document rejected – resubmission required
+DOC0176A,CUST0176,Trade Licence,Verified,2023-02-14,2029-09-07,Digital Verification,Document expired – renewal required
+DOC0176B,CUST0176,Proof of Address,Pending,2026-07-11,2027-07-11,Tenancy Agreement,Address confirmation pending
+DOC0177A,CUST0177,Passport,Verified,2023-07-15,2028-07-15,Manual Review,Name/address mismatch requires review
+DOC0177B,CUST0177,Proof of Address,Verified,2026-04-18,2027-05-20,Bank Statement,Address confirmation pending
+DOC0178A,CUST0178,National ID,Verified,2024-08-28,2029-12-11,Third-Party Check,Name/address mismatch requires review
+DOC0178B,CUST0178,Proof of Address,Verified,2026-02-17,2026-10-18,Utility Bill,Address confirmation pending
+DOC0179A,CUST0179,Passport,Verified,2026-03-13,2027-11-02,Digital Verification,Document details checked
+DOC0179B,CUST0179,Proof of Address,Verified,2026-03-17,2027-05-01,Utility Bill,Address confirmation pending
+DOC0180A,CUST0180,Trade Licence,Pending,2025-10-25,2030-01-23,Third-Party Check,Document details checked
+DOC0180B,CUST0180,Proof of Address,Verified,2025-12-15,2026-11-21,Tenancy Agreement,Document rejected – resubmission required
+DOC0181A,CUST0181,Passport,Verified,2023-03-06,2026-04-29,Third-Party Check,Document expired – renewal required
+DOC0181B,CUST0181,Proof of Address,Pending,2025-08-14,2026-03-23,Utility Bill,Document rejected – resubmission required
+DOC0182A,CUST0182,National ID,Pending,2025-01-16,2029-02-12,Manual Review,Document expired – renewal required
+DOC0182B,CUST0182,Proof of Address,Verified,2025-12-17,2026-12-04,Bank Statement,Address confirmation pending
+DOC0183A,CUST0183,National ID,Verified,2023-03-01,2026-12-14,Third-Party Check,Document expired – renewal required
+DOC0183B,CUST0183,Proof of Address,Verified,2026-02-09,2026-12-28,Tenancy Agreement,Document rejected – resubmission required
+DOC0184A,CUST0184,Passport,Verified,2023-01-25,2030-04-28,Manual Review,Document details checked
+DOC0184B,CUST0184,Proof of Address,Verified,2026-05-25,2027-07-18,Bank Statement,Address matched
+DOC0185A,CUST0185,Trade Licence,Verified,2023-11-10,2026-12-01,Manual Review,Additional evidence requested
+DOC0185B,CUST0185,Proof of Address,Verified,2025-09-13,2027-01-22,Utility Bill,Proof of address verified
+DOC0186A,CUST0186,Trade Licence,Pending,2023-09-23,2030-01-16,Digital Verification,Additional evidence requested
+DOC0186B,CUST0186,Proof of Address,Verified,2025-10-28,2027-01-25,Utility Bill,Proof of address verified
+DOC0187A,CUST0187,National ID,Verified,2023-03-29,2029-01-16,Third-Party Check,Additional evidence requested
+DOC0187B,CUST0187,Proof of Address,Verified,2026-05-10,2026-07-23,Bank Statement,Document rejected – resubmission required
+DOC0188A,CUST0188,Passport,Rejected,2023-05-14,2028-07-27,Manual Review,Document details checked
+DOC0188B,CUST0188,Proof of Address,Pending,2026-06-11,2027-04-01,Bank Statement,Proof of address verified
+DOC0189A,CUST0189,Trade Licence,Verified,2025-09-22,2027-04-23,Digital Verification,Document expired – renewal required
+DOC0189B,CUST0189,Proof of Address,Verified,2026-01-13,2026-08-07,Utility Bill,Document rejected – resubmission required
+DOC0190A,CUST0190,Trade Licence,Verified,2023-06-29,2027-01-21,Manual Review,Name/address mismatch requires review
+DOC0190B,CUST0190,Proof of Address,Verified,2026-07-03,2027-05-25,Bank Statement,Address confirmation pending
+DOC0191A,CUST0191,Trade Licence,Verified,2025-05-16,2027-08-25,Manual Review,Document expired – renewal required
+DOC0191B,CUST0191,Proof of Address,Verified,2025-10-17,2026-07-08,Bank Statement,Proof of address verified
+DOC0192A,CUST0192,Trade Licence,Pending,2022-06-25,2027-04-20,Manual Review,Name/address mismatch requires review
+DOC0192B,CUST0192,Proof of Address,Verified,2025-07-26,2026-02-13,Utility Bill,Proof of address verified
+DOC0193A,CUST0193,Passport,Verified,2026-05-18,2027-10-27,Third-Party Check,Document expired – renewal required
+DOC0193B,CUST0193,Proof of Address,Pending,2026-06-12,2027-06-13,Bank Statement,Address confirmation pending
+DOC0194A,CUST0194,Passport,Verified,2023-10-27,2028-09-18,Third-Party Check,Additional evidence requested
+DOC0194B,CUST0194,Proof of Address,Pending,2025-10-01,2026-06-18,Tenancy Agreement,Address confirmation pending
+DOC0195A,CUST0195,Trade Licence,Verified,2025-06-12,2026-12-23,Digital Verification,Additional evidence requested
+DOC0195B,CUST0195,Proof of Address,Pending,2026-03-03,2026-09-20,Bank Statement,Proof of address verified
+DOC0196A,CUST0196,Trade Licence,Verified,2022-04-25,2027-11-20,Manual Review,Name/address mismatch requires review
+DOC0196B,CUST0196,Proof of Address,Verified,2025-09-10,2026-10-13,Utility Bill,Address confirmation pending
+DOC0197A,CUST0197,Trade Licence,Verified,2024-06-21,2030-06-23,Digital Verification,Name/address mismatch requires review
+DOC0197B,CUST0197,Proof of Address,Rejected,2026-04-04,2027-07-27,Tenancy Agreement,Address matched
+DOC0198A,CUST0198,National ID,Verified,2022-10-01,2026-04-29,Third-Party Check,Additional evidence requested
+DOC0198B,CUST0198,Proof of Address,Pending,2025-12-10,2027-04-03,Bank Statement,Address matched
+DOC0199A,CUST0199,Passport,Verified,2025-07-25,2029-12-30,Digital Verification,Document expired – renewal required
+DOC0199B,CUST0199,Proof of Address,Verified,2026-03-23,2027-02-06,Tenancy Agreement,Proof of address verified
+DOC0200A,CUST0200,Trade Licence,Pending,2025-02-09,2026-08-13,Manual Review,Additional evidence requested
+DOC0200B,CUST0200,Proof of Address,Pending,2026-03-15,2027-02-27,Bank Statement,Address matched
+DOC0201A,CUST0201,Passport,Verified,2022-08-08,2028-01-20,Manual Review,Additional evidence requested
+DOC0201B,CUST0201,Proof of Address,Verified,2026-04-27,2027-03-27,Tenancy Agreement,Document rejected – resubmission required
+DOC0202A,CUST0202,National ID,Pending,2025-08-02,2026-11-09,Third-Party Check,Document expired – renewal required
+DOC0202B,CUST0202,Proof of Address,Verified,2026-03-10,2027-03-29,Bank Statement,Address confirmation pending
+DOC0203A,CUST0203,National ID,Pending,2023-05-30,2030-03-31,Third-Party Check,Name/address mismatch requires review
+DOC0203B,CUST0203,Proof of Address,Verified,2026-01-21,2026-09-27,Tenancy Agreement,Address confirmation pending
+DOC0204A,CUST0204,National ID,Expired,2023-11-12,2029-08-15,Digital Verification,Document details checked
+DOC0204B,CUST0204,Proof of Address,Verified,2026-09-14,2027-05-02,Bank Statement,Proof of address verified
+DOC0205A,CUST0205,Trade Licence,Pending,2022-10-06,2028-03-02,Third-Party Check,Document details checked
+DOC0205B,CUST0205,Proof of Address,Verified,2026-07-01,2027-07-15,Tenancy Agreement,Document rejected – resubmission required
+DOC0206A,CUST0206,Passport,Verified,2024-04-07,2028-09-19,Digital Verification,Additional evidence requested
+DOC0206B,CUST0206,Proof of Address,Verified,2026-01-23,2026-12-08,Utility Bill,Address matched
+DOC0207A,CUST0207,National ID,Verified,2024-03-07,2030-03-10,Third-Party Check,Document details checked
+DOC0207B,CUST0207,Proof of Address,Verified,2026-06-06,2026-12-14,Utility Bill,Address matched
+DOC0208A,CUST0208,Passport,Rejected,2026-03-22,2029-08-19,Third-Party Check,Document details checked
+DOC0208B,CUST0208,Proof of Address,Verified,2026-03-30,2027-03-25,Bank Statement,Document rejected – resubmission required
+DOC0209A,CUST0209,Trade Licence,Verified,2022-09-01,2029-05-09,Third-Party Check,Name/address mismatch requires review
+DOC0209B,CUST0209,Proof of Address,Verified,2025-08-21,2026-08-26,Bank Statement,Document rejected – resubmission required
+DOC0210A,CUST0210,National ID,Pending,2024-05-12,2027-06-03,Third-Party Check,Document expired – renewal required
+DOC0210B,CUST0210,Proof of Address,Rejected,2026-05-30,2027-05-11,Bank Statement,Address matched
+DOC0211A,CUST0211,Passport,Verified,2022-11-23,2027-07-30,Third-Party Check,Additional evidence requested
+DOC0211B,CUST0211,Proof of Address,Pending,2026-02-12,2027-01-28,Utility Bill,Document rejected – resubmission required
+DOC0212A,CUST0212,National ID,Verified,2025-09-26,2028-04-13,Digital Verification,Document details checked
+DOC0212B,CUST0212,Proof of Address,Verified,2026-05-20,2027-01-14,Tenancy Agreement,Proof of address verified
+DOC0213A,CUST0213,National ID,Verified,2022-09-14,2028-06-29,Manual Review,Document details checked
+DOC0213B,CUST0213,Proof of Address,Verified,2026-05-19,2027-08-10,Bank Statement,Address confirmation pending
+DOC0214A,CUST0214,Passport,Pending,2022-10-04,2027-04-12,Digital Verification,Additional evidence requested
+DOC0214B,CUST0214,Proof of Address,Verified,2026-06-02,2027-05-31,Bank Statement,Document rejected – resubmission required
+DOC0215A,CUST0215,National ID,Verified,2024-05-06,2028-04-29,Manual Review,Additional evidence requested
+DOC0215B,CUST0215,Proof of Address,Expired,2026-04-14,2027-07-06,Utility Bill,Proof of address verified
+DOC0216A,CUST0216,Passport,Verified,2023-05-20,2029-05-26,Third-Party Check,Document details checked
+DOC0216B,CUST0216,Proof of Address,Verified,2025-08-18,2027-01-30,Tenancy Agreement,Document rejected – resubmission required
+DOC0217A,CUST0217,Trade Licence,Verified,2025-03-16,2029-03-14,Manual Review,Document expired – renewal required
+DOC0217B,CUST0217,Proof of Address,Expired,2025-10-18,2026-05-09,Bank Statement,Proof of address verified
+DOC0218A,CUST0218,Passport,Pending,2023-03-05,2026-02-24,Digital Verification,Document details checked
+DOC0218B,CUST0218,Proof of Address,Verified,2026-02-09,2027-02-16,Utility Bill,Proof of address verified
+DOC0219A,CUST0219,National ID,Verified,2022-04-28,2029-12-11,Digital Verification,Name/address mismatch requires review
+DOC0219B,CUST0219,Proof of Address,Pending,2026-01-18,2026-07-09,Tenancy Agreement,Proof of address verified
+DOC0220A,CUST0220,Passport,Verified,2022-07-13,2029-06-07,Manual Review,Document expired – renewal required
+DOC0220B,CUST0220,Proof of Address,Verified,2025-11-26,2026-09-18,Bank Statement,Address matched
+DOC0221A,CUST0221,National ID,Verified,2022-05-15,2030-03-02,Third-Party Check,Additional evidence requested
+DOC0221B,CUST0221,Proof of Address,Verified,2026-01-19,2026-06-21,Bank Statement,Document rejected – resubmission required
+DOC0222A,CUST0222,National ID,Verified,2025-05-01,2029-09-16,Digital Verification,Additional evidence requested
+DOC0222B,CUST0222,Proof of Address,Verified,2026-01-30,2027-04-22,Utility Bill,Address confirmation pending
+DOC0223A,CUST0223,National ID,Verified,2023-05-25,2026-06-21,Third-Party Check,Name/address mismatch requires review
+DOC0223B,CUST0223,Proof of Address,Verified,2026-05-12,2027-05-23,Bank Statement,Address matched
+DOC0224A,CUST0224,Trade Licence,Verified,2025-10-29,2028-01-13,Third-Party Check,Additional evidence requested
+DOC0224B,CUST0224,Proof of Address,Verified,2025-12-01,2026-10-03,Utility Bill,Document rejected – resubmission required
+DOC0225A,CUST0225,Trade Licence,Verified,2026-05-19,2028-09-22,Manual Review,Additional evidence requested
+DOC0225B,CUST0225,Proof of Address,Pending,2026-03-29,2027-07-07,Bank Statement,Address confirmation pending
+DOC0226A,CUST0226,Passport,Verified,2025-05-08,2028-08-11,Third-Party Check,Additional evidence requested
+DOC0226B,CUST0226,Proof of Address,Verified,2026-01-09,2026-06-08,Bank Statement,Document rejected – resubmission required
+DOC0227A,CUST0227,Trade Licence,Verified,2025-11-21,2026-09-13,Manual Review,Name/address mismatch requires review
+DOC0227B,CUST0227,Proof of Address,Verified,2026-02-01,2026-04-21,Bank Statement,Address matched
+DOC0228A,CUST0228,National ID,Verified,2023-02-13,2026-11-17,Third-Party Check,Document expired – renewal required
+DOC0228B,CUST0228,Proof of Address,Verified,2026-05-21,2027-04-20,Utility Bill,Address confirmation pending
+DOC0229A,CUST0229,Passport,Pending,2025-11-21,2029-08-22,Digital Verification,Document expired – renewal required
+DOC0229B,CUST0229,Proof of Address,Verified,2026-02-15,2026-12-18,Bank Statement,Document rejected – resubmission required
+DOC0230A,CUST0230,Passport,Verified,2025-12-29,2027-09-15,Third-Party Check,Name/address mismatch requires review
+DOC0230B,CUST0230,Proof of Address,Verified,2026-06-25,2027-03-26,Utility Bill,Address matched
+DOC0231A,CUST0231,National ID,Verified,2023-09-23,2028-06-23,Manual Review,Document expired – renewal required
+DOC0231B,CUST0231,Proof of Address,Pending,2026-03-23,2026-11-16,Tenancy Agreement,Address confirmation pending
+DOC0232A,CUST0232,Passport,Verified,2023-04-22,2026-05-20,Digital Verification,Document details checked
+DOC0232B,CUST0232,Proof of Address,Pending,2026-07-28,2027-05-05,Tenancy Agreement,Address matched
+DOC0233A,CUST0233,Trade Licence,Pending,2023-01-23,2026-04-21,Digital Verification,Name/address mismatch requires review
+DOC0233B,CUST0233,Proof of Address,Rejected,2026-04-26,2027-01-24,Utility Bill,Document rejected – resubmission required
+DOC0234A,CUST0234,Passport,Pending,2026-02-07,2028-09-15,Digital Verification,Name/address mismatch requires review
+DOC0234B,CUST0234,Proof of Address,Pending,2026-05-16,2026-12-11,Bank Statement,Document rejected – resubmission required
+DOC0235A,CUST0235,Trade Licence,Verified,2024-05-12,2028-02-14,Manual Review,Document details checked
+DOC0235B,CUST0235,Proof of Address,Verified,2026-07-21,2027-05-19,Bank Statement,Proof of address verified
+DOC0236A,CUST0236,National ID,Rejected,2025-04-29,2027-02-24,Third-Party Check,Document details checked
+DOC0236B,CUST0236,Proof of Address,Verified,2026-01-16,2026-12-01,Tenancy Agreement,Address confirmation pending
+DOC0237A,CUST0237,National ID,Verified,2025-02-08,2028-12-04,Digital Verification,Document expired – renewal required
+DOC0237B,CUST0237,Proof of Address,Verified,2026-06-04,2026-09-30,Bank Statement,Document rejected – resubmission required
+DOC0238A,CUST0238,Trade Licence,Verified,2024-04-26,2027-11-10,Manual Review,Document expired – renewal required
+DOC0238B,CUST0238,Proof of Address,Verified,2025-11-11,2027-01-06,Utility Bill,Document rejected – resubmission required
+DOC0239A,CUST0239,Trade Licence,Expired,2023-08-26,2026-05-24,Manual Review,Document details checked
+DOC0239B,CUST0239,Proof of Address,Verified,2026-03-14,2026-07-13,Bank Statement,Address confirmation pending
+DOC0240A,CUST0240,Passport,Verified,2022-04-21,2027-11-25,Digital Verification,Additional evidence requested
+DOC0240B,CUST0240,Proof of Address,Verified,2025-10-27,2026-09-21,Bank Statement,Document rejected – resubmission required
+DOC0241A,CUST0241,National ID,Expired,2023-11-08,2029-04-17,Digital Verification,Document details checked
+DOC0241B,CUST0241,Proof of Address,Pending,2026-03-07,2027-03-16,Utility Bill,Address matched
+DOC0242A,CUST0242,Passport,Verified,2025-02-11,2027-04-14,Digital Verification,Name/address mismatch requires review
+DOC0242B,CUST0242,Proof of Address,Verified,2025-12-21,2027-01-21,Tenancy Agreement,Document rejected – resubmission required
+DOC0243A,CUST0243,Passport,Pending,2024-10-29,2027-01-11,Third-Party Check,Document details checked
+DOC0243B,CUST0243,Proof of Address,Verified,2026-04-05,2026-11-22,Bank Statement,Address confirmation pending
+DOC0244A,CUST0244,Trade Licence,Verified,2022-04-06,2029-11-13,Digital Verification,Document details checked
+DOC0244B,CUST0244,Proof of Address,Rejected,2025-11-18,2027-02-24,Bank Statement,Address confirmation pending
+DOC0245A,CUST0245,National ID,Verified,2024-10-01,2028-04-14,Third-Party Check,Document expired – renewal required
+DOC0245B,CUST0245,Proof of Address,Verified,2026-09-08,2027-06-27,Tenancy Agreement,Document rejected – resubmission required
+DOC0246A,CUST0246,Trade Licence,Verified,2023-03-14,2029-03-27,Manual Review,Name/address mismatch requires review
+DOC0246B,CUST0246,Proof of Address,Verified,2026-01-27,2026-08-05,Utility Bill,Address matched
+DOC0247A,CUST0247,Passport,Verified,2023-06-24,2029-05-04,Manual Review,Document details checked
+DOC0247B,CUST0247,Proof of Address,Verified,2025-12-25,2026-06-29,Tenancy Agreement,Address confirmation pending
+DOC0248A,CUST0248,Passport,Verified,2024-04-22,2026-08-06,Digital Verification,Document details checked
+DOC0248B,CUST0248,Proof of Address,Verified,2025-10-13,2026-06-03,Bank Statement,Document rejected – resubmission required
+DOC0249A,CUST0249,National ID,Expired,2022-07-23,2026-10-01,Digital Verification,Name/address mismatch requires review
+DOC0249B,CUST0249,Proof of Address,Verified,2026-01-15,2026-08-10,Utility Bill,Address confirmation pending
+DOC0250A,CUST0250,Trade Licence,Verified,2022-10-06,2027-06-16,Third-Party Check,Name/address mismatch requires review
+DOC0250B,CUST0250,Proof of Address,Verified,2025-12-02,2026-12-02,Tenancy Agreement,Proof of address verified
+DOC0251A,CUST0251,Passport,Verified,2025-07-12,2029-06-30,Third-Party Check,Name/address mismatch requires review
+DOC0251B,CUST0251,Proof of Address,Verified,2025-09-16,2026-05-27,Bank Statement,Proof of address verified
+DOC0252A,CUST0252,National ID,Pending,2022-06-27,2027-03-15,Digital Verification,Name/address mismatch requires review
+DOC0252B,CUST0252,Proof of Address,Verified,2026-06-07,2027-01-17,Tenancy Agreement,Proof of address verified
+DOC0253A,CUST0253,Trade Licence,Pending,2026-05-12,2027-03-02,Digital Verification,Document expired – renewal required
+DOC0253B,CUST0253,Proof of Address,Verified,2026-04-14,2026-10-24,Tenancy Agreement,Document rejected – resubmission required
+DOC0254A,CUST0254,Trade Licence,Verified,2023-12-24,2029-05-14,Third-Party Check,Name/address mismatch requires review
+DOC0254B,CUST0254,Proof of Address,Verified,2026-03-29,2026-07-16,Tenancy Agreement,Proof of address verified
+DOC0255A,CUST0255,Passport,Verified,2023-02-24,2027-03-10,Digital Verification,Document expired – renewal required
+DOC0255B,CUST0255,Proof of Address,Pending,2026-03-14,2026-09-25,Tenancy Agreement,Proof of address verified
+DOC0256A,CUST0256,Passport,Pending,2023-09-15,2028-02-12,Digital Verification,Name/address mismatch requires review
+DOC0256B,CUST0256,Proof of Address,Verified,2025-08-21,2026-12-16,Utility Bill,Address matched
+DOC0257A,CUST0257,Passport,Rejected,2022-09-08,2030-08-27,Digital Verification,Name/address mismatch requires review
+DOC0257B,CUST0257,Proof of Address,Verified,2026-04-27,2027-02-20,Utility Bill,Address confirmation pending
+DOC0258A,CUST0258,Passport,Verified,2025-02-24,2027-12-28,Third-Party Check,Additional evidence requested
+DOC0258B,CUST0258,Proof of Address,Pending,2026-03-25,2026-10-27,Tenancy Agreement,Proof of address verified
+DOC0259A,CUST0259,Trade Licence,Verified,2023-03-04,2027-05-12,Digital Verification,Document details checked
+DOC0259B,CUST0259,Proof of Address,Verified,2026-01-11,2027-02-13,Utility Bill,Document rejected – resubmission required
+DOC0260A,CUST0260,Trade Licence,Verified,2025-03-24,2027-12-31,Manual Review,Document expired – renewal required
+DOC0260B,CUST0260,Proof of Address,Verified,2026-05-10,2027-04-15,Bank Statement,Address matched
+DOC0261A,CUST0261,Passport,Verified,2024-10-08,2027-08-05,Manual Review,Additional evidence requested
+DOC0261B,CUST0261,Proof of Address,Pending,2025-11-11,2027-02-20,Bank Statement,Proof of address verified
+DOC0262A,CUST0262,Trade Licence,Pending,2023-12-05,2029-11-03,Manual Review,Document details checked
+DOC0262B,CUST0262,Proof of Address,Pending,2026-03-19,2026-11-09,Tenancy Agreement,Document rejected – resubmission required
+DOC0263A,CUST0263,National ID,Verified,2024-07-12,2027-06-11,Digital Verification,Name/address mismatch requires review
+DOC0263B,CUST0263,Proof of Address,Pending,2026-04-08,2027-01-24,Utility Bill,Address matched
+DOC0264A,CUST0264,National ID,Verified,2022-04-08,2028-08-25,Manual Review,Additional evidence requested
+DOC0264B,CUST0264,Proof of Address,Verified,2025-12-24,2026-06-22,Bank Statement,Document rejected – resubmission required
+DOC0265A,CUST0265,Trade Licence,Verified,2022-04-15,2029-08-02,Digital Verification,Document details checked
+DOC0265B,CUST0265,Proof of Address,Verified,2026-03-13,2026-12-11,Utility Bill,Document rejected – resubmission required
+DOC0266A,CUST0266,National ID,Verified,2022-08-27,2028-04-30,Manual Review,Document details checked
+DOC0266B,CUST0266,Proof of Address,Verified,2026-02-02,2026-10-30,Bank Statement,Address confirmation pending
+DOC0267A,CUST0267,National ID,Verified,2023-11-14,2027-01-26,Digital Verification,Name/address mismatch requires review
+DOC0267B,CUST0267,Proof of Address,Expired,2026-04-15,2027-04-03,Tenancy Agreement,Proof of address verified
+DOC0268A,CUST0268,National ID,Verified,2026-01-06,2027-07-08,Digital Verification,Additional evidence requested
+DOC0268B,CUST0268,Proof of Address,Rejected,2026-07-02,2027-06-01,Bank Statement,Address confirmation pending
+DOC0269A,CUST0269,Trade Licence,Verified,2022-10-10,2028-12-29,Digital Verification,Document expired – renewal required
+DOC0269B,CUST0269,Proof of Address,Pending,2026-02-18,2026-08-22,Bank Statement,Address matched
+DOC0270A,CUST0270,Passport,Pending,2024-08-26,2030-02-25,Digital Verification,Document details checked
+DOC0270B,CUST0270,Proof of Address,Pending,2026-01-23,2026-06-14,Utility Bill,Proof of address verified
+DOC0271A,CUST0271,Trade Licence,Verified,2024-01-24,2026-10-10,Digital Verification,Document expired – renewal required
+DOC0271B,CUST0271,Proof of Address,Verified,2026-01-31,2026-11-10,Bank Statement,Proof of address verified
+DOC0272A,CUST0272,Passport,Verified,2023-08-07,2028-10-05,Digital Verification,Document details checked
+DOC0272B,CUST0272,Proof of Address,Verified,2026-03-23,2026-10-20,Utility Bill,Address matched
+DOC0273A,CUST0273,National ID,Verified,2023-04-11,2030-06-17,Digital Verification,Name/address mismatch requires review
+DOC0273B,CUST0273,Proof of Address,Verified,2026-03-18,2027-02-06,Bank Statement,Address confirmation pending
+DOC0274A,CUST0274,Trade Licence,Verified,2022-09-14,2028-07-14,Digital Verification,Document details checked
+DOC0274B,CUST0274,Proof of Address,Verified,2026-06-24,2026-11-03,Utility Bill,Address confirmation pending
+DOC0275A,CUST0275,Trade Licence,Pending,2024-01-28,2029-02-14,Digital Verification,Document details checked
+DOC0275B,CUST0275,Proof of Address,Verified,2026-05-02,2027-07-21,Utility Bill,Address confirmation pending
+DOC0276A,CUST0276,Trade Licence,Pending,2023-08-04,2027-06-17,Third-Party Check,Document details checked
+DOC0276B,CUST0276,Proof of Address,Verified,2026-01-13,2026-07-07,Bank Statement,Document rejected – resubmission required
+DOC0277A,CUST0277,Trade Licence,Verified,2022-07-27,2030-02-04,Digital Verification,Additional evidence requested
+DOC0277B,CUST0277,Proof of Address,Verified,2026-06-14,2027-04-15,Bank Statement,Document rejected – resubmission required
+DOC0278A,CUST0278,National ID,Verified,2024-07-01,2030-02-17,Manual Review,Additional evidence requested
+DOC0278B,CUST0278,Proof of Address,Verified,2026-03-25,2026-09-16,Utility Bill,Document rejected – resubmission required
+DOC0279A,CUST0279,Trade Licence,Pending,2023-03-23,2027-01-17,Third-Party Check,Document details checked
+DOC0279B,CUST0279,Proof of Address,Verified,2026-05-14,2026-12-13,Utility Bill,Address matched
+DOC0280A,CUST0280,Passport,Verified,2025-09-22,2027-07-12,Digital Verification,Name/address mismatch requires review
+DOC0280B,CUST0280,Proof of Address,Verified,2026-01-11,2027-04-01,Tenancy Agreement,Address confirmation pending
+DOC0281A,CUST0281,Passport,Pending,2023-12-02,2030-03-19,Manual Review,Additional evidence requested
+DOC0281B,CUST0281,Proof of Address,Verified,2025-10-19,2026-05-14,Tenancy Agreement,Document rejected – resubmission required
+DOC0282A,CUST0282,Passport,Verified,2026-01-01,2029-01-20,Digital Verification,Name/address mismatch requires review
+DOC0282B,CUST0282,Proof of Address,Verified,2026-03-14,2027-02-06,Tenancy Agreement,Document rejected – resubmission required
+DOC0283A,CUST0283,National ID,Verified,2025-10-26,2026-08-12,Third-Party Check,Document details checked
+DOC0283B,CUST0283,Proof of Address,Verified,2026-04-12,2027-02-03,Tenancy Agreement,Address matched
+DOC0284A,CUST0284,National ID,Verified,2026-03-09,2026-12-29,Manual Review,Name/address mismatch requires review
+DOC0284B,CUST0284,Proof of Address,Pending,2026-08-19,2027-06-22,Utility Bill,Proof of address verified
+DOC0285A,CUST0285,National ID,Verified,2025-11-18,2030-05-22,Third-Party Check,Document details checked
+DOC0285B,CUST0285,Proof of Address,Verified,2026-03-14,2027-01-24,Bank Statement,Proof of address verified
+DOC0286A,CUST0286,Passport,Verified,2025-04-15,2029-03-23,Digital Verification,Document details checked
+DOC0286B,CUST0286,Proof of Address,Verified,2025-12-13,2026-08-24,Utility Bill,Address confirmation pending
+DOC0287A,CUST0287,Trade Licence,Verified,2022-05-19,2029-06-08,Digital Verification,Name/address mismatch requires review
+DOC0287B,CUST0287,Proof of Address,Verified,2026-01-08,2026-10-27,Bank Statement,Address matched
+DOC0288A,CUST0288,Passport,Verified,2026-01-02,2030-03-16,Third-Party Check,Additional evidence requested
+DOC0288B,CUST0288,Proof of Address,Verified,2026-09-30,2027-03-24,Utility Bill,Address confirmation pending
+DOC0289A,CUST0289,Passport,Pending,2024-11-25,2027-02-21,Manual Review,Document expired – renewal required
+DOC0289B,CUST0289,Proof of Address,Verified,2026-07-09,2026-11-17,Bank Statement,Proof of address verified
+DOC0290A,CUST0290,Trade Licence,Verified,2023-12-06,2026-07-26,Digital Verification,Document details checked
+DOC0290B,CUST0290,Proof of Address,Rejected,2025-12-11,2026-11-25,Tenancy Agreement,Proof of address verified
+DOC0291A,CUST0291,Trade Licence,Pending,2025-10-09,2027-12-04,Third-Party Check,Name/address mismatch requires review
+DOC0291B,CUST0291,Proof of Address,Verified,2026-05-28,2027-07-06,Utility Bill,Address matched
+DOC0292A,CUST0292,Trade Licence,Verified,2023-04-03,2026-08-21,Digital Verification,Document details checked
+DOC0292B,CUST0292,Proof of Address,Pending,2026-03-19,2026-09-29,Utility Bill,Document rejected – resubmission required
+DOC0293A,CUST0293,Passport,Verified,2022-10-17,2027-05-16,Digital Verification,Name/address mismatch requires review
+DOC0293B,CUST0293,Proof of Address,Expired,2026-05-15,2027-06-25,Utility Bill,Address matched
+DOC0294A,CUST0294,Passport,Verified,2024-05-10,2029-07-31,Third-Party Check,Document expired – renewal required
+DOC0294B,CUST0294,Proof of Address,Pending,2025-11-16,2026-03-22,Tenancy Agreement,Document rejected – resubmission required
+DOC0295A,CUST0295,Trade Licence,Verified,2022-06-26,2029-07-10,Third-Party Check,Additional evidence requested
+DOC0295B,CUST0295,Proof of Address,Pending,2026-05-06,2027-04-19,Utility Bill,Address matched
+DOC0296A,CUST0296,National ID,Verified,2023-12-19,2028-09-22,Manual Review,Additional evidence requested
+DOC0296B,CUST0296,Proof of Address,Verified,2026-01-14,2026-07-18,Bank Statement,Proof of address verified
+DOC0297A,CUST0297,Passport,Verified,2022-10-30,2029-06-30,Digital Verification,Document expired – renewal required
+DOC0297B,CUST0297,Proof of Address,Verified,2026-01-21,2026-06-19,Bank Statement,Address confirmation pending
+DOC0298A,CUST0298,National ID,Verified,2022-08-01,2029-05-08,Digital Verification,Document details checked
+DOC0298B,CUST0298,Proof of Address,Verified,2026-01-05,2026-03-31,Tenancy Agreement,Address matched
+DOC0299A,CUST0299,Passport,Verified,2025-12-28,2029-03-25,Third-Party Check,Document details checked
+DOC0299B,CUST0299,Proof of Address,Pending,2025-09-22,2026-06-30,Tenancy Agreement,Address confirmation pending
+DOC0300A,CUST0300,National ID,Verified,2026-05-18,2029-02-27,Third-Party Check,Additional evidence requested
+DOC0300B,CUST0300,Proof of Address,Verified,2026-06-18,2026-12-01,Tenancy Agreement,Address matched
+DOC0301A,CUST0301,Passport,Verified,2023-08-11,2027-06-15,Manual Review,Additional evidence requested
+DOC0301B,CUST0301,Proof of Address,Pending,2025-12-25,2026-11-15,Bank Statement,Address confirmation pending
+DOC0302A,CUST0302,Passport,Verified,2024-07-11,2026-12-05,Manual Review,Document expired – renewal required
+DOC0302B,CUST0302,Proof of Address,Verified,2026-01-28,2026-10-03,Tenancy Agreement,Address confirmation pending
+DOC0303A,CUST0303,Trade Licence,Pending,2025-12-25,2026-11-05,Manual Review,Additional evidence requested
+DOC0303B,CUST0303,Proof of Address,Verified,2026-04-18,2026-10-12,Tenancy Agreement,Proof of address verified
+DOC0304A,CUST0304,Passport,Verified,2025-05-17,2028-12-30,Digital Verification,Document expired – renewal required
+DOC0304B,CUST0304,Proof of Address,Verified,2026-01-16,2027-03-15,Bank Statement,Address confirmation pending
+DOC0305A,CUST0305,Trade Licence,Rejected,2025-05-07,2028-02-28,Digital Verification,Document details checked
+DOC0305B,CUST0305,Proof of Address,Verified,2026-03-19,2026-07-05,Bank Statement,Proof of address verified
+DOC0306A,CUST0306,Passport,Verified,2024-10-20,2029-02-06,Third-Party Check,Document details checked
+DOC0306B,CUST0306,Proof of Address,Pending,2026-05-05,2026-12-08,Utility Bill,Address matched
+DOC0307A,CUST0307,Trade Licence,Verified,2023-01-03,2026-08-01,Digital Verification,Additional evidence requested
+DOC0307B,CUST0307,Proof of Address,Expired,2026-06-26,2027-03-01,Utility Bill,Address confirmation pending
+DOC0308A,CUST0308,National ID,Verified,2022-11-03,2028-05-10,Digital Verification,Additional evidence requested
+DOC0308B,CUST0308,Proof of Address,Rejected,2026-04-27,2027-04-17,Tenancy Agreement,Proof of address verified
+DOC0309A,CUST0309,National ID,Verified,2026-02-11,2028-05-26,Third-Party Check,Name/address mismatch requires review
+DOC0309B,CUST0309,Proof of Address,Pending,2026-05-10,2027-04-24,Utility Bill,Address confirmation pending
+DOC0310A,CUST0310,National ID,Rejected,2024-01-10,2028-05-09,Manual Review,Document details checked
+DOC0310B,CUST0310,Proof of Address,Verified,2026-04-26,2027-03-30,Bank Statement,Proof of address verified
+DOC0311A,CUST0311,National ID,Verified,2023-03-27,2027-11-04,Third-Party Check,Document expired – renewal required
+DOC0311B,CUST0311,Proof of Address,Rejected,2026-04-22,2027-06-23,Bank Statement,Proof of address verified
+DOC0312A,CUST0312,National ID,Verified,2022-05-09,2026-05-07,Manual Review,Additional evidence requested
+DOC0312B,CUST0312,Proof of Address,Pending,2026-02-26,2027-04-24,Tenancy Agreement,Document rejected – resubmission required
+DOC0313A,CUST0313,Passport,Pending,2022-11-29,2030-03-22,Third-Party Check,Name/address mismatch requires review
+DOC0313B,CUST0313,Proof of Address,Verified,2026-04-22,2027-02-19,Tenancy Agreement,Proof of address verified
+DOC0314A,CUST0314,Passport,Verified,2024-11-19,2027-01-24,Third-Party Check,Name/address mismatch requires review
+DOC0314B,CUST0314,Proof of Address,Verified,2026-06-30,2026-10-21,Tenancy Agreement,Address matched
+DOC0315A,CUST0315,Passport,Verified,2024-08-30,2027-12-31,Manual Review,Additional evidence requested
+DOC0315B,CUST0315,Proof of Address,Pending,2026-01-29,2026-04-01,Bank Statement,Address matched
+DOC0316A,CUST0316,Passport,Verified,2025-03-07,2026-10-21,Digital Verification,Document expired – renewal required
+DOC0316B,CUST0316,Proof of Address,Verified,2026-05-03,2026-07-24,Bank Statement,Document rejected – resubmission required
+DOC0317A,CUST0317,Trade Licence,Verified,2022-09-24,2027-03-14,Digital Verification,Additional evidence requested
+DOC0317B,CUST0317,Proof of Address,Verified,2026-04-03,2027-03-24,Tenancy Agreement,Proof of address verified
+DOC0318A,CUST0318,National ID,Verified,2024-08-03,2027-03-21,Manual Review,Name/address mismatch requires review
+DOC0318B,CUST0318,Proof of Address,Pending,2026-03-10,2027-04-25,Utility Bill,Address confirmation pending
+DOC0319A,CUST0319,Trade Licence,Pending,2022-06-25,2030-04-02,Manual Review,Name/address mismatch requires review
+DOC0319B,CUST0319,Proof of Address,Pending,2026-02-05,2026-12-30,Utility Bill,Proof of address verified
+DOC0320A,CUST0320,Passport,Verified,2023-10-30,2027-01-11,Third-Party Check,Additional evidence requested
+DOC0320B,CUST0320,Proof of Address,Verified,2026-01-27,2026-10-08,Tenancy Agreement,Proof of address verified
+DOC0321A,CUST0321,Trade Licence,Verified,2025-04-13,2029-01-26,Third-Party Check,Additional evidence requested
+DOC0321B,CUST0321,Proof of Address,Verified,2026-01-14,2026-10-31,Bank Statement,Document rejected – resubmission required
+DOC0322A,CUST0322,Trade Licence,Verified,2023-02-23,2026-09-04,Digital Verification,Document details checked
+DOC0322B,CUST0322,Proof of Address,Pending,2026-06-09,2027-02-23,Tenancy Agreement,Address confirmation pending
+DOC0323A,CUST0323,Passport,Verified,2024-10-19,2029-06-29,Digital Verification,Additional evidence requested
+DOC0323B,CUST0323,Proof of Address,Verified,2026-03-02,2026-10-10,Tenancy Agreement,Address confirmation pending
+DOC0324A,CUST0324,Passport,Verified,2026-01-04,2030-01-08,Third-Party Check,Document expired – renewal required
+DOC0324B,CUST0324,Proof of Address,Verified,2026-08-08,2027-02-28,Tenancy Agreement,Address confirmation pending
+DOC0325A,CUST0325,Trade Licence,Verified,2025-11-27,2028-11-18,Third-Party Check,Additional evidence requested
+DOC0325B,CUST0325,Proof of Address,Verified,2026-06-22,2026-12-19,Utility Bill,Address confirmation pending
+DOC0326A,CUST0326,Trade Licence,Verified,2026-05-10,2026-12-19,Manual Review,Document details checked
+DOC0326B,CUST0326,Proof of Address,Verified,2026-05-28,2027-08-06,Tenancy Agreement,Document rejected – resubmission required
+DOC0327A,CUST0327,Passport,Rejected,2025-11-09,2029-03-17,Manual Review,Document expired – renewal required
+DOC0327B,CUST0327,Proof of Address,Verified,2025-08-03,2026-07-06,Bank Statement,Proof of address verified
+DOC0328A,CUST0328,Passport,Verified,2024-06-03,2028-08-10,Digital Verification,Document details checked
+DOC0328B,CUST0328,Proof of Address,Pending,2026-03-09,2026-12-13,Tenancy Agreement,Address confirmation pending
+DOC0329A,CUST0329,Passport,Rejected,2025-10-11,2028-05-04,Digital Verification,Document expired – renewal required
+DOC0329B,CUST0329,Proof of Address,Expired,2026-08-08,2027-03-14,Tenancy Agreement,Proof of address verified
+DOC0330A,CUST0330,Passport,Rejected,2024-10-08,2026-09-22,Manual Review,Document details checked
+DOC0330B,CUST0330,Proof of Address,Pending,2026-03-29,2027-05-24,Utility Bill,Address matched
+DOC0331A,CUST0331,Passport,Expired,2024-06-07,2027-02-27,Digital Verification,Name/address mismatch requires review
+DOC0331B,CUST0331,Proof of Address,Verified,2026-01-27,2027-02-06,Bank Statement,Address confirmation pending
+DOC0332A,CUST0332,Trade Licence,Verified,2025-01-25,2030-02-02,Third-Party Check,Document details checked
+DOC0332B,CUST0332,Proof of Address,Verified,2026-04-14,2027-03-05,Tenancy Agreement,Proof of address verified
+DOC0333A,CUST0333,Passport,Verified,2022-03-19,2027-09-24,Digital Verification,Additional evidence requested
+DOC0333B,CUST0333,Proof of Address,Verified,2025-11-13,2026-07-19,Bank Statement,Proof of address verified
+DOC0334A,CUST0334,Passport,Pending,2025-10-31,2026-08-14,Third-Party Check,Document expired – renewal required
+DOC0334B,CUST0334,Proof of Address,Verified,2025-10-16,2026-11-24,Utility Bill,Proof of address verified
+DOC0335A,CUST0335,Passport,Expired,2025-11-20,2029-02-22,Third-Party Check,Additional evidence requested
+DOC0335B,CUST0335,Proof of Address,Verified,2026-08-20,2027-07-22,Tenancy Agreement,Proof of address verified
+DOC0336A,CUST0336,Trade Licence,Verified,2023-12-08,2026-11-12,Third-Party Check,Document details checked
+DOC0336B,CUST0336,Proof of Address,Verified,2026-08-10,2027-01-01,Utility Bill,Address confirmation pending
+DOC0337A,CUST0337,Passport,Verified,2024-05-29,2026-03-09,Third-Party Check,Document expired – renewal required
+DOC0337B,CUST0337,Proof of Address,Pending,2025-09-17,2027-01-02,Bank Statement,Address confirmation pending
+DOC0338A,CUST0338,National ID,Verified,2024-08-17,2026-09-27,Third-Party Check,Name/address mismatch requires review
+DOC0338B,CUST0338,Proof of Address,Pending,2026-03-18,2027-02-12,Bank Statement,Document rejected – resubmission required
+DOC0339A,CUST0339,National ID,Verified,2024-01-24,2026-03-03,Third-Party Check,Additional evidence requested
+DOC0339B,CUST0339,Proof of Address,Verified,2026-03-20,2026-09-24,Utility Bill,Address matched
+DOC0340A,CUST0340,Trade Licence,Pending,2023-09-15,2026-10-26,Third-Party Check,Document expired – renewal required
+DOC0340B,CUST0340,Proof of Address,Verified,2026-01-14,2027-05-31,Bank Statement,Document rejected – resubmission required
+DOC0341A,CUST0341,Trade Licence,Verified,2022-07-21,2028-01-18,Third-Party Check,Additional evidence requested
+DOC0341B,CUST0341,Proof of Address,Verified,2025-09-28,2027-02-25,Bank Statement,Proof of address verified
+DOC0342A,CUST0342,Passport,Verified,2024-10-03,2029-04-19,Digital Verification,Document details checked
+DOC0342B,CUST0342,Proof of Address,Verified,2026-02-21,2027-03-27,Tenancy Agreement,Address confirmation pending
+DOC0343A,CUST0343,Passport,Verified,2026-03-29,2028-07-20,Manual Review,Document expired – renewal required
+DOC0343B,CUST0343,Proof of Address,Verified,2026-09-14,2027-06-01,Bank Statement,Proof of address verified
+DOC0344A,CUST0344,National ID,Verified,2026-05-25,2028-07-18,Manual Review,Name/address mismatch requires review
+DOC0344B,CUST0344,Proof of Address,Verified,2026-07-26,2027-04-19,Bank Statement,Address matched
+DOC0345A,CUST0345,National ID,Verified,2024-07-23,2028-11-02,Manual Review,Document expired – renewal required
+DOC0345B,CUST0345,Proof of Address,Verified,2026-08-10,2027-05-19,Tenancy Agreement,Proof of address verified
+DOC0346A,CUST0346,National ID,Verified,2022-02-21,2029-10-20,Manual Review,Document expired – renewal required
+DOC0346B,CUST0346,Proof of Address,Verified,2025-10-06,2026-10-30,Tenancy Agreement,Proof of address verified
+DOC0347A,CUST0347,Trade Licence,Verified,2025-01-28,2029-11-08,Third-Party Check,Additional evidence requested
+DOC0347B,CUST0347,Proof of Address,Verified,2025-11-02,2026-06-27,Utility Bill,Document rejected – resubmission required
+DOC0348A,CUST0348,Passport,Expired,2022-10-14,2027-03-12,Manual Review,Document details checked
+DOC0348B,CUST0348,Proof of Address,Verified,2026-01-20,2026-12-22,Tenancy Agreement,Document rejected – resubmission required
+DOC0349A,CUST0349,Trade Licence,Verified,2024-09-14,2027-07-13,Digital Verification,Name/address mismatch requires review
+DOC0349B,CUST0349,Proof of Address,Verified,2026-05-23,2027-07-09,Utility Bill,Proof of address verified
+DOC0350A,CUST0350,Passport,Verified,2025-12-05,2030-01-09,Third-Party Check,Document details checked
+DOC0350B,CUST0350,Proof of Address,Pending,2026-09-17,2027-08-24,Tenancy Agreement,Address confirmation pending
+DOC0351A,CUST0351,Passport,Verified,2024-01-23,2026-09-20,Digital Verification,Name/address mismatch requires review
+DOC0351B,CUST0351,Proof of Address,Verified,2026-03-21,2027-05-17,Utility Bill,Address confirmation pending
+DOC0352A,CUST0352,Trade Licence,Pending,2025-02-11,2027-08-19,Manual Review,Document details checked
+DOC0352B,CUST0352,Proof of Address,Verified,2026-08-10,2027-08-08,Utility Bill,Address matched
+DOC0353A,CUST0353,Passport,Verified,2022-06-28,2027-11-28,Third-Party Check,Document expired – renewal required
+DOC0353B,CUST0353,Proof of Address,Verified,2025-12-23,2026-05-28,Tenancy Agreement,Document rejected – resubmission required
+DOC0354A,CUST0354,Trade Licence,Pending,2024-10-14,2028-04-03,Manual Review,Document expired – renewal required
+DOC0354B,CUST0354,Proof of Address,Verified,2025-11-01,2026-05-23,Tenancy Agreement,Proof of address verified
+DOC0355A,CUST0355,Trade Licence,Pending,2025-02-13,2026-05-25,Manual Review,Document details checked
+DOC0355B,CUST0355,Proof of Address,Verified,2025-12-14,2026-09-05,Bank Statement,Proof of address verified
+DOC0356A,CUST0356,Passport,Verified,2025-05-21,2028-11-08,Third-Party Check,Document expired – renewal required
+DOC0356B,CUST0356,Proof of Address,Verified,2026-01-01,2026-06-05,Utility Bill,Proof of address verified
+DOC0357A,CUST0357,Passport,Verified,2024-04-15,2028-09-04,Manual Review,Document expired – renewal required
+DOC0357B,CUST0357,Proof of Address,Verified,2026-04-21,2027-03-31,Utility Bill,Proof of address verified
+DOC0358A,CUST0358,Trade Licence,Verified,2023-08-28,2026-09-18,Third-Party Check,Document expired – renewal required
+DOC0358B,CUST0358,Proof of Address,Verified,2025-09-06,2026-08-08,Bank Statement,Address matched
+DOC0359A,CUST0359,Passport,Pending,2024-09-25,2027-02-04,Manual Review,Name/address mismatch requires review
+DOC0359B,CUST0359,Proof of Address,Verified,2026-05-18,2027-02-26,Bank Statement,Proof of address verified
+DOC0360A,CUST0360,Trade Licence,Verified,2025-06-10,2030-06-12,Manual Review,Additional evidence requested
+DOC0360B,CUST0360,Proof of Address,Verified,2026-07-01,2026-11-02,Utility Bill,Address matched
+DOC0361A,CUST0361,Passport,Verified,2024-05-23,2030-06-15,Manual Review,Name/address mismatch requires review
+DOC0361B,CUST0361,Proof of Address,Pending,2026-04-30,2026-09-30,Tenancy Agreement,Address matched
+DOC0362A,CUST0362,National ID,Verified,2023-09-08,2029-08-16,Third-Party Check,Document details checked
+DOC0362B,CUST0362,Proof of Address,Pending,2026-01-20,2026-06-29,Utility Bill,Address matched
+DOC0363A,CUST0363,Passport,Verified,2025-02-28,2028-06-05,Third-Party Check,Document details checked
+DOC0363B,CUST0363,Proof of Address,Verified,2026-04-10,2027-01-22,Utility Bill,Address matched
+DOC0364A,CUST0364,Passport,Verified,2025-03-29,2029-08-10,Manual Review,Document expired – renewal required
+DOC0364B,CUST0364,Proof of Address,Verified,2026-05-17,2027-05-13,Utility Bill,Address matched
+DOC0365A,CUST0365,Passport,Rejected,2024-06-16,2028-06-07,Third-Party Check,Document details checked
+DOC0365B,CUST0365,Proof of Address,Verified,2026-01-16,2026-09-08,Utility Bill,Proof of address verified
+DOC0366A,CUST0366,Passport,Verified,2024-03-20,2027-08-01,Digital Verification,Name/address mismatch requires review
+DOC0366B,CUST0366,Proof of Address,Verified,2026-03-03,2026-10-28,Utility Bill,Address confirmation pending
+DOC0367A,CUST0367,National ID,Verified,2022-10-23,2027-11-30,Digital Verification,Document details checked
+DOC0367B,CUST0367,Proof of Address,Expired,2026-01-26,2026-06-15,Tenancy Agreement,Proof of address verified
+DOC0368A,CUST0368,National ID,Verified,2023-04-07,2028-06-16,Digital Verification,Document details checked
+DOC0368B,CUST0368,Proof of Address,Pending,2025-09-30,2027-03-02,Utility Bill,Address confirmation pending
+DOC0369A,CUST0369,Trade Licence,Verified,2025-10-20,2028-06-19,Digital Verification,Additional evidence requested
+DOC0369B,CUST0369,Proof of Address,Pending,2026-03-17,2027-01-12,Utility Bill,Document rejected – resubmission required
+DOC0370A,CUST0370,Passport,Verified,2022-08-14,2028-08-28,Digital Verification,Document expired – renewal required
+DOC0370B,CUST0370,Proof of Address,Verified,2026-02-01,2026-11-11,Utility Bill,Address confirmation pending
+DOC0371A,CUST0371,Trade Licence,Rejected,2022-08-29,2027-04-04,Third-Party Check,Name/address mismatch requires review
+DOC0371B,CUST0371,Proof of Address,Verified,2026-05-09,2027-06-26,Bank Statement,Address matched
+DOC0372A,CUST0372,National ID,Verified,2022-10-13,2029-06-10,Manual Review,Document details checked
+DOC0372B,CUST0372,Proof of Address,Verified,2026-04-17,2026-10-16,Bank Statement,Address confirmation pending
+DOC0373A,CUST0373,Trade Licence,Pending,2024-03-27,2029-05-23,Digital Verification,Document details checked
+DOC0373B,CUST0373,Proof of Address,Verified,2026-07-31,2027-06-06,Bank Statement,Document rejected – resubmission required
+DOC0374A,CUST0374,Trade Licence,Verified,2023-01-02,2026-06-14,Third-Party Check,Name/address mismatch requires review
+DOC0374B,CUST0374,Proof of Address,Verified,2025-10-14,2027-01-13,Utility Bill,Document rejected – resubmission required
+DOC0375A,CUST0375,National ID,Verified,2024-02-24,2030-01-30,Manual Review,Document details checked
+DOC0375B,CUST0375,Proof of Address,Pending,2026-04-06,2026-09-06,Utility Bill,Address matched
+DOC0376A,CUST0376,Passport,Expired,2023-07-17,2027-02-14,Manual Review,Additional evidence requested
+DOC0376B,CUST0376,Proof of Address,Verified,2025-09-19,2026-04-27,Tenancy Agreement,Proof of address verified
+DOC0377A,CUST0377,National ID,Verified,2025-08-20,2027-11-10,Third-Party Check,Additional evidence requested
+DOC0377B,CUST0377,Proof of Address,Verified,2026-07-21,2027-02-12,Tenancy Agreement,Address confirmation pending
+DOC0378A,CUST0378,National ID,Expired,2024-12-04,2028-02-12,Manual Review,Name/address mismatch requires review
+DOC0378B,CUST0378,Proof of Address,Pending,2026-02-26,2026-10-31,Utility Bill,Proof of address verified
+DOC0379A,CUST0379,Passport,Verified,2023-01-15,2029-12-15,Digital Verification,Document details checked
+DOC0379B,CUST0379,Proof of Address,Rejected,2025-11-28,2026-12-23,Utility Bill,Address matched
+DOC0380A,CUST0380,National ID,Pending,2024-02-24,2029-04-20,Digital Verification,Additional evidence requested
+DOC0380B,CUST0380,Proof of Address,Rejected,2026-07-01,2026-12-31,Utility Bill,Document rejected – resubmission required
+DOC0381A,CUST0381,Passport,Verified,2023-07-21,2026-11-04,Manual Review,Document expired – renewal required
+DOC0381B,CUST0381,Proof of Address,Pending,2025-09-27,2026-10-22,Bank Statement,Document rejected – resubmission required
+DOC0382A,CUST0382,National ID,Verified,2024-08-17,2028-11-30,Manual Review,Name/address mismatch requires review
+DOC0382B,CUST0382,Proof of Address,Verified,2025-10-24,2026-12-09,Utility Bill,Address confirmation pending
+DOC0383A,CUST0383,Trade Licence,Pending,2024-10-11,2029-10-04,Digital Verification,Additional evidence requested
+DOC0383B,CUST0383,Proof of Address,Verified,2026-04-15,2026-10-20,Bank Statement,Address matched
+DOC0384A,CUST0384,National ID,Verified,2023-09-25,2029-10-08,Manual Review,Name/address mismatch requires review
+DOC0384B,CUST0384,Proof of Address,Verified,2026-05-16,2027-04-20,Bank Statement,Address matched
+DOC0385A,CUST0385,National ID,Pending,2026-01-06,2027-10-01,Digital Verification,Name/address mismatch requires review
+DOC0385B,CUST0385,Proof of Address,Verified,2026-04-29,2026-11-02,Utility Bill,Proof of address verified
+DOC0386A,CUST0386,National ID,Verified,2022-08-14,2026-11-26,Digital Verification,Additional evidence requested
+DOC0386B,CUST0386,Proof of Address,Verified,2026-03-23,2027-09-04,Tenancy Agreement,Address confirmation pending
+DOC0387A,CUST0387,Passport,Verified,2024-08-15,2028-08-27,Digital Verification,Additional evidence requested
+DOC0387B,CUST0387,Proof of Address,Verified,2026-06-17,2027-02-01,Utility Bill,Document rejected – resubmission required
+DOC0388A,CUST0388,National ID,Verified,2025-05-25,2027-04-07,Digital Verification,Name/address mismatch requires review
+DOC0388B,CUST0388,Proof of Address,Verified,2026-04-23,2027-03-20,Utility Bill,Proof of address verified
+DOC0389A,CUST0389,Passport,Verified,2023-04-20,2027-11-08,Manual Review,Document details checked
+DOC0389B,CUST0389,Proof of Address,Verified,2026-03-26,2026-10-30,Bank Statement,Address confirmation pending
+DOC0390A,CUST0390,Trade Licence,Verified,2023-08-26,2030-04-20,Digital Verification,Additional evidence requested
+DOC0390B,CUST0390,Proof of Address,Pending,2026-04-14,2026-12-05,Tenancy Agreement,Address matched
+DOC0391A,CUST0391,Passport,Expired,2025-09-05,2025-11-11,Third-Party Check,Document expired – renewal required
+DOC0391B,CUST0391,Proof of Address,Rejected,2025-11-07,2026-10-30,Tenancy Agreement,Address confirmation pending
+DOC0392A,CUST0392,Trade Licence,Verified,2023-03-23,2026-05-27,Digital Verification,Document details checked
+DOC0392B,CUST0392,Proof of Address,Verified,2025-11-30,2026-09-04,Utility Bill,Address confirmation pending
+DOC0393A,CUST0393,National ID,Verified,2024-12-12,2027-08-02,Manual Review,Document expired – renewal required
+DOC0393B,CUST0393,Proof of Address,Verified,2026-05-02,2027-01-06,Bank Statement,Proof of address verified
+DOC0394A,CUST0394,Passport,Verified,2024-07-24,2029-04-22,Manual Review,Document details checked
+DOC0394B,CUST0394,Proof of Address,Expired,2025-11-19,2026-09-27,Utility Bill,Proof of address verified
+DOC0395A,CUST0395,Trade Licence,Verified,2022-12-15,2028-07-11,Digital Verification,Name/address mismatch requires review
+DOC0395B,CUST0395,Proof of Address,Verified,2026-07-15,2027-01-20,Bank Statement,Document rejected – resubmission required
+DOC0396A,CUST0396,Trade Licence,Verified,2024-10-23,2029-03-23,Third-Party Check,Document expired – renewal required
+DOC0396B,CUST0396,Proof of Address,Verified,2026-04-27,2027-03-24,Bank Statement,Proof of address verified
+DOC0397A,CUST0397,National ID,Verified,2025-12-07,2028-09-24,Third-Party Check,Document details checked
+DOC0397B,CUST0397,Proof of Address,Verified,2026-05-24,2027-07-12,Bank Statement,Address matched
+DOC0398A,CUST0398,Passport,Verified,2022-03-17,2029-06-01,Manual Review,Document expired – renewal required
+DOC0398B,CUST0398,Proof of Address,Verified,2025-08-20,2026-08-05,Tenancy Agreement,Address matched
+DOC0399A,CUST0399,Passport,Verified,2023-06-24,2027-11-02,Third-Party Check,Name/address mismatch requires review
+DOC0399B,CUST0399,Proof of Address,Verified,2026-02-28,2027-07-27,Utility Bill,Proof of address verified
+DOC0400A,CUST0400,National ID,Verified,2025-10-12,2026-08-08,Digital Verification,Name/address mismatch requires review
+DOC0400B,CUST0400,Proof of Address,Verified,2026-08-10,2027-07-25,Bank Statement,Address matched
+DOC0401A,CUST0401,Trade Licence,Verified,2025-10-09,2028-06-05,Third-Party Check,Document expired – renewal required
+DOC0401B,CUST0401,Proof of Address,Verified,2026-05-19,2026-12-24,Bank Statement,Document rejected – resubmission required
+DOC0402A,CUST0402,Passport,Verified,2026-03-14,2030-04-21,Manual Review,Name/address mismatch requires review
+DOC0402B,CUST0402,Proof of Address,Verified,2026-05-06,2027-07-27,Bank Statement,Address confirmation pending
+DOC0403A,CUST0403,National ID,Verified,2023-11-27,2026-08-08,Third-Party Check,Additional evidence requested
+DOC0403B,CUST0403,Proof of Address,Verified,2025-12-18,2026-07-16,Bank Statement,Proof of address verified
+DOC0404A,CUST0404,Trade Licence,Verified,2022-05-14,2028-10-05,Digital Verification,Additional evidence requested
+DOC0404B,CUST0404,Proof of Address,Expired,2025-11-25,2026-12-06,Bank Statement,Document rejected – resubmission required
+DOC0405A,CUST0405,National ID,Pending,2025-11-11,2026-12-18,Digital Verification,Document details checked
+DOC0405B,CUST0405,Proof of Address,Verified,2025-12-13,2027-03-19,Utility Bill,Document rejected – resubmission required
+DOC0406A,CUST0406,Trade Licence,Verified,2022-08-01,2029-10-11,Manual Review,Document expired – renewal required
+DOC0406B,CUST0406,Proof of Address,Verified,2026-01-12,2026-10-01,Tenancy Agreement,Address matched
+DOC0407A,CUST0407,Trade Licence,Verified,2026-02-19,2029-03-03,Digital Verification,Document details checked
+DOC0407B,CUST0407,Proof of Address,Pending,2026-01-17,2026-12-06,Tenancy Agreement,Address confirmation pending
+DOC0408A,CUST0408,Passport,Verified,2024-11-04,2026-05-25,Manual Review,Document details checked
+DOC0408B,CUST0408,Proof of Address,Verified,2026-03-27,2027-01-08,Utility Bill,Document rejected – resubmission required
+DOC0409A,CUST0409,Trade Licence,Verified,2025-03-30,2029-05-26,Digital Verification,Document expired – renewal required
+DOC0409B,CUST0409,Proof of Address,Verified,2026-03-16,2027-07-15,Tenancy Agreement,Address matched
+DOC0410A,CUST0410,Passport,Pending,2024-08-08,2027-07-06,Third-Party Check,Name/address mismatch requires review
+DOC0410B,CUST0410,Proof of Address,Verified,2025-12-27,2026-05-26,Utility Bill,Document rejected – resubmission required
+DOC0411A,CUST0411,Passport,Verified,2024-10-07,2030-08-01,Third-Party Check,Name/address mismatch requires review
+DOC0411B,CUST0411,Proof of Address,Verified,2026-06-17,2026-12-03,Utility Bill,Proof of address verified
+DOC0412A,CUST0412,National ID,Expired,2023-01-19,2028-04-19,Manual Review,Document expired – renewal required
+DOC0412B,CUST0412,Proof of Address,Verified,2026-01-29,2026-10-16,Tenancy Agreement,Document rejected – resubmission required
+DOC0413A,CUST0413,National ID,Verified,2026-01-23,2028-09-22,Manual Review,Document expired – renewal required
+DOC0413B,CUST0413,Proof of Address,Verified,2026-04-23,2026-12-12,Bank Statement,Address confirmation pending
+DOC0414A,CUST0414,National ID,Verified,2023-09-01,2030-07-23,Manual Review,Additional evidence requested
+DOC0414B,CUST0414,Proof of Address,Verified,2026-07-13,2027-01-04,Utility Bill,Proof of address verified
+DOC0415A,CUST0415,Passport,Verified,2025-06-24,2028-04-11,Manual Review,Document expired – renewal required
+DOC0415B,CUST0415,Proof of Address,Pending,2026-05-09,2027-05-15,Utility Bill,Address matched
+DOC0416A,CUST0416,National ID,Pending,2022-07-15,2029-01-03,Third-Party Check,Name/address mismatch requires review
+DOC0416B,CUST0416,Proof of Address,Verified,2026-02-02,2026-10-09,Utility Bill,Document rejected – resubmission required
+DOC0417A,CUST0417,Trade Licence,Pending,2025-09-17,2029-04-06,Manual Review,Name/address mismatch requires review
+DOC0417B,CUST0417,Proof of Address,Rejected,2026-01-08,2027-05-25,Tenancy Agreement,Address confirmation pending
+DOC0418A,CUST0418,National ID,Verified,2025-08-10,2026-09-18,Manual Review,Name/address mismatch requires review
+DOC0418B,CUST0418,Proof of Address,Rejected,2026-03-27,2026-07-27,Utility Bill,Address confirmation pending
+DOC0419A,CUST0419,Trade Licence,Verified,2023-08-18,2027-07-12,Digital Verification,Additional evidence requested
+DOC0419B,CUST0419,Proof of Address,Pending,2026-01-09,2027-01-22,Tenancy Agreement,Address matched
+DOC0420A,CUST0420,National ID,Pending,2024-08-23,2027-11-21,Digital Verification,Document expired – renewal required
+DOC0420B,CUST0420,Proof of Address,Verified,2026-03-14,2026-08-10,Utility Bill,Address confirmation pending
+DOC0421A,CUST0421,Trade Licence,Verified,2025-05-03,2026-04-09,Third-Party Check,Document details checked
+DOC0421B,CUST0421,Proof of Address,Rejected,2025-12-25,2027-03-14,Utility Bill,Address matched
+DOC0422A,CUST0422,Trade Licence,Verified,2025-06-08,2027-11-27,Manual Review,Additional evidence requested
+DOC0422B,CUST0422,Proof of Address,Verified,2026-02-11,2026-09-16,Utility Bill,Document rejected – resubmission required
+DOC0423A,CUST0423,Passport,Rejected,2022-12-04,2027-08-19,Digital Verification,Name/address mismatch requires review
+DOC0423B,CUST0423,Proof of Address,Pending,2026-09-04,2027-07-18,Utility Bill,Proof of address verified
+DOC0424A,CUST0424,National ID,Verified,2023-07-14,2030-01-09,Manual Review,Document expired – renewal required
+DOC0424B,CUST0424,Proof of Address,Verified,2026-06-04,2027-01-29,Tenancy Agreement,Proof of address verified
+DOC0425A,CUST0425,Passport,Expired,2023-05-16,2028-08-28,Third-Party Check,Name/address mismatch requires review
+DOC0425B,CUST0425,Proof of Address,Verified,2025-09-06,2026-07-29,Utility Bill,Document rejected – resubmission required
+DOC0426A,CUST0426,National ID,Pending,2023-09-12,2027-01-26,Third-Party Check,Additional evidence requested
+DOC0426B,CUST0426,Proof of Address,Verified,2025-09-12,2026-06-12,Tenancy Agreement,Address matched
+DOC0427A,CUST0427,Trade Licence,Pending,2024-06-23,2030-07-22,Manual Review,Document expired – renewal required
+DOC0427B,CUST0427,Proof of Address,Verified,2026-08-30,2027-05-20,Bank Statement,Proof of address verified
+DOC0428A,CUST0428,National ID,Verified,2022-09-01,2028-06-03,Manual Review,Document expired – renewal required
+DOC0428B,CUST0428,Proof of Address,Verified,2026-05-13,2026-08-12,Utility Bill,Proof of address verified
+DOC0429A,CUST0429,Passport,Verified,2025-04-25,2028-09-03,Third-Party Check,Document expired – renewal required
+DOC0429B,CUST0429,Proof of Address,Pending,2026-04-21,2027-02-14,Tenancy Agreement,Address confirmation pending
+DOC0430A,CUST0430,Passport,Pending,2023-04-29,2029-03-26,Manual Review,Document details checked
+DOC0430B,CUST0430,Proof of Address,Verified,2026-01-19,2026-10-19,Tenancy Agreement,Proof of address verified
+DOC0431A,CUST0431,Passport,Verified,2024-02-14,2028-05-06,Third-Party Check,Name/address mismatch requires review
+DOC0431B,CUST0431,Proof of Address,Pending,2025-08-24,2026-11-13,Tenancy Agreement,Address matched
+DOC0432A,CUST0432,Trade Licence,Verified,2024-03-03,2028-08-02,Manual Review,Document expired – renewal required
+DOC0432B,CUST0432,Proof of Address,Pending,2026-07-06,2027-04-15,Bank Statement,Document rejected – resubmission required
+DOC0433A,CUST0433,National ID,Expired,2026-07-11,2028-03-12,Digital Verification,Additional evidence requested
+DOC0433B,CUST0433,Proof of Address,Verified,2026-07-22,2027-05-27,Utility Bill,Address matched
+DOC0434A,CUST0434,National ID,Verified,2024-03-05,2029-07-27,Digital Verification,Document expired – renewal required
+DOC0434B,CUST0434,Proof of Address,Verified,2025-12-03,2027-02-27,Tenancy Agreement,Address confirmation pending
+DOC0435A,CUST0435,Trade Licence,Verified,2025-06-26,2026-12-11,Manual Review,Name/address mismatch requires review
+DOC0435B,CUST0435,Proof of Address,Pending,2026-05-21,2026-12-03,Utility Bill,Address matched
+DOC0436A,CUST0436,Passport,Pending,2024-03-14,2029-08-17,Digital Verification,Name/address mismatch requires review
+DOC0436B,CUST0436,Proof of Address,Pending,2026-03-31,2027-03-02,Tenancy Agreement,Address matched
+DOC0437A,CUST0437,Passport,Verified,2026-02-26,2029-04-22,Digital Verification,Document expired – renewal required
+DOC0437B,CUST0437,Proof of Address,Verified,2026-03-14,2026-11-12,Bank Statement,Address matched
+DOC0438A,CUST0438,Trade Licence,Verified,2025-12-31,2026-08-18,Digital Verification,Document details checked
+DOC0438B,CUST0438,Proof of Address,Expired,2026-03-26,2026-12-16,Tenancy Agreement,Address confirmation pending
+DOC0439A,CUST0439,National ID,Verified,2022-08-15,2029-12-14,Manual Review,Document details checked
+DOC0439B,CUST0439,Proof of Address,Pending,2026-04-23,2027-03-25,Utility Bill,Document rejected – resubmission required
+DOC0440A,CUST0440,Trade Licence,Verified,2026-03-26,2027-08-04,Digital Verification,Document details checked
+DOC0440B,CUST0440,Proof of Address,Verified,2026-09-04,2026-11-22,Utility Bill,Document rejected – resubmission required
+DOC0441A,CUST0441,Passport,Pending,2024-10-16,2027-04-10,Manual Review,Document expired – renewal required
+DOC0441B,CUST0441,Proof of Address,Verified,2026-03-21,2027-02-06,Bank Statement,Address matched
+DOC0442A,CUST0442,Trade Licence,Rejected,2025-03-18,2027-01-22,Third-Party Check,Additional evidence requested
+DOC0442B,CUST0442,Proof of Address,Verified,2026-08-13,2027-03-09,Bank Statement,Document rejected – resubmission required
+DOC0443A,CUST0443,Passport,Verified,2024-05-31,2027-12-22,Manual Review,Name/address mismatch requires review
+DOC0443B,CUST0443,Proof of Address,Verified,2026-02-13,2026-11-05,Utility Bill,Proof of address verified
+DOC0444A,CUST0444,Passport,Verified,2025-04-30,2028-12-13,Manual Review,Document expired – renewal required
+DOC0444B,CUST0444,Proof of Address,Verified,2025-11-28,2027-02-22,Utility Bill,Address confirmation pending
+DOC0445A,CUST0445,Trade Licence,Verified,2024-10-15,2026-11-10,Third-Party Check,Document expired – renewal required
+DOC0445B,CUST0445,Proof of Address,Verified,2026-03-28,2026-12-29,Utility Bill,Document rejected – resubmission required
+DOC0446A,CUST0446,National ID,Verified,2023-09-28,2030-01-25,Third-Party Check,Document details checked
+DOC0446B,CUST0446,Proof of Address,Verified,2026-05-28,2027-06-30,Utility Bill,Address confirmation pending
+DOC0447A,CUST0447,National ID,Verified,2022-04-07,2028-07-30,Manual Review,Document expired – renewal required
+DOC0447B,CUST0447,Proof of Address,Verified,2025-11-01,2026-06-18,Utility Bill,Proof of address verified
+DOC0448A,CUST0448,National ID,Verified,2025-02-08,2030-07-20,Third-Party Check,Document details checked
+DOC0448B,CUST0448,Proof of Address,Verified,2026-03-19,2027-05-08,Tenancy Agreement,Document rejected – resubmission required
+DOC0449A,CUST0449,National ID,Verified,2023-09-14,2028-03-04,Manual Review,Document expired – renewal required
+DOC0449B,CUST0449,Proof of Address,Verified,2026-03-09,2027-01-15,Bank Statement,Document rejected – resubmission required
+DOC0450A,CUST0450,Trade Licence,Verified,2023-09-16,2028-09-21,Digital Verification,Document expired – renewal required
+DOC0450B,CUST0450,Proof of Address,Pending,2026-03-26,2027-07-03,Utility Bill,Proof of address verified
+DOC0451A,CUST0451,Passport,Verified,2023-11-30,2026-10-30,Manual Review,Document expired – renewal required
+DOC0451B,CUST0451,Proof of Address,Pending,2026-03-18,2027-05-15,Tenancy Agreement,Address confirmation pending
+DOC0452A,CUST0452,National ID,Verified,2022-06-28,2026-09-25,Digital Verification,Document expired – renewal required
+DOC0452B,CUST0452,Proof of Address,Verified,2025-12-05,2027-03-05,Tenancy Agreement,Document rejected – resubmission required
+DOC0453A,CUST0453,National ID,Verified,2023-10-16,2027-08-08,Third-Party Check,Additional evidence requested
+DOC0453B,CUST0453,Proof of Address,Verified,2026-03-12,2027-04-18,Bank Statement,Proof of address verified
+DOC0454A,CUST0454,National ID,Verified,2022-11-04,2029-12-19,Digital Verification,Additional evidence requested
+DOC0454B,CUST0454,Proof of Address,Verified,2025-10-11,2026-11-17,Utility Bill,Proof of address verified
+DOC0455A,CUST0455,Passport,Pending,2022-12-19,2030-05-17,Third-Party Check,Document expired – renewal required
+DOC0455B,CUST0455,Proof of Address,Expired,2026-06-02,2027-08-09,Tenancy Agreement,Proof of address verified
+DOC0456A,CUST0456,National ID,Verified,2024-04-08,2027-06-18,Third-Party Check,Document details checked
+DOC0456B,CUST0456,Proof of Address,Verified,2026-03-20,2027-01-17,Utility Bill,Address matched
+DOC0457A,CUST0457,National ID,Verified,2022-06-21,2027-06-03,Digital Verification,Additional evidence requested
+DOC0457B,CUST0457,Proof of Address,Verified,2026-05-04,2026-09-20,Utility Bill,Address confirmation pending
+DOC0458A,CUST0458,National ID,Pending,2025-11-13,2028-06-08,Digital Verification,Document details checked
+DOC0458B,CUST0458,Proof of Address,Pending,2025-12-01,2027-05-02,Tenancy Agreement,Address matched
+DOC0459A,CUST0459,Passport,Verified,2025-08-03,2028-06-04,Digital Verification,Document expired – renewal required
+DOC0459B,CUST0459,Proof of Address,Rejected,2026-07-08,2027-01-15,Bank Statement,Address confirmation pending
+DOC0460A,CUST0460,Passport,Verified,2025-01-16,2028-03-12,Third-Party Check,Document expired – renewal required
+DOC0460B,CUST0460,Proof of Address,Verified,2026-02-27,2026-11-16,Tenancy Agreement,Address confirmation pending
+DOC0461A,CUST0461,National ID,Verified,2023-05-22,2030-04-02,Third-Party Check,Name/address mismatch requires review
+DOC0461B,CUST0461,Proof of Address,Pending,2025-12-25,2027-04-08,Utility Bill,Document rejected – resubmission required
+DOC0462A,CUST0462,Trade Licence,Verified,2025-05-05,2029-06-28,Manual Review,Document expired – renewal required
+DOC0462B,CUST0462,Proof of Address,Verified,2025-09-28,2026-10-26,Tenancy Agreement,Address matched
+DOC0463A,CUST0463,Trade Licence,Verified,2025-08-25,2030-05-17,Third-Party Check,Additional evidence requested
+DOC0463B,CUST0463,Proof of Address,Verified,2026-08-05,2027-06-23,Utility Bill,Address matched
+DOC0464A,CUST0464,Passport,Verified,2024-01-20,2027-03-22,Digital Verification,Document details checked
+DOC0464B,CUST0464,Proof of Address,Verified,2026-06-25,2027-03-05,Utility Bill,Address confirmation pending
+DOC0465A,CUST0465,National ID,Verified,2023-09-19,2029-02-06,Third-Party Check,Document expired – renewal required
+DOC0465B,CUST0465,Proof of Address,Pending,2026-03-09,2027-02-21,Bank Statement,Address confirmation pending
+DOC0466A,CUST0466,Trade Licence,Verified,2022-10-06,2029-06-20,Manual Review,Additional evidence requested
+DOC0466B,CUST0466,Proof of Address,Rejected,2026-08-14,2027-02-06,Utility Bill,Document rejected – resubmission required
+DOC0467A,CUST0467,National ID,Verified,2024-08-18,2027-04-04,Digital Verification,Name/address mismatch requires review
+DOC0467B,CUST0467,Proof of Address,Pending,2026-01-03,2026-10-27,Utility Bill,Document rejected – resubmission required
+DOC0468A,CUST0468,National ID,Verified,2024-01-09,2026-01-30,Digital Verification,Name/address mismatch requires review
+DOC0468B,CUST0468,Proof of Address,Verified,2025-12-05,2026-09-25,Tenancy Agreement,Address confirmation pending
+DOC0469A,CUST0469,Trade Licence,Verified,2024-07-18,2027-11-06,Third-Party Check,Document expired – renewal required
+DOC0469B,CUST0469,Proof of Address,Expired,2026-03-28,2027-01-10,Utility Bill,Proof of address verified
+DOC0470A,CUST0470,Passport,Verified,2022-05-05,2030-01-31,Third-Party Check,Document expired – renewal required
+DOC0470B,CUST0470,Proof of Address,Verified,2026-02-02,2027-01-19,Tenancy Agreement,Address confirmation pending
+DOC0471A,CUST0471,Passport,Verified,2023-04-29,2028-10-12,Manual Review,Document expired – renewal required
+DOC0471B,CUST0471,Proof of Address,Rejected,2026-03-14,2027-05-07,Bank Statement,Document rejected – resubmission required
+DOC0472A,CUST0472,National ID,Pending,2025-10-11,2027-01-15,Third-Party Check,Document expired – renewal required
+DOC0472B,CUST0472,Proof of Address,Verified,2025-12-12,2027-02-02,Tenancy Agreement,Proof of address verified
+DOC0473A,CUST0473,Passport,Verified,2025-07-19,2027-05-15,Digital Verification,Additional evidence requested
+DOC0473B,CUST0473,Proof of Address,Pending,2026-05-22,2026-07-30,Tenancy Agreement,Address matched
+DOC0474A,CUST0474,National ID,Verified,2025-01-20,2028-03-11,Manual Review,Name/address mismatch requires review
+DOC0474B,CUST0474,Proof of Address,Expired,2025-12-30,2026-12-12,Utility Bill,Address confirmation pending
+DOC0475A,CUST0475,Trade Licence,Verified,2025-09-26,2028-10-04,Manual Review,Document details checked
+DOC0475B,CUST0475,Proof of Address,Verified,2026-03-06,2027-02-12,Bank Statement,Address matched
+DOC0476A,CUST0476,Passport,Verified,2023-05-25,2027-01-04,Manual Review,Name/address mismatch requires review
+DOC0476B,CUST0476,Proof of Address,Verified,2026-05-11,2026-07-21,Tenancy Agreement,Address confirmation pending
+DOC0477A,CUST0477,National ID,Pending,2022-08-03,2027-09-16,Manual Review,Document details checked
+DOC0477B,CUST0477,Proof of Address,Verified,2025-12-03,2026-04-11,Bank Statement,Address matched
+DOC0478A,CUST0478,Trade Licence,Verified,2022-12-08,2026-05-06,Digital Verification,Name/address mismatch requires review
+DOC0478B,CUST0478,Proof of Address,Verified,2026-04-04,2027-01-11,Utility Bill,Document rejected – resubmission required
+DOC0479A,CUST0479,Passport,Verified,2024-12-19,2027-06-23,Manual Review,Document expired – renewal required
+DOC0479B,CUST0479,Proof of Address,Verified,2026-01-31,2027-01-17,Tenancy Agreement,Document rejected – resubmission required
+DOC0480A,CUST0480,National ID,Verified,2023-05-30,2027-11-19,Manual Review,Name/address mismatch requires review
+DOC0480B,CUST0480,Proof of Address,Verified,2025-11-19,2026-08-01,Bank Statement,Document rejected – resubmission required
+DOC0481A,CUST0481,National ID,Verified,2024-03-02,2029-12-29,Manual Review,Additional evidence requested
+DOC0481B,CUST0481,Proof of Address,Pending,2026-07-28,2027-01-15,Bank Statement,Address matched
+DOC0482A,CUST0482,National ID,Verified,2023-09-09,2029-11-02,Manual Review,Document details checked
+DOC0482B,CUST0482,Proof of Address,Pending,2026-05-05,2027-04-22,Tenancy Agreement,Address confirmation pending
+DOC0483A,CUST0483,National ID,Verified,2024-05-25,2026-10-19,Third-Party Check,Document expired – renewal required
+DOC0483B,CUST0483,Proof of Address,Rejected,2026-04-13,2026-06-21,Bank Statement,Document rejected – resubmission required
+DOC0484A,CUST0484,Trade Licence,Verified,2022-11-28,2029-10-17,Manual Review,Additional evidence requested
+DOC0484B,CUST0484,Proof of Address,Verified,2025-12-17,2026-07-21,Tenancy Agreement,Document rejected – resubmission required
+DOC0485A,CUST0485,National ID,Verified,2025-12-03,2029-11-26,Digital Verification,Name/address mismatch requires review
+DOC0485B,CUST0485,Proof of Address,Verified,2026-03-24,2026-12-15,Tenancy Agreement,Proof of address verified
+DOC0486A,CUST0486,National ID,Pending,2025-02-11,2029-12-13,Third-Party Check,Document expired – renewal required
+DOC0486B,CUST0486,Proof of Address,Verified,2026-04-24,2027-01-15,Bank Statement,Address matched
+DOC0487A,CUST0487,Trade Licence,Expired,2026-03-07,2027-03-16,Manual Review,Document expired – renewal required
+DOC0487B,CUST0487,Proof of Address,Pending,2026-05-21,2027-09-21,Bank Statement,Proof of address verified
+DOC0488A,CUST0488,Passport,Pending,2023-05-25,2027-03-19,Digital Verification,Document expired – renewal required
+DOC0488B,CUST0488,Proof of Address,Verified,2025-10-15,2026-06-20,Bank Statement,Proof of address verified
+DOC0489A,CUST0489,National ID,Verified,2026-01-19,2030-07-02,Manual Review,Name/address mismatch requires review
+DOC0489B,CUST0489,Proof of Address,Verified,2026-06-24,2027-08-27,Bank Statement,Address confirmation pending
+DOC0490A,CUST0490,Passport,Verified,2025-07-08,2026-12-27,Manual Review,Name/address mismatch requires review
+DOC0490B,CUST0490,Proof of Address,Verified,2026-07-11,2026-12-30,Tenancy Agreement,Document rejected – resubmission required
+DOC0491A,CUST0491,Trade Licence,Verified,2025-04-24,2027-10-01,Manual Review,Name/address mismatch requires review
+DOC0491B,CUST0491,Proof of Address,Verified,2026-03-02,2027-01-02,Utility Bill,Address matched
+DOC0492A,CUST0492,Passport,Verified,2024-12-06,2029-08-03,Digital Verification,Document details checked
+DOC0492B,CUST0492,Proof of Address,Verified,2026-04-27,2027-01-28,Bank Statement,Address confirmation pending
+DOC0493A,CUST0493,Trade Licence,Verified,2023-10-15,2026-06-06,Manual Review,Document details checked
+DOC0493B,CUST0493,Proof of Address,Pending,2025-12-02,2027-01-09,Tenancy Agreement,Address matched
+DOC0494A,CUST0494,National ID,Verified,2024-04-03,2027-03-31,Third-Party Check,Name/address mismatch requires review
+DOC0494B,CUST0494,Proof of Address,Verified,2026-02-01,2027-01-10,Tenancy Agreement,Document rejected – resubmission required
+DOC0495A,CUST0495,National ID,Verified,2022-12-14,2029-12-07,Third-Party Check,Name/address mismatch requires review
+DOC0495B,CUST0495,Proof of Address,Verified,2025-12-18,2026-11-13,Tenancy Agreement,Proof of address verified
+DOC0496A,CUST0496,Trade Licence,Verified,2026-01-26,2029-05-14,Manual Review,Document expired – renewal required
+DOC0496B,CUST0496,Proof of Address,Verified,2026-06-04,2026-10-23,Utility Bill,Address matched
+DOC0497A,CUST0497,Trade Licence,Verified,2025-03-25,2028-11-26,Manual Review,Name/address mismatch requires review
+DOC0497B,CUST0497,Proof of Address,Verified,2026-04-14,2027-04-05,Utility Bill,Address matched
+DOC0498A,CUST0498,National ID,Verified,2025-08-07,2027-07-27,Digital Verification,Additional evidence requested
+DOC0498B,CUST0498,Proof of Address,Verified,2026-03-10,2026-08-12,Bank Statement,Address matched
+DOC0499A,CUST0499,National ID,Verified,2025-08-12,2027-11-01,Third-Party Check,Name/address mismatch requires review
+DOC0499B,CUST0499,Proof of Address,Verified,2025-11-06,2026-11-27,Bank Statement,Proof of address verified
+DOC0500A,CUST0500,National ID,Verified,2023-06-30,2029-02-12,Manual Review,Document expired – renewal required
+DOC0500B,CUST0500,Proof of Address,Verified,2025-12-12,2026-07-27,Utility Bill,Address matched

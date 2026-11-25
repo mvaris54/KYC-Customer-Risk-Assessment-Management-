@@ -1,0 +1,5 @@
+Sheet_Name,Grain,Key_Columns,Description
+Customers,One row per fictional customer,customer_id,"500 customer records; profile, geography, occupation, source of funds, PEP and sanctions status."
+KYC_Documents,Two document records per customer,document_record_id; customer_id,"Identity and proof-of-address verification status, dates, method and review notes."
+Screening,One screening record per customer,screening_id; customer_id,"Illustrative PEP, sanctions and adverse-media screening outcomes."
+Risk_Assessment,One illustrative risk score per customer,customer_id,Transparent demo points and Low/Medium/High category; not an official regulatory model.
